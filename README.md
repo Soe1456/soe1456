@@ -11,3 +11,4 @@
 "url":"https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w1306517951.m3u8",
 "playInNatPlayer": "true"
 },
+]
