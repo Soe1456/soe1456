@@ -276,8 +276,8 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrTiJdrgba2la-hTSP0ai7sIcoPaT_7WnDA&usqp=CAU",  PURSUIT
 https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, group-title="สารคดี" tvg-logo="https://www.thematv.tv/images/news/love-nature-4k.png", LOVE NATURE 4K
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.thematv.tv/images/news/love-nature-4k.png", LOVE NATURE 4K
 http://103.47.132.165/PLTV/88888888/224/3221227339/3.m3u8
-#EXTINF:-1, group-title="สารคดี" tvg-logo="https://www.thematv.tv/images/news/love-nature-4k.png", LOVE NATURE
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.thematv.tv/images/news/love-nature-4k.png", LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
