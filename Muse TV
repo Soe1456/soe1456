@@ -9,7 +9,7 @@
 http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOz2Wf1LTkX_nf0l4stcLW8FltuAc_RpILQ&usqp=CAU",  NBT
-http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
 http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
