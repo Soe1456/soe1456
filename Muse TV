@@ -59,6 +59,9 @@ http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
 #EXTINF:-1 group-title="กีฬา​" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png", True​ Premie​ 1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png", True​ Premie​ 1
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="กีฬา​" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd2.png", True​ Premie​ 2
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 
