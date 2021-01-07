@@ -264,10 +264,10 @@ http://160.119.77.116:8081/iptv/hd-history2.stream/playlist.m3u8
 #EXTINF:-1 group-title="สารคดี​" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3205342_ico.png?ts=1606378484",  BBC​ EARTH
 https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-4Lz4HzoP7RPbzwDAtUzUxlT_Sx-mh6ixA&usqp=CAU", BBC EARTH BACKUP
+#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-4Lz4HzoP7RPbzwDAtUzUxlT_Sx-mh6ixA&usqp=CAU", BBC EARTH BACKUP
 https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ly5QnyLhHcU8Bfqq4HTNZaNI8EyA_MfSGA&usqp=CAU", LOVE NATURE
+#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ly5QnyLhHcU8Bfqq4HTNZaNI8EyA_MfSGA&usqp=CAU", LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsoLQWTzK3LbIOE4HEvTZqeXGYgvCYGmn7nA&usqp=CAU",  NATIONAL
