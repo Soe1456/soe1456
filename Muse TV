@@ -101,7 +101,7 @@ https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnT-SObOVaDc7hP7CtUhgL1u6FGwgszqUzJQ&usqp=CAU", True Tennis HD
 https://doofootball.livestream-cdn.com/iptv/hd-tennis.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNeoiojxI2gbNwXGNUEDZaeXMD__r84vdzg&usqp=CAU", Tennis Channel plus
+#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://static1.mysiteserver.net/Images/atmc/site/images/cutting-cord/streaming-service-logos/tennis.png", Tennis Channel plus
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 #EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlJpg6u7rYTqL3YskciBzHFW5yimb2MnbrQ&usqp=CAU", Tennis Channel
