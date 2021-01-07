@@ -21,7 +21,7 @@ https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
 http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD-DzL03WuWqa9Ey6FeOWwEfqUbKA2rKB5g&usqp=CAU", True​4U​
-http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
+http://183.182.100.184/live/true4u/chunklist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD2YsMdLV1KHwNkmd_R3Gwabbjri8s8yN7g&usqp=CAU", GMM​ 25
 http://183.182.100.184/live/mcothd/playlist.m3u8
