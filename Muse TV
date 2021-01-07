@@ -105,7 +105,7 @@ http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU", BEIN​ SPORT​ 1
-http://160.119.77.116:8081/iptv/epl-bein1.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp5PkqEXlD_IdlVRrOkGe-WLH8WAomuI4oQ&usqp=CAU", BEIN​ SPORT​S​ 2
 http://160.119.77.116:8081/iptv/epl-bein2.stream/playlist.m3u8
