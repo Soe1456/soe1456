@@ -195,7 +195,7 @@ http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 #EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnV5ny03K2WbuzZj57TkHVLHXPnYEBVFr3DA&usqp=CAU", AXN HD
 https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu87cT263QG07xRnqQ5BYGn08mPdsDTUi18w&usqp=CAU", &Flix hd
+#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJHlIMV-5avD6si8KFJc3dWBAuxKU-FONYw&usqp=CAU", &Flix hd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwNiBy3f3Ns8DFnyAIn_hab74Y2vQPH02taw&usqp=CAU", &Prive HD
