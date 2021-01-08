@@ -1103,9 +1103,9 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 *********
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-1HD" tvg-logo="https://www.up-00.com/i/00195/ze7jd7fvsalp.png" group-title="قنوات الرياضة",beIN-Sports-1HD
-http://alghanem1.dyndns.tv:8000/majd/1234/2
+https://doofootball.livestream-cdn.com/iptv/hd-bein1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-2HD" tvg-logo="https://www.up-00.com/i/00195/9adk9bli9uev.png" group-title="قنوات الرياضة",beIN-Sports-2HD
-http://alghanem1.dyndns.tv:8000/majd/1234/3
+https://doofootball.livestream-cdn.com/iptv/hd-bein2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-3HD" tvg-logo="https://www.up-00.com/i/00195/ep9mxasblvre.png" group-title="قنوات الرياضة",beIN-Sports-3HD
 http://alghanem1.dyndns.tv:8000/majd/1234/4
 #EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-4HD" tvg-logo="https://www.up-00.com/i/00195/12dy25sq05vx.png" group-title="قنوات الرياضة",beIN-Sports-4HD
