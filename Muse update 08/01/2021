@@ -267,7 +267,7 @@ https://doofootball.livestream-cdn.com/iptv/uk-btsport3hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/18/85/15/188515c3fd6d06bd9bc80ef0dd956714.png",Sky Bundesliga
 http://160.119.77.116:8081/iptv/de-skybundesliga.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXTaHwTQn4s8qxa1sTrMfjfdGGHhkARMjimQ&usqp=CAU", ZIGGO SPORT
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmOJZL05XbULlk57TdwpOXXlmv_z7X9333g&usqp=CAU", ZIGGO SPORT
 https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r4/ziggosportselect/chunks.m3u8?nimblesessionid=1514310&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMjowNzowOCBQTSZoYXNoX3ZhbHVlPWlHZ3FFM1BCemlCSk5SVjRwbkF3alE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMzg0NTU=
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/TV3_Max_logo_2017.png",3 Max Channel
