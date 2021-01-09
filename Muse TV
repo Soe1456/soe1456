@@ -110,6 +110,9 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 #EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU", BEIN​ SPORT​ 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsport1_480p/playlist.m3u8
 
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU", BEIN SPORT 2
+https://live-n1.worldwidetv.club/hmcb4rf66f-th1/epl-bein2_720/chunks.m3u8?nimblesessionid=126303&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMjo0NjozNyBQTSZoYXNoX3ZhbHVlPUx0ckZ5M2VYb1VncGo2RGRqQ2lzWWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05NDI5MTg2fGRvb2JhbGw2Ni5jb218TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDQuNC40OyBHYWxheHkgTmV4dXMgQnVpbGQvS1RVODRQKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvMzMuMC4wLjAgTW9iaWxlIFNhZmFyaS81MzcuMzZ8MTYxMDIwMzU5N3xlcGwtYmVpbjJ8OTQyOTE4NnwyMjMuMjA0LjgwLjEyNg==
+
 #EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU", BT​ SPORT​S​ 1
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 
