@@ -326,6 +326,68 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w2093393586.m3u8
 
 
+#==========================================================================================================
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdg0GoHpIApKs0yVp8zzUAOT9B5esLAgn-w&usqp=CAU",SKY​ SPORT​S PREMIER
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVYeRHLnHLPqoraTdxnmF3netklHJ83dpMdA&usqp=CAU",SKY​ SPORT​S FOOTBALL
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUp7aNvsInCqqZtk0cSP31xkSFitzNRkBrUg&usqp=CAU",PREMIER​ SPORTS
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EtOxqTbdW2FJAtRXjnAVWsWC-yZ3PK98VQ&usqp=CAU",SPORT​S TV​1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXGxAHuVlDpcyLm8zHgYIo2V_mBQf6R2MOJw&usqp=CAU",SPORT​S TV​2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtndcW4pG-vi-Vdo1XmIkXF3ECLo2s17GNWQ&usqp=CAU",SPORT​S TV​3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7ehCipQZF4eG190LxMqFjpbLet_62ZqIdg&usqp=CAU",SPORT​S TV​4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREU0Zck4i8MAUg1wG_az7WTggR4LGlfayLXA&usqp=CAU",SPORT​S TV​5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+*********
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-1HD" tvg-logo="https://www.up-00.com/i/00195/ze7jd7fvsalp.png" group-title="قنوات الرياضة",beIN-Sports-1HD
+http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-1HD" tvg-logo="https://www.up-00.com/i/00195/ze7jd7fvsalp.png" group-title="قنوات الرياضة",beIN-Sports-1HD
+https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-2HD" tvg-logo="https://www.up-00.com/i/00195/9adk9bli9uev.png" group-title="قنوات الرياضة",beIN-Sports-2HD
+https://doofootball.livestream-cdn.com/iptv/hd-bein2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-3HD" tvg-logo="https://www.up-00.com/i/00195/ep9mxasblvre.png" group-title="قنوات الرياضة",beIN-Sports-3HD
+https://doofootball.livestream-cdn.com/iptv/hd-bein3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-4HD" tvg-logo="https://www.up-00.com/i/00195/12dy25sq05vx.png" group-title="قنوات الرياضة",beIN-Sports-4HD
+https://doofootball.livestream-cdn.com/iptv/hd-bein4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-5HD" tvg-logo="https://www.up-00.com/i/00195/pl0k5f1a5ac7.png" group-title="قنوات الرياضة",beIN-Sports-5HD
+http://alghanem1.dyndns.tv:8000/majd/1234/6
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-6HD" tvg-logo="https://www.up-00.com/i/00195/x1mwoszq68mq.png" group-title="قنوات الرياضة",beIN-Sports-6HD
+http://alghanem1.dyndns.tv:8000/majd/1234/7
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-7HD" tvg-logo="https://www.up-00.com/i/00195/a1x70lj7hruv.png" group-title="قنوات الرياضة",beIN-Sports-7HD
+http://alghanem1.dyndns.tv:8000/majd/1234/8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-8HD" tvg-logo="https://www.up-00.com/i/00195/bx6f1jnvwe03.png" group-title="قنوات الرياضة",beIN-Sports-8HD
+http://alghanem1.dyndns.tv:8000/majd/1234/9
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-9HD" tvg-logo="https://www.up-00.com/i/00195/dpawazxgodua.png" group-title="قنوات الرياضة",beIN-Sports-9HD
+http://alghanem1.dyndns.tv:8000/majd/1234/10
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-10HD" tvg-logo="https://www.up-00.com/i/00195/dvhjfokgebt3.png" group-title="قنوات الرياضة",beIN-Sports-10HD
+http://alghanem1.dyndns.tv:8000/majd/1234/12
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-11HD" tvg-logo="https://www.up-00.com/i/00195/po31w7gbzimu.png" group-title="قنوات الرياضة",beIN-Sports-11HD
+http://alghanem1.dyndns.tv:8000/majd/1234/29437
+
+
+
+
 #==============================================================================================
 
 
@@ -1026,73 +1088,4 @@ https://iptvhome-ra2eye.cdn.byteark.com/SPOTV/index.m3u8
 https://iptvhome-ra2eye.cdn.byteark.com/SPOTV2/index.m3u8
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-094043.jpg",OBS
 https://iptvhome-ra2eye.cdn.byteark.com/OBS/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#==========================================================================================================
-
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdg0GoHpIApKs0yVp8zzUAOT9B5esLAgn-w&usqp=CAU",SKY​ SPORT​S PREMIER
-http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
-*********
-
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVYeRHLnHLPqoraTdxnmF3netklHJ83dpMdA&usqp=CAU",SKY​ SPORT​S FOOTBALL
-http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
-*********
-
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUp7aNvsInCqqZtk0cSP31xkSFitzNRkBrUg&usqp=CAU",PREMIER​ SPORTS
-http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
-*********
-
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EtOxqTbdW2FJAtRXjnAVWsWC-yZ3PK98VQ&usqp=CAU",SPORT​S TV​1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-*********
-
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXGxAHuVlDpcyLm8zHgYIo2V_mBQf6R2MOJw&usqp=CAU",SPORT​S TV​2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-*********
-
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtndcW4pG-vi-Vdo1XmIkXF3ECLo2s17GNWQ&usqp=CAU",SPORT​S TV​3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-*********
-
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7ehCipQZF4eG190LxMqFjpbLet_62ZqIdg&usqp=CAU",SPORT​S TV​4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-*********
-
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREU0Zck4i8MAUg1wG_az7WTggR4LGlfayLXA&usqp=CAU",SPORT​S TV​5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-*********
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-1HD" tvg-logo="https://www.up-00.com/i/00195/ze7jd7fvsalp.png" group-title="قنوات الرياضة",beIN-Sports-1HD
-http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-1HD" tvg-logo="https://www.up-00.com/i/00195/ze7jd7fvsalp.png" group-title="قنوات الرياضة",beIN-Sports-1HD
-https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-2HD" tvg-logo="https://www.up-00.com/i/00195/9adk9bli9uev.png" group-title="قنوات الرياضة",beIN-Sports-2HD
-https://doofootball.livestream-cdn.com/iptv/hd-bein2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-3HD" tvg-logo="https://www.up-00.com/i/00195/ep9mxasblvre.png" group-title="قنوات الرياضة",beIN-Sports-3HD
-https://doofootball.livestream-cdn.com/iptv/hd-bein3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-4HD" tvg-logo="https://www.up-00.com/i/00195/12dy25sq05vx.png" group-title="قنوات الرياضة",beIN-Sports-4HD
-https://doofootball.livestream-cdn.com/iptv/hd-bein4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-5HD" tvg-logo="https://www.up-00.com/i/00195/pl0k5f1a5ac7.png" group-title="قنوات الرياضة",beIN-Sports-5HD
-http://alghanem1.dyndns.tv:8000/majd/1234/6
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-6HD" tvg-logo="https://www.up-00.com/i/00195/x1mwoszq68mq.png" group-title="قنوات الرياضة",beIN-Sports-6HD
-http://alghanem1.dyndns.tv:8000/majd/1234/7
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-7HD" tvg-logo="https://www.up-00.com/i/00195/a1x70lj7hruv.png" group-title="قنوات الرياضة",beIN-Sports-7HD
-http://alghanem1.dyndns.tv:8000/majd/1234/8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-8HD" tvg-logo="https://www.up-00.com/i/00195/bx6f1jnvwe03.png" group-title="قنوات الرياضة",beIN-Sports-8HD
-http://alghanem1.dyndns.tv:8000/majd/1234/9
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-9HD" tvg-logo="https://www.up-00.com/i/00195/dpawazxgodua.png" group-title="قنوات الرياضة",beIN-Sports-9HD
-http://alghanem1.dyndns.tv:8000/majd/1234/10
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-10HD" tvg-logo="https://www.up-00.com/i/00195/dvhjfokgebt3.png" group-title="قنوات الرياضة",beIN-Sports-10HD
-http://alghanem1.dyndns.tv:8000/majd/1234/12
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-11HD" tvg-logo="https://www.up-00.com/i/00195/po31w7gbzimu.png" group-title="قنوات الرياضة",beIN-Sports-11HD
-http://alghanem1.dyndns.tv:8000/majd/1234/29437
 
