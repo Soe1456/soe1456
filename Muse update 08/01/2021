@@ -568,7 +568,7 @@ https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8
 https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO​ HD
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8 
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103156.jpg",FOX​ MOVIE​
