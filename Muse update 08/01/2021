@@ -1141,9 +1141,9 @@ http://alghanem1.dyndns.tv:8000/majd/1234/29442
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD1" tvg-logo="" group-title="قنوات الرياضة",beIN Sports HD1
 http://alghanem1.dyndns.tv:8000/majd/1234/36669
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD2" tvg-logo="" group-title="قنوات الرياضة",beIN Sports HD2
-http://alghanem1.dyndns.tv:8000/majd/1234/36670
+http://160.119.77.116:8081/iptv/hd-bein2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD3" tvg-logo="" group-title="قنوات الرياضة",beIN Sports HD3
-http://alghanem1.dyndns.tv:8000/majd/1234/36671
+http://160.119.77.116:8081/iptv/hd-bein3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD4" tvg-logo="" group-title="قنوات الرياضة",beIN Sports HD4
 http://alghanem1.dyndns.tv:8000/majd/1234/36672
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD5" tvg-logo="" group-title="قنوات الرياضة",beIN Sports HD5
