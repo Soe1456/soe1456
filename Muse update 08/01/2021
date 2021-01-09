@@ -1161,7 +1161,7 @@ http://alghanem1.dyndns.tv:8000/majd/1234/36678
 #EXTINF:-1 tvg-id="" tvg-name="Bein 1 FHD" tvg-logo="https://www.up-00.com/i/00195/ze7jd7fvsalp.png" group-title="قنوات الرياضة",Bein 1 FHD
 http://alghanem1.dyndns.tv:8000/majd/1234/1116
 #EXTINF:-1 tvg-id="" tvg-name="bein 2 FHD" tvg-logo="https://www.up-00.com/i/00195/9adk9bli9uev.png" group-title="قنوات الرياضة",bein 2 FHD
-http://alghanem1.dyndns.tv:8000/majd/1234/1115
+http://160.119.77.116:8081/iptv/hd-bein2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bein 3 FHD" tvg-logo="https://www.up-00.com/i/00195/ep9mxasblvre.png" group-title="قنوات الرياضة",bein 3 FHD
 http://alghanem1.dyndns.tv:8000/majd/1234/1114
 #EXTINF:-1 tvg-id="" tvg-name="Bein 4 FHD" tvg-logo="https://www.up-00.com/i/00195/12dy25sq05vx.png" group-title="قنوات الرياضة",Bein 4 FHD
