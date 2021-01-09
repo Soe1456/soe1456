@@ -461,8 +461,6 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-014708.jpg",JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-063000.jpg",Quran TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_97200=2.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://www.myproduksiyon.com/wp-content/uploads/Russian_Travel_Guide_TV.png",รัสเซีย Travel Guide tv
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://trailingthehuntersmoon.com/wp-content/uploads/2020/03/pursuit-up-logo.png",PursuitUP
