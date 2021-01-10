@@ -282,6 +282,8 @@ https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r4/6eren/chunks.m3u8?ni
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_1_Poland.png", Eleven Sport 1
 https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r4/elevensports1pt/chunks.m3u8?nimblesessionid=12825762&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMjozNjowNyBQTSZoYXNoX3ZhbHVlPWNZY0NuZVkwSE8vY0RiMGN6Y0lGVGc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03MzkwMjI=0MDQ=
 
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
@@ -299,6 +301,8 @@ https://doofootball.livestream-cdn.com/iptv/hd-golf.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075606.jpg",Golf channel
 http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a1059.png",Diema Sport
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/diemasport1/chunks.m3u8?nimblesessionid=6057101&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIxIDExOjU3OjE4IEFNJmhhc2hfdmFsdWU9ZGhvczdDOC9tbWJoSGw2SGZOM3ZNdz09JnZhbGlkbWludXRlcz0xJmlkPTExMzY4NA==
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075654.jpg",True Tennis
 https://doofootball.livestream-cdn.com/iptv/hd-tennis.stream/playlist.m3u8
