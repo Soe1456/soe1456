@@ -294,6 +294,9 @@ https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r4/telekomsport1ro/play
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJqQFs0eAsaVqDCiKpeQnd7yKXVbQa3mI7w&usqp=CAU", Arena Sport 1
 https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r4/arenasport1serbia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIxIDEyOjQ1OjMzIFBNJmhhc2hfdmFsdWU9RW44U2t3STlRZWppeUNFQ0xGbjN5QT09JnZhbGlkbWludXRlcz0xJmlkPTY4MzI1Mw==
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZN7EACr-iElDtlWr6IXEAK-q8Mizb7yypnA&usqp=CAU",3 Sport 1
+https://node11.cloud-streaming.com/hdfootball_w4/tv3sport1/chunks.m3u8?nimblesessionid=2399604&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIxIDEyOjU2OjUwIFBNJmhhc2hfdmFsdWU9bXpVUFA3ck95VGJLbGhBVWZXMStWdz09JnZhbGlkbWludXRlcz0xJmlkPTg5ODE4Mg==
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
