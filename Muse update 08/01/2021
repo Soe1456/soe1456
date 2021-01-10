@@ -268,7 +268,7 @@ https://doofootball.livestream-cdn.com/iptv/uk-btsport3hd.stream/chunks.m3u8
 http://160.119.77.116:8081/iptv/de-skybundesliga.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmOJZL05XbULlk57TdwpOXXlmv_z7X9333g&usqp=CAU", ZIGGO SPORT
-https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r4/ziggosportselect/chunks.m3u8?nimblesessionid=1514310&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMjowNzowOCBQTSZoYXNoX3ZhbHVlPWlHZ3FFM1BCemlCSk5SVjRwbkF3alE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMzg0NTU=
+https://r3https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/chunks.m3u8?nimblesessionid=6081799&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIxIDEyOjUwOjAxIFBNJmhhc2hfdmFsdWU9b1Bmc3JPYUJPRjhVYmF2MG5tWEdQUT09JnZhbGlkbWludXRlcz0xJmlkPTMyMzI0NQ==
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/TV3_Max_logo_2017.png",3 Max Channel
 https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r4/tv3max/chunks.m3u8?nimblesessionid=1594384&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIxIDEyOjAyOjU3IFBNJmhhc2hfdmFsdWU9MXkzU1B1UXBDT0tEWWc0Nm5NQmFYZz09JnZhbGlkbWludXRlcz0xJmlkPTc3NzQ5NA==
