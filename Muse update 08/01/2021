@@ -257,6 +257,9 @@ hthttps://r3https://live-n1.worldwidetv.club/hmcb4rf66f-th1/epl-bein1_720/chunks
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png", Bein sport 2
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=5796502&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMTo1Nzo0NSBQTSZoYXNoX3ZhbHVlPVhkNTlsbUdORGJZODN0Yy9hdVpHUEE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05NDQyMTQ=
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk46HkJ0Dbo7k4SuxRllrtfRj9F7MxlS-4g&usqp=CAU",Bein sport 1
+https://doofootball.livestream-cdn.com/iptv/fr-bein1hd.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.thesportsdb.com/images/media/logo/ruprqp1433360902.png",BT SPORT 1
 https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.thesportsdb.com/images/media/logo/vsuvvu1433963716.png",BT SPORT 2
