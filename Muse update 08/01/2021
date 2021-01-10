@@ -270,6 +270,9 @@ http://160.119.77.116:8081/iptv/de-skybundesliga.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3HcpuBQ5TmZpl1uutd0nDaoPnUBaqD9XGQg&usqp=CAU", Premier Sport 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/premiersports/chunks.m3u8?nimblesessionid=6082250&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIxIDEyOjUxOjE5IFBNJmhhc2hfdmFsdWU9T0djT3ZndS90a29RaXRPaGZvdGRadz09JnZhbGlkbWludXRlcz0xJmlkPTIzOTA3MQ==
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3HcpuBQ5TmZpl1uutd0nDaoPnUBaqD9XGQg&usqp=CAU", Premier Sport 1
+https://node11.cloud-streaming.com/hdfootball_w4/premiersports/chunks.m3u8?nimblesessionid=2400025&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIxIDE6MDI6MTggUE0maGFzaF92YWx1ZT1tK04xbWxGT2ltZGFWRGI2bFlHUytnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NjU5MTIz
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmOJZL05XbULlk57TdwpOXXlmv_z7X9333g&usqp=CAU", ZIGGO SPORT
 https://r3https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/chunks.m3u8?nimblesessionid=6081799&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIxIDEyOjUwOjAxIFBNJmhhc2hfdmFsdWU9b1Bmc3JPYUJPRjhVYmF2MG5tWEdQUT09JnZhbGlkbWludXRlcz0xJmlkPTMyMzI0NQ==
 
