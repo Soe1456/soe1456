@@ -140,6 +140,13 @@ http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="กีฬา​" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602703695.jpeg", FOX​ SPORTS​ 3​
 http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 
+#EXTINF:-1  tvg-chno="740" group-title="กีฬา" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/ASTRO1-100x100.png",Astro supersport
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1  tvg-chno="740" group-title="กีฬา" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/ASTRO2-100x100.png",Astro supersport 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1  tvg-chno="740" group-title="กีฬา" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/ASTRO3-100x100.png",Astro supersport 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+
 #EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRVhBn4cPzK8qFdzvbW1OuVOx1pcFuvV2RA&usqp=CAU",TSN 1
 https://vodcache.worldwidetv.club/hmcb4rf66f-inter/ca-tsn1_480/chunks.m3u8?nimblesessionid=67263001&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMzoxMzo1OSBQTSZoYXNoX3ZhbHVlPUc5RVNXZTNWZ1VqcXA2bHRPcDI0aFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05NDI5MTg2fGRvb2JhbGw2Ni5jb218TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDQuNC40OyBHYWxheHkgTmV4dXMgQnVpbGQvS1RVODRQKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvMzMuMC4wLjAgTW9iaWxlIFNhZmFyaS81MzcuMzZ8MTYxMDIwNTIzOXxjYS10c24xfDk0MjkxODZ8MjIzLjIwNC44MC4xMjY=
 
