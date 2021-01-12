@@ -180,7 +180,7 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREU0Zck4i8MAUg1wG_az7WTggR4LGlfayLXA&usqp=CAU", SPORT​S TV5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1  tvg-chno="740" group-title="กีฬา" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/ASTRO1-100x100.png",Astro supersport
+#EXTINF:-1  tvg-chno="740" group-title="กีฬา" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/ASTRO1-100x100.png",Astro supersport 1
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1  tvg-chno="740" group-title="กีฬา" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/ASTRO2-100x100.png",Astro supersport 2
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
@@ -237,6 +237,21 @@ http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png", BOX​ FILM
 https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="จีน",CCTV-1 综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="จีน",CCTV-2 财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="จีน",CCTV-3 文艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="จีน",CCTV-4 亚洲
+http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv4-America_180817.png" group-title="จีน",CCTV-4 美洲
+https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv4-Europe_180817.png" group-title="จีน",CCTV-4 欧洲
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="จีน",CCTV-5 体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 
 #EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiml8PYs8q0L4SVluf-9JCqIFNopSN3t7qrQ&usqp=CAU", SUN
 https://cdn6.goprimetime.info/feed/LC1/index.m3u8
