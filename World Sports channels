@@ -1,0 +1,112 @@
+{"name":"World Sports channels","author": "SSL-IPTV",
+"image":"https://i.imgur.com/pi4hxOb.gif",
+"url": "https://pastebin.com/raw/iwFGzNra",
+"stations":
+[
+
+
+{name: "beInSport 1TH",image: "https://i.imgur.com/PxNN4J9.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "beInSport 2TH",image: "https://i.imgur.com/jMseUW1.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+
+{name: "Foxsports1",image: "https://i.imgur.com/8XcXaof.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Foxsports2",image: "https://i.imgur.com/gfBvo1Z.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-foxsports2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Foxsports3",image: "https://i.imgur.com/NqEEbOT.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-foxsports3&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"},
+
+{name: "Supersport1",image: "https://i.imgur.com/iCvi0pM.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Supersport2",image: "https://i.imgur.com/B5bBhuR.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Supersport3",image: "https://i.imgur.com/I4U2gGy.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport3&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Supersport4",image: "https://i.imgur.com/gN5QQ7m.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport4&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Supersport5",image: "https://i.imgur.com/4V8O3Ls.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport5&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Supersport6",image: "https://i.imgur.com/LcpX8qX.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport6&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Supersport7",image: "https://i.imgur.com/Q9EeatP.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport7&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Supersport8",image: "https://i.imgur.com/zXqLFjM.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport8&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Supersport9",image: "https://i.imgur.com/lts9jj3.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport9&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Supersport10",image: "https://i.imgur.com/tcm4lbD.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport10&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Supersport11",image: "https://i.imgur.com/6V82PLd.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport11&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Supersport12",image: "https://i.imgur.com/GifFvl7.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport12&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"},
+
+{name: "TNS 1",image: "https://i.imgur.com/CCn6ZzQ.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"
+}, 
+{name: "TNS 2",image: "https://i.imgur.com/7IPpXPI.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "TNS 3",image: "https://i.imgur.com/xGIf7Ec.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "TNS 4",image: "https://i.imgur.com/zpndDoX.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "TNS 5",image: "https://i.imgur.com/paaQ3Pi.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+
+{name: "Skybundesliga",image: "https://i.imgur.com/AKg7BGG.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"
+{name: "Skysportaustria",image: "https://i.imgur.com/bf8qS6B.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysportaustria&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Skysport1",image: "https://i.imgur.com/CkXqwaD.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Skysport2",image: "https://i.imgur.com/2tVdoPm.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+
+{name: "Sportsnet1",image: "https://i.imgur.com/a8dKgDP.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnet1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "SportsnetWorld",image: "https://i.imgur.com/jYh8rKs.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnetworld&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+
+{name: "Bein2hd",image: "https://i.imgur.com/Us9YFf3.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Bein3hd",image: "https://i.imgur.com/SFGwx8f.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein3hd&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "BeinsportMAX4",image: "https://i.imgur.com/bO948KB.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax4&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "BeinsportMAX5",image: "https://i.imgur.com/Ofz1B6I.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax5&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "BeinsportMAX6",image: "https://i.imgur.com/y4OjOtL.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax6&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+
+{name: "Eirsport1",image: "https://i.imgur.com/UZOlSvl.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Eirsport2",image: "https://i.imgur.com/vmV9bJp.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}
+{"name":"Abu Dhabi Sports 1","image":"https://i.imgur.com/lKl2wZH.png",
+"url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"},
+{"name":"Abu Dhabi Sports 2","image":"https://i.imgur.com/lKl2wZH.png",
+"url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"},	
+{"name":"Abu Dhabi Sports 3","image":"https://i.imgur.com/lKl2wZH.png",
+"url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8"},		
+{"name":"Abu Dhabi Sports 4","image":"https://i.imgur.com/lKl2wZH.png",
+"url": "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8"},
+
+{name: "Del-Sport1",image: "https://i.imgur.com/zta3aYW.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Del-Sport2",image: "https://i.imgur.com/wkCODmw.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Del-Sport3",image: "https://i.imgur.com/7PG2BXB.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport3&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Del-Sport4",image: "https://i.imgur.com/2pNrWG0.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport4&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Del-Sport5",image: "https://i.imgur.com/VBjijAJ.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport5&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Del-Sport6",image: "https://i.imgur.com/RQRvy6O.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport6&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+
+]
+}
+
+]
+}
