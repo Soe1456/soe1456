@@ -41,6 +41,18 @@ url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport11&api_k
 {name: "Supersport12",image: "https://i.imgur.com/GifFvl7.png",
 url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport12&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"},
 
+{name: "TNS 1",image: "https://i.imgur.com/CCn6ZzQ.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"
+}, 
+{name: "TNS 2",image: "https://i.imgur.com/7IPpXPI.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "TNS 3",image: "https://i.imgur.com/xGIf7Ec.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "TNS 4",image: "https://i.imgur.com/zpndDoX.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "TNS 5",image: "https://i.imgur.com/paaQ3Pi.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"},
+
 {name: "Eirsport1",image: "https://i.imgur.com/UZOlSvl.png",
 url: "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
 {name: "Eirsport2",image: "https://i.imgur.com/vmV9bJp.png",
