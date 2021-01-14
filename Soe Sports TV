@@ -1,8 +1,13 @@
 {"name":"Premium Sports","author": "SSL-IPTV",
 "image":"https://i.imgur.com/pi4hxOb.gif",
-"url": "https://github.com/Soe1456/soe1456/edit/main/Soe%20Sports%20TV",
+"url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/Soe%20Sports%20TV",
 "stations":
 [
+
+{name: "beInSport 1TH",image: "https://i.imgur.com/PxNN4J9.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "beInSport 2TH",image: "https://i.imgur.com/jMseUW1.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"},
 
 {name: "Foxsports1",image: "https://i.imgur.com/8XcXaof.png",
 url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
