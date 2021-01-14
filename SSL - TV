@@ -6,11 +6,16 @@
 "groups":
 [
 
-
 {"name": "Digital TV",
-      "image":"https://v1.igetweb.com/www/aosat/article/art_42144142.png",
-      "URL":"https://raw.githubusercontent.com/Soe1456/soe1456/main/Digital%20TV",
-      "import": false},
+	"image": "https://v1.igetweb.com/www/aosat/article/art_42144142.png",
+	"url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/Digital%20TV",
+	"import": false},
+
+
+{"name": "True Sports",
+	"image": "https://trueidtv.trueid.net/images/channels/tv-sport.png",
+	"url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/True%20Sports",
+	"import": false},
 
 
 {"name": "LOVENATURE 4K",
@@ -18,10 +23,7 @@
 	"url": "https://pastebin.com/raw/u2ageVy1",
 	"import": false},
 
-{"name": "True Sports",
-	"image": "https://trueidtv.trueid.net/images/channels/tv-sport.png",
-	"url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/True%20Sports",
-	"import": false},
+
 
 ]
 }
