@@ -103,7 +103,14 @@ url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport4&api_key=
 {name: "Del-Sport5",image: "https://i.imgur.com/VBjijAJ.png",
 url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport5&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
 {name: "Del-Sport6",image: "https://i.imgur.com/RQRvy6O.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport6&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"} 
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport6&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"},
+{name: "Eirsport2",image: "https://i.imgur.com/vmV9bJp.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}
+]
+}
+
+]
+} 
 ]
 }
 
