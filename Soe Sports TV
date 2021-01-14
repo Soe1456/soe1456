@@ -53,6 +53,17 @@ url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&api_key=hmcb4
 {name: "TNS 5",image: "https://i.imgur.com/paaQ3Pi.png",
 url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"},
 
+{name: "Skysportaustria",image: "https://i.imgur.com/bf8qS6B.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysportaustria&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Skysport1",image: "https://i.imgur.com/CkXqwaD.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Skysport2",image: "https://i.imgur.com/2tVdoPm.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Sportdigital",image: "https://i.imgur.com/hMj1r7F.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-sportdigital&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Sport1plus",image: "https://i.imgur.com/AOPQoPa.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-sport1plus&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"},
+
 {name: "Eirsport1",image: "https://i.imgur.com/UZOlSvl.png",
 url: "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
 {name: "Eirsport2",image: "https://i.imgur.com/vmV9bJp.png",
