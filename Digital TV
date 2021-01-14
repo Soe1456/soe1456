@@ -1,0 +1,143 @@
+{
+        "name": "Digital TV",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxEIRvwUOBJljo1_c9LG_fJJzkaTRq0kv8Mg&usqp=CAU",
+        "stations": [
+
+{
+"name": "CH 3",  
+"image": "https://static.wikia.nocookie.net/logopedia/images/4/40/CH3TH_logo.svg/revision/latest/scale-to-width-down/340?cb=20201018120928",  
+"url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH 5",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi92Al0PMZxdBJGE1ARWenjVPSX9NP6D00-Q&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH 7",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUcdczoMMR7cTu4ydKgcQKH8PwD2NrrOQHyg&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "MCOT Channel",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZ9LzASmMR2HahR1b8kkRKNS0t4Gtr_c0RQ&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint TV",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCj7XrkcFb3zupOv7i2bTL4VYG1uRYWgcPdA&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath TV",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKpMAB-YA4jyIQ5QayShLFHYUrS8QLJk5ig&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chthairath/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT Channel",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLi-B6uVC3DNl5LUTubNSoEBHUaODuHFz5Q&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chnbt/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "New TV",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdEVUlXYnUdhRYu_jHq_OpJB-8HP8TB4-0Vg&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/newtv/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True4U",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7v-YYvth0O3QObJqQTvA2pB7R3LU_9edP8A&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM Channel",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTVPF82GwXYhYUl-TOtQ8E0H3OKcA3ArE5w&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH 8",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7gjd8EPZajlQuUKBuNL2xxfn4IN7Aazke2g&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/ch8/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mono 29",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuX6UbrJeoUUaJ6N2xmfVvPdg_tyiwEdGyNw&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ONE 31",  
+"image": "https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",  
+"url": "https://cdn6.goprimetime.info/feed/chonehd/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation Channel",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXutU_qm5C0LmF07PnU8gvdKrIkQ6ZfluUKQ&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin TV",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chamarin/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "THAI PBS",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4UVO9ToBLC_nZ6Re3YFkjWTZsGwR1fgLhIw&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "M Channel",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhewISK8C9ZqiAT9mt1QDFiwQX0GTh0bww6g&usqp=CAU",  
+"url": "https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+]
+                             }
+ 
+                                     ]
+                              }
+ 
+                                     ]
+                               }                              
+ 
+                   ]
+               }
+ 
