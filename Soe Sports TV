@@ -1,0 +1,15 @@
+{"name":"Premium Sports","author": "SSL-IPTV",
+"image":"https://i.imgur.com/pi4hxOb.gif",
+"url": "https://github.com/Soe1456/soe1456/new/main",
+"stations":
+[
+
+{name: "Eirsport1",image: "https://i.imgur.com/UZOlSvl.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{name: "Eirsport2",image: "https://i.imgur.com/vmV9bJp.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}
+]
+}
+
+]
+}
