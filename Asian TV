@@ -1,6 +1,6 @@
 {"name":"MOVIE","author": "SSL-TV",
 
-"image":"https://westinghouse.com/wp-content/uploads/2019/06/WR65UX4019_FRONT_UICLIP-Animated_1.gif",
+"image":"https://i.imgur.com/pi4hxOb.gif",
 
 "url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/Asian%20TV",
 
@@ -8,12 +8,41 @@
 
 [
 
+{"name":"Channel K",
+
+"image":"https://lh3.googleusercontent.com/proxy/yaiz7GwZDys5ZTp8L9QJTu1SKdNGH_XMu8QZV6cl-LgG84r4sLFjh_N3IZ6XKYnsTRiPRBaoeNTBf75rfQYI4K8mOnFCHGo",
+
+"url":"https://www.channelkmyanmar.com/live"},
+
+{"name":"Mahar Channel",
+
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXLxiEQ1tM7teCvcyCT-tVfmhlGr5dmm8uQ&usqp=CAU",
+
+"url":"https://mahartv.com.mm/channel/"},
+
+{"name":"MITV Myanmar",
+
+"image":"https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png",
+
+"url":"https://livestream.com/mitv/live"},
+
 {"name":"HBO",
 
 "image":"https://duplosite.files.wordpress.com/2016/12/hbo.png?w=2000&h=1200&crop=1",
 
 "url":"https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8"},
 
+{"name":"HBO",
+
+"image":"https://duplosite.files.wordpress.com/2016/12/hbo.png?w=2000&h=1200&crop=1",
+
+"url":"https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8"},
+
+{"name":"HBO",
+
+"image":"https://duplosite.files.wordpress.com/2016/12/hbo.png?w=2000&h=1200&crop=1",
+
+"url":"https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8"},
 {"name":"HBO",
 
 "image":"https://duplosite.files.wordpress.com/2016/12/hbo.png?w=2000&h=1200&crop=1",
