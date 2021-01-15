@@ -1,10 +1,12 @@
 {
-"name":"SSL-IPTV",
-"author":"SSL-IPTV",
-"image":"https://i.imgur.com/pi4hxOb.gif",
-"URL":"https://github.com/Soe1456/soe1456/blob/main/SSL%20-%20TV",
-"groups":
+	"name": "SSL-IPTV",
+	"author": "SSL-IPTV",
+	"image": "https://i.imgur.com/pi4hxOb.gif",
+	"url": "https://github.com/Soe1456/soe1456/blob/main/SSL%20-%20TV",
+	"groups": 
 [
+
+
 
 {"name": "Digital TV",
 	"image": "https://v1.igetweb.com/www/aosat/article/art_42144142.png",
