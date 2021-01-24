@@ -1158,3 +1158,22 @@ https://iptvhome-ra2eye.cdn.byteark.com/SPOTV2/index.m3u8
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-094043.jpg",OBS
 https://iptvhome-ra2eye.cdn.byteark.com/OBS/index.m3u8
 
+#==================== China TV   =====================#
+
+
+#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3qfSOSWfdGmF2vmRD6dC4Pky3_4YTocrkw&usqp=CAU",
+http://live.zscz0768.com/live/ggpd.m3u8
+
+#EXTINF:-1 group-title="China" tvg-logo="https://lh3.googleusercontent.com/proxy/7t_4QjeitFlt3tkSnpn-M5zF_R5pfWmXJdWwXgrsgvXsPUqAkHfW-i9B1Sk9OmlXSxC2R8XuQmOT5R6kLnntc9qDOjZad0BG-K8oIghXUa7mchsyI2vxAYgVdKVjztYlYt5mNgvPpQ",
+http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
+#http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="xxxx",
+
+
+#EXTINF:-1 group-title="China" tvg-logo="xxxx",
+
+
+#EXTINF:-1 group-title="China" tvg-logo="xxxx",
+
+
+#EXTINF:-1 group-title="China" tvg-logo="xxxx",
