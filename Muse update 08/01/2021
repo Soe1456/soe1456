@@ -3,7 +3,7 @@
 #====================      Digital TV   =====================#
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
-https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/697d36314d98f165f3d2989a1425df60/5d11859cceee9b4c5c9ec3bee7e0ee08/1612311879/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
@@ -15,19 +15,19 @@ https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg",CH7
-https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/aacc35dfb7838f51054331bb1e2ab5f1/23becdff6e7ba1ef08fc40ea51085961/1612312160/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg",CH7
 http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073941.jpg",MCOT
-https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/55f1979e72c7532236c2e64869ab6d28/663e2cc0b47df12b7d1b6d955b63a1fc/1612312250/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073941.jpg",MCOT
 https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074028.jpg",NBT
-https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/806ab060efbdf86060aadce34fdb5ad9/6233bdbe62be7ed9b0e1fd06b05b8663/1612312250/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074028.jpg",NBT
 http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
@@ -36,28 +36,28 @@ http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074157.jpg",Thai PBS
-https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/df1b08dd2f90a4299d446acf1287db85/909ccbb8fd427e0853b4049fe1233144/1612312392/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074238.jpg",Thairath
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074238.jpg",Thairath
-https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/eec433986f9bc76e8e248dc4f16bdd0a/47f434510dea8ae6cbd8189bd2573d4c/1612312453/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",PPTV
-https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/be3f8461f1487cfaf773854d1e1d7e1a/2d008da2f2cf91439c60e9449e8004e6/1612312570/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",PPTV
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074623.jpg",GMM
-https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/00ad31a41222ada2db4ae534c96bf68e/9481c076b969ae64707802f9a94377e3/1612312638/playlist.m3u8
 
 
 
