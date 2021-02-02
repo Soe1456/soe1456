@@ -9,7 +9,7 @@ https://cdn-edge-sg2.idoohd.com/play/697d36314d98f165f3d2989a1425df60/5d11859cce
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073856.jpg",CH5
-https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
+https://cdn-edge-sg3.iptv4k.tv/play/1df6b95c86e66dadc6c602f4a78878e5/4edd12947e56b245c411ac3ecbacd616/1612313260/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073856.jpg",CH5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
@@ -65,37 +65,37 @@ https://cdn-edge-sg2.idoohd.com/play/00ad31a41222ada2db4ae534c96bf68e/9481c076b9
 http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
-https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/658b375eaf0a90bdaf7ba0921d0119de/8b8139fb35981075a13028b38cef050f/1612313417/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
-https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/21e939797b455c11a30b425905c26e43/2f44612c0b0a626fb0f36b019ce7f6af/1612313579/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
 http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",true4U
-https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+https://cdn-edge-sg3.iptv4k.tv/play/eef50282052c041eb5744d0c8989655e/c9aa3c14f48df4f0c9daf7bfa6c02fbc/1612313630/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",true4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074753.jpg",Workpoint
-https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/4c33626f1a0bddc73c0d991b14749dd0/9ce7b530d30f4fcb75fa7d4cc836317d/1612313697/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074753.jpg",Workpoint
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074848.jpg",CH8
-https://cdn6.goprimetime.info/feed/ch8/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/bfe42b7902dd179464afb664b151f4de/e778ceef100a8f826a307e38e6a20f90/1612313697/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074848.jpg",CH8
 https://doofootball.livestream-cdn.com/iptv/hd-ch8.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
-https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/a5409a19bd129064ef30bc1008ea44fb/8f5ed32218e59e455bd8a9f2b99b6058/1612313697/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
 https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
 
@@ -103,10 +103,10 @@ https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
 http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
-https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+https://cdn-edge-sg2.idoohd.com/play/64edcc94cbc9983d7578235f678a05ce/dfcc9b670c928c99d29e348093d82f47/1612313697/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
-https://cdn6.goprimetime.info/feed/chmono29/index.m3u8
+https://cdn-edge-sg3.iptv4k.tv/play/b03e486e25e8bf42db630cf57db5658c/433195c7185baf03841d142bc9cc377b/1612313917/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 
