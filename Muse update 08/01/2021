@@ -1167,8 +1167,8 @@ http://live.zscz0768.com/live/ggpd.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://w1.pngwing.com/pngs/35/393/png-transparent-china-xinjiang-production-and-construction-corps-ili-kazakh-autonomous-prefecture-television-cctv1-lyngsat-television-channel-news.png", Zongyi tv
 http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
 
-#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3qfSOSWfdGmF2vmRD6dC4Pky3_4YTocrkw&usqp=CAU",Chaoan tv
-http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnI-8U02Nb_UqCuTQORQtcUdh_YtS9jP6HQA&usqp=CAU", Blackberry TV
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 
 #EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3qfSOSWfdGmF2vmRD6dC4Pky3_4YTocrkw&usqp=CAU",
 http://chaoan.chaoantv.com:8278/chaoanzonghe/playlist.m3u8
