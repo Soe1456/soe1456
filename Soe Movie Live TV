@@ -37,10 +37,10 @@
 "url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com:443/entertainment/fox-fam/chunks.m3u8?nimblesessionid=35490374&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIxIDI6MjQ6NTQgUE0maGFzaF92YWx1ZT1GK1VRa1pia3dyNytUWGMvS21La1VBPT0mdmFsaWRtaW51dGVzPTIw"},
 {"name":"FoxThai_TH",
 "image":"https://4.bp.blogspot.com/-HjoJutrNZqo/XMSGY_1auXI/AAAAAAAAAV8/V3qgRASCU7wmFsK6l2T7Nc7eCF5VfuXrgCLcBGAs/s640/fox-thai-full.jpg",
-"url":"https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8"},
+"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foxth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIxIDI6MzA6MDggUE0maGFzaF92YWx1ZT1QbGs4czBINmJhL0V6aDVxZDhlUnZRPT0mdmFsaWRtaW51dGVzPTIw"},
 {"name":"FoxThai",
 "image":"https://4.bp.blogspot.com/-HjoJutrNZqo/XMSGY_1auXI/AAAAAAAAAV8/V3qgRASCU7wmFsK6l2T7Nc7eCF5VfuXrgCLcBGAs/s640/fox-thai-full.jpg",
-"url":"https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8"},
+"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com:443/entertainment/foxth/chunks.m3u8?nimblesessionid=35492010&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIxIDI6MzA6MDggUE0maGFzaF92YWx1ZT1QbGs4czBINmJhL0V6aDVxZDhlUnZRPT0mdmFsaWRtaW51dGVzPTIw"},
 {"name":"FoxCrimeHD_TH",
 "image":"https://www.beepstudios.com/wp-content/uploads/fox-crime-hd.jpg",
 "url":"https://www.livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8"},
@@ -60,7 +60,7 @@
 "url":"https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8"},
 {"name":"WarnerTV HD",
 "image":"https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/09/Warner-TV.png?fit=1200%2C900&ssl=1",
-"url":"https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8"},
+"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIxIDI6MzM6NTQgUE0maGFzaF92YWx1ZT1qem90U1UrV1RJbjdPSnBrMWkwRHVnPT0mdmFsaWRtaW51dGVzPTIw"},
 
 
 ]
