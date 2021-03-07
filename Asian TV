@@ -76,6 +76,12 @@
 
 "url":"https://spbtv.online/channels/dialogi-o-rybalke.html#autoplay"},
 
+{"name":"itv",
+
+"image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png",
+
+"url":"http://photocall.tv:80/iEg7/ftv.m3u8?ch=itv"},
+
 
 {"name":"itv2",
 
@@ -156,13 +162,6 @@
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkdszOea6N87OJ2XjlIuEJWE5FEK7vfyle9Q&usqp=CAU",
 
 "url":"https://m.heibaizhibo.com/live/1095544"},
-
-
-{"name":"ITV-1 UK",
-
-"image":"https://static.wikia.nocookie.net/logopedia/images/2/2a/ITV_%282013%29.svg/revision/latest/scale-to-width-down/340?cb=20200812093847",
-
-"url":"http://photocall.tv:80/iEg7/ftv.m3u8?ch=itv"},
 
 
 {"name":"CCTV 5",
