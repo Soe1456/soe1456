@@ -118,11 +118,11 @@
 "url":"https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8#"},
 
 
-{"name":"CDN Sports",
+{"name":"All Sports",
 
-"image":"http://servidor1.xyz/images/cdn.png",
+"image":"https://lookhu.tv/uploads/tv_image/sm/all-sports.png",
 
-"url":"https://dcunilive24-lh.akamaihd.net/i/dclive_1@322095/master.m3u8?hdnea=st=1615084695~exp=1615085095~acl=/i/dclive_1@322095*~hmac=2405d3f195ddda4366629a160a6947fc37088b79c70334b7c67e8ebfc2727df4"},
+"url":"https://lookhu.tv/live-tv/all-sports.html"},
 
 
 {"name":"Arirang",
