@@ -77,25 +77,25 @@
 "url":"https://spbtv.online/channels/dialogi-o-rybalke.html#autoplay"},
 
 
-{"name":"itv 2",
+{"name":"itv2",
 
 "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1200px-ITV2_logo_2015.svg.png",
 
 "url":"http://photocall.tv:80/iEg7/ftv.m3u8?ch=itv2"},
 
 
-{"name":"MNC TV",
+{"name":"itv3",
 
-"image":"https://media0.giphy.com/media/A5ZbhERZbkpD2qBCU8/giphy.gif",
+"image":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png",
 
-"url":"https://m.rctiplus.com/tv/mnctv"},
+"url":"http://photocall.tv:80/iEg7/ftv.m3u8?ch=itv3"},
 
 
-{"name":"RCTI TV",
+{"name":"itv4",
 
-"image":"https://media1.giphy.com/media/39hqzJEgde9HcTwcT2/giphy.gif",
+"image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png",
 
-"url":"https://m.rctiplus.com/tv/rcti"},
+"url":"http://photocall.tv:80/iEg7/ftv.m3u8?ch=itv4"},
 
 
 {"name":"TVONE",
