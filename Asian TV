@@ -118,18 +118,18 @@
 "url":"https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8#"},
 
 
-{"name":"Trans tv",
+{"name":"CDN Sports",
 
-"image":"https://media3.giphy.com/media/x49CPf2UCcNDncbqVY/giphy.gif",
+"image":"http://servidor1.xyz/images/cdn.png",
 
-"url":"https://www.transtv.co.id/live"},
+"url":"https://dcunilive24-lh.akamaihd.net/i/dclive_1@322095/master.m3u8?hdnea=st=1615084695~exp=1615085095~acl=/i/dclive_1@322095*~hmac=2405d3f195ddda4366629a160a6947fc37088b79c70334b7c67e8ebfc2727df4"},
 
 
 {"name":"NET TV",
 
 "image":"https://media1.giphy.com/media/QwmllAoe35biowjzbf/source.gif",
 
-"url":"https://www.squidtv.net/asia/indonesia/indonesia-010.html"},
+"url":"http://photocall.tv/iEg7/l1?ch=cdn_deportes"},
 
 
 {"name":"CNN INDONESIA",
