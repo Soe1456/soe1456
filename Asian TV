@@ -243,11 +243,11 @@
 
 "url":"http://media.profesionalhosting.com:1935/8437/8437/mono.m3u8"},
 
-{"name":"SCTV INDO",
+{"name":"5 USA",
 
-"image":"https://media2.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Channel_5_USA.svg/1280px-Channel_5_USA.svg.png",
 
-"url":"https://www.sctv.co.id/live-streaming"},
+"url":"http://photocall.tv:80/iEg7/ftv.m3u8?ch=5usa"},
 
 {"name":"SCTV INDO",
 
