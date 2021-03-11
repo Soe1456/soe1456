@@ -12,11 +12,12 @@
  "url": "https://dl.dropboxusercontent.com/s/h3zhvg3dy6ewh2n/LISTA%20DAILY.m3u?dl=0",
  "import": "true"},
 
-{"name":"tve 1",
+{"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ "import": "true"},
 
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
-"url":"https://rtvelivestream.akamaized.net:443/la1_4000.m3u8"},
-"import": "true"},
+
  
 
 
