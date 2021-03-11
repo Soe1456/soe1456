@@ -1,23 +1,11 @@
-{
-	"name": "inter tv",
-	"author": "muse",
-	"image": "https://cdn.dribbble.com/users/5055/screenshots/5066074/dribbble-muse.gif",
-	"url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/Museplay%20Sport%201",
-	"telegram": "museplay",
-    "info": "museplay",
-    "groups": [
-
-{"name": "(CALVO SPORT) | Añadir Lista",
- "image": "https://i.imgur.com/YAaMwxN.png",
- "url": "https://dl.dropboxusercontent.com/s/h3zhvg3dy6ewh2n/LISTA%20DAILY.m3u?dl=0",
- "import": "true"},
-
-{"name":"museplaysport1",
-"image":"https://i2.wp.com/codemyui.com/wp-content/uploads/2019/11/Soccer-Ball-Hexagon-Pattern-Loader.gif?fit=880%2C440&ssl=1",
+{"name":"museplaysport1","author": "muse",
+"image":"https://cdn.dribbble.com/users/5055/screenshots/5066074/dribbble-muse.gif",
+"url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/Soe%20Sports%20TV",
 "stations":
-},
-]
-},
+[
+
+{name: "beInSport 1TH",image: "https://i.imgur.com/PxNN4J9.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
 
 {"name": "tve 1",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
