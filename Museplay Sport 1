@@ -4,17 +4,45 @@
 "stations":
 [
 
-{name: "beInSport 1TH",image: "https://i.imgur.com/PxNN4J9.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ "import": "true"},
 
 {"name": "tve 1",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
  "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
  "import": "true"},
 
-{name: "Foxsports1",image: "https://i.imgur.com/8XcXaof.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
+{"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ "import": "true"},
 
+{"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ "import": "true"},
+
+{"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ "import": "true"},
+
+{"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ "import": "true"},
+
+{"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ "import": "true"},
+
+{"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ "import": "true"},
 
  
 
