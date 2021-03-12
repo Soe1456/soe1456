@@ -39,14 +39,14 @@
  "url": "https://globoesporte.online/channels/hd/hd2.php",
  "import": "true"},
 
-{"name": "espn",
+{"name": "espn 3",
  "image": "https://i.pinimg.com/736x/87/aa/5c/87aa5c828e34a43538b7bd42e73a5326.jpg",
  "url": "https://dpelota.com/espn3hd.php",
  "import": "true"},
 
-{"name": "tve 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+{"name": "espn hd",
+ "image": "https://tse4.mm.bing.net/th?id=OIP.mSX2SzEpkCvGgcJgngDd_gHaBY&pid=Api&P=0&w=641&h=121",
+ "url": "https://dpelota.com/ver/espn.php",
  "import": "true"},
  
  {"name": "tve 1",
