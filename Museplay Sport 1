@@ -11,7 +11,7 @@
 
 {"name": "tsn 1",
  "image": "https://vignette2.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053",
- "url": "https://sportsbay.org/watch/96801/1/tsn-2-live.html",
+ "url": "http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8",
  "import": "true"},
 
 {"name": "tdp channel",
