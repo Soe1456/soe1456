@@ -49,9 +49,9 @@
  "url": "https://dpelota.com/ver/espn.php",
  "import": "true"},
  
- {"name": "tve 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ {"name": "espn 2",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1200px-Espn2.svg.png",
+ "url": "https://dpelota.com/ver/espn2.php",
  "import": "true"},
  
  {"name": "tve 1",
