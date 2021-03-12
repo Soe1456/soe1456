@@ -108,9 +108,9 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
  "url": "http://mifut.ligatv.online/espndep.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
  
- {"name": "tve 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "Cannal 5",
+ "image": "https://www.televisiongratishd.com/img/canal5.png",
+ "url": "https://www.televisiongratishd.com/canal-5-en-vivo.html",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
  
  {"name": "tve 1",
