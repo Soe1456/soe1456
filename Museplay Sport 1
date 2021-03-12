@@ -14,14 +14,14 @@
  "url": "http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8",
  "import": "true"},
 
-{"name": "tdp channel",
- "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
- "url": "https://rtvelivestream-lvlt.rtve.es:443/tdp_4000.m3u8",
+{"name": "Direct Sports channel",
+ "image": "https://tse3.mm.bing.net/th?id=OIP.OXf_VRx94yZLeUXC4o7P9AHaCE&pid=Api&P=0&w=568&h=160",
+ "url": "https://dpelota.com/ver/directvsports.php",
  "import": "true"},
 
-{"name": "BT Sport 1",
- "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5tnlFqhuiPLb1Fk0DcXZdUZpHIT0d9QK58g&usqp=CAU",
- "url": "https://sportsbay.org/watch/97360/1/manchester-united-vs-milan-live.html",
+{"name": "Tyc Sports",
+ "image": "https://vivos.superliga-argentina.com/wp-content/uploads/2020/08/1280px-TyC_Sports_logo.svg_.png",
+ "url": "https://dpelota.com/ver/foxsportspremium.php",
  "import": "true"},
 
 {"name": "Deportes TV",
