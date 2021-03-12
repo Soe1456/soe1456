@@ -89,19 +89,19 @@
  "url": "http://mifut.ligatv.online/beines.php",
  "import": "true"},
  
- {"name": "tve 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ {"name": "Bein Sport HD",
+ "image": "https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest?cb=20140712174845",
+ "url": "http://mifut.ligatv.online/beinhd.php",
  "import": "true"},
  
- {"name": "tve 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ {"name": "Clarosport",
+ "image": "https://vignette.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest?cb=20140409052254",
+ "url": "http://mifut.ligatv.online/clarosports.php",
  "import": "true"},
  
- {"name": "tve 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ {"name": "espndeportes tv",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",
+ "url": "http://mifut.ligatv.online/espndep.php",
  "import": "true"},
  
  {"name": "tve 1",
