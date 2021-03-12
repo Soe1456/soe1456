@@ -9,9 +9,9 @@
  "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
  "import": "true"},
 
-{"name": "tve 2",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la2_4000.m3u8",
+{"name": "tsn 1",
+ "image": "https://vignette2.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053",
+ "url": "https://sportsbay.org/watch/96800/1/tsn-1-live.html",
  "import": "true"},
 
 {"name": "tdp channel",
