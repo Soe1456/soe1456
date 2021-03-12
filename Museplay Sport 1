@@ -4,6 +4,13 @@
 "stations":
 [
 
+
+{
+name: "True Premier hd1",image: "https://www.movieclubhd.tv/src/images/live/premierhd1_720.jpg",
+url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/?id=176",referer: "https://adfiptv.com/",playInNatPlayer: "true"
+}, 
+
+
 {"name": "tve 1",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
  "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
