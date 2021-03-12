@@ -110,7 +110,7 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
  
  {"name": "Cannal 5",
  "image": "https://www.televisiongratishd.com/img/canal5.png",
- "url": "https://www.televisiongratishd.com/canal-5-en-vivo.html",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/elcinco.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
  
  {"name": "tve 1",
