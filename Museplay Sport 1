@@ -229,7 +229,7 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
 
 {"name": "Miami tv",
  "image": "https://tse1.explicit.bing.net/th?id=OIP.Zm2DSs44c-WmVPc25zZclgHaEK&pid=Api&P=0&w=273&h=154",
- "url": "http://www.reloltv.com/playlist.php?playlist=https://github.com/iptv-org/iptv/raw/master/channels/us.m3u",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "https://github.com/iptv-org/iptv/raw/master/channels/us.m3u",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 
 	]
