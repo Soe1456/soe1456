@@ -90,9 +90,33 @@
  "image": "https://marqueecinemas.cardfoundry.com/merch/marqueecinemas/images/logo.png",
  "url": "http://yrsprts.stream/live?v=marquee",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "MLB NETWORK",
+ "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
+ "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "MLB NETWORK",
+ "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
+ "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "MLB NETWORK",
+ "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
+ "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "MLB NETWORK",
+ "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
+ "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "MLB NETWORK",
+ "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
+ "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "MLB NETWORK",
+ "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
+ "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "MLB NETWORK",
+ "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
+ "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 
 ]
