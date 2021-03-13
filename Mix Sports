@@ -4,17 +4,35 @@
 "stations":
 [
 
-{name: "beInSport 1TH",image: "https://i.imgur.com/PxNN4J9.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
-{name: "beInSport 2TH",image: "https://i.imgur.com/jMseUW1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"},
 
-{name: "Foxsports1",image: "https://i.imgur.com/8XcXaof.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports1&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
-{name: "Foxsports2",image: "https://i.imgur.com/gfBvo1Z.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-foxsports2&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"}, 
-{name: "Foxsports3",image: "https://i.imgur.com/NqEEbOT.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-foxsports3&api_key=hmcb4rf66f",referer: "https://dooball66.com/",playInNatPlayer: "true"},
+{"name": "beInSport 1TH",
+ "image": "https://i.imgur.com/PxNN4J9.png",
+ "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "beInSport 2TH",
+ "image": "https://i.imgur.com/jMseUW1.png",
+ "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "Foxsports1",
+ "image": "https://i.imgur.com/8XcXaof.png",
+ "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "Foxsports2",
+ "image": "https://i.imgur.com/gfBvo1Z.png",
+ "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-foxsports2&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "Foxsports3",
+ "image": "https://i.imgur.com/NqEEbOT.png",
+ "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-foxsports3&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "beInSport 1TH",
+ "image": "https://i.imgur.com/PxNN4J9.png",
+ "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "beInSport 1TH",
+ "image": "https://i.imgur.com/PxNN4J9.png",
+ "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
 
 
 
