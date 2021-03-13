@@ -33,9 +33,9 @@
  "image": "http://vignette1.wikia.nocookie.net/logopedia/images/5/59/FoxSportsNews_logo_1.png/revision/latest?cb=20130509121604",
  "url": "http://www.reloltv.com/play.php?video=https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8&about=Watch%20FOX%20Sports%20News%20online%20live",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
-{"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+{"name": "Russian 1 tv",
+ "image": "https://vignette2.wikia.nocookie.net/logopedia/images/8/8c/Russiya_hd.png/revision/latest?cb=20130108172845",
+ "url": "http://telehub.org/rossiya-1.html",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "beInSport 1TH",
  "image": "https://i.imgur.com/PxNN4J9.png",
