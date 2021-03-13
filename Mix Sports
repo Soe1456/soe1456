@@ -78,17 +78,17 @@
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",
  "url": "http://yrsprts.stream/live?v=fs1",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "Fox Sport 2",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",
+ "url": "http://yrsprts.stream/live?v=fs2",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "IMPACT LIVE",
+ "image": "https://2.bp.blogspot.com/-B9s6sCDO7kM/WMA-d_MZXVI/AAAAAAAACNU/YjbnKQmwT9MCYUwv9kKMx_-tjwg-sRhQwCLcB/s1600/205LiveLogo_Ntwk-5b42a1a7e968946649d8c9f08339c1b6-620x400.jpg",
+ "url": "http://yrsprts.stream/live?v=tvx2?ch=impactlive",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "MARQUEE TV",
+ "image": "https://marqueecinemas.cardfoundry.com/merch/marqueecinemas/images/logo.png",
+ "url": "http://yrsprts.stream/live?v=marquee",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "beInSport 1TH",
  "image": "https://i.imgur.com/PxNN4J9.png",
