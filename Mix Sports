@@ -126,17 +126,17 @@
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_(2020_Logo).svg/800px-RTSH_Sport_(2020_Logo).svg.png",
  "url": "https://livetvcentral.com/tv/rtsh-sport",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "Miami TV",
- "image": "http://www.giniko.com/logos/190x110/95.png",
+ {"name": "TV One INDO ",
+ "image": "http://2.bp.blogspot.com/-mjcoIwjSny8/U7iW_nwvghI/AAAAAAAAAbg/OWCfZVZz2Gg/s1600/tv-one-streaming.png",
  "url": "https://youtu.be/qp3pKL9TYNY",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
-  {"name": "Miami TV",
- "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+  {"name": "SCTV TV INDO",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",
+ "url": "https://livetvcentral.com/tv/sctv",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
   {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "https://www.sctv.co.id/live-streaming",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
   {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
