@@ -118,15 +118,35 @@
  "image": "http://www.giniko.com/logos/190x110/95.png",
  "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "Miami TV",
- "image": "http://www.giniko.com/logos/190x110/95.png",
+ {"name": "Vergina TV",
+ "image": "https://live-tv-channels.org/pt-data/uploads/logo/gr-vergina-tv-9734.jpg",
  "url": "https://livetvcentral.com/tv/vergina-tv",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "RTSH sport ",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_(2020_Logo).svg/800px-RTSH_Sport_(2020_Logo).svg.png",
+ "url": "https://livetvcentral.com/tv/rtsh-sport",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
  "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "Miami TV",
+  {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
  "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
