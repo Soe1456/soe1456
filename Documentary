@@ -4,9 +4,6 @@
 "stations":
 [
 
-{"name":"LoveNature 4K","image":"https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png","url":"http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8"},
-{"name":"LoveNature 4K","image":"https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png","url":"http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/playlist.m3u8"},
-
 {"name":"HISTORY HD","image":"https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg","url": "https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8"},
 {"name":"H2 HD","image":"https://www.pngkit.com/png/detail/432-4329573_h2-channel-logo-h2-hd.png","url": "https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8"},
 
@@ -24,6 +21,21 @@
 {"name":"สำรวจโลก","image":"https://img.tnews.co.th/userfiles/images/1-5(123).jpg","url": "https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8"}, 
 {"name":"MYSCIHD","image":"https://www.butterfire.com/wp-content/uploads/MySci.jpg","url":"https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8"},
 {"name":"LBBCEARTH","image":"https://www.bbc.co.uk/staticarchive/a1f7c6fbd58bbe3f65841e104829723e51032580.jpg","url":"https://www.livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8"},
+
+{
+"name": "Lovenatural tv",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAllBrI1v4Xi-OOV8Fl5beiDbu4AR2RVxNjg&usqp=CAU",  
+"url": "https://bamus-eng-roku.amagi.tv:443/playlist1080p.m3u8",
+"referer": "http://www.cxtvlive.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Lovenatural tv 4k",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-adRIsqyBtPxw6fsFB0q0UnuMbRrseZ5wXA&usqp=CAU",  
+"url": "https://bamus-eng-roku.amagi.tv:443/playlist1080p.m3u8",
+"referer": "http://www.cxtvlive.com/",
+"playInNatPlayer": "true"
+},
 
  {"name": "HUNT CHANNEL",
  "image": "https://www.huntchannel.tv/wp-content/uploads/2020/01/Place-Holder-Hunt-Channel-logo.png",
