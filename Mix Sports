@@ -58,17 +58,17 @@
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1920px-Espn_deportes.svg.png",
  "url": "http://yrsprts.stream/live?v=espndep",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "ESPN SUR",
+ "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Logo_ESPN.png/1200px-Logo_ESPN.png",
+ "url": "http://yrsprts.stream/live?v=espn2sur",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "ESPN SUR 2",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png",
+ "url": "http://yrsprts.stream/live?v=espnsur",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "ESPN SUR 3",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+ "url": "http://yrsprts.stream/live?v=espn3sur",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "beInSport 1TH",
  "image": "https://i.imgur.com/PxNN4J9.png",
