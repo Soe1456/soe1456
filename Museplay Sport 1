@@ -199,13 +199,21 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
  "url": "http://mifut.ligatv.online/telemundo.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
-  {"name": "tve 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+  {"name": "TUDN MX",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1024px-TUDN_Logo.svg.png",
+ "url": "http://mifut.ligatv.online/tudn-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
-  {"name": "tve 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+  {"name": "TUDN US",
+ "image": "https://corporate.univision.com/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",
+ "url": "http://mifut.ligatv.online/tudn-us.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "TVC Deportes",
+ "image": "https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Tvcd.png/revision/latest?cb=20120110222256",
+ "url": "http://mifut.ligatv.online/tvcdep-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "UNIMAS TV",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png",
+ "url": "http://mifut.ligatv.online/unimas.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "tve 1",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
