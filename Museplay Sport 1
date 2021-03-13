@@ -187,6 +187,26 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png",
  "url": "http://mifut.ligatv.online/galavision.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
+ {"name": "HAVOC TV",
+ "image": "https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/11/Havoc-Television.png?resize=980%2C513",
+ "url": "http://mifut.ligatv.online/havoc.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Rai Italia",
+ "image": "https://www.pinpng.com/pngs/m/204-2047466_rai-italia-wikipedia-rai-italia-logo-hd-png.png",
+ "url": "http://mifut.ligatv.online/rai.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "Telemundo tv",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
+ "url": "http://mifut.ligatv.online/telemundo.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
  {"name": "tve 1",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
  "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
@@ -195,15 +215,7 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
  "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
-  {"name": "tve 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
- 
-  {"name": "tve 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
- 
-  {"name": "tve 1",
+ {"name": "tve 1",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
  "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
