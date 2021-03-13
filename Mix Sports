@@ -94,21 +94,21 @@
  "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
  "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "MLB NETWORK",
- "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
- "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "Swiss-Sports Channel",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Swiss-Ski_logo.svg/1024px-Swiss-Ski_logo.svg.png",
+ "url": "http://yrsprts.stream/live?v=tvx2?ch=swisssport",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "MLB NETWORK",
- "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
- "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "RTMSPORTS",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",
+ "url": "http://yrsprts.stream/live?v=tvx2?ch=rtmsports",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "MLB NETWORK",
- "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
- "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "Sport Italia Cio",
+ "image": "https://www.digital-news.it/UserFiles/sport_italia_logo(1).jpg",
+ "url": "http://yrsprts.stream/live?v=tvx2?ch=sportitc",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "MLB NETWORK",
- "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
- "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "Tenis Channel",
+ "image": "https://tse2.mm.bing.net/th?id=OIP.n3Ic6rBeB0z5zaFlynJY_QHaCU&pid=Api&P=0&w=243&h=76",
+ "url": "http://yrsprts.stream/live?v=tennis",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "MLB NETWORK",
  "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
