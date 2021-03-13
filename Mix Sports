@@ -37,15 +37,15 @@
  "image": "https://vignette2.wikia.nocookie.net/logopedia/images/8/8c/Russiya_hd.png/revision/latest?cb=20130108172845",
  "url": "http://telehub.org/rossiya-1.html",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
+ {"name": "FC Bayern tv",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/FC_Bayern.tv_live_Logo.svg/1200px-FC_Bayern.tv_live_Logo.svg.png",
  "url": "http://yrsprts.stream/live?v=bayernfc",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "Bek Sports East",
+ "image": "https://tse2.mm.bing.net/th?id=OIP.WGgYxlNe8fSXAgOWKJXeRgHaCX&pid=Api&P=0&w=482&h=154",
+ "url": "http://yrsprts.stream/live?v=tvx2?ch=bekeast",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
+ {"name": "",
  "image": "https://i.imgur.com/PxNN4J9.png",
  "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
