@@ -70,13 +70,13 @@
  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
  "url": "http://yrsprts.stream/live?v=espn3sur",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "Foxsoccerplus",
+ "image": "http://www.unimasgo.com/wp-content/uploads/2017/07/Fox_Soccer_Plus.png",
+ "url": "http://yrsprts.stream/live?v=fsplus",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "Fox Sport 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",
+ "url": "http://yrsprts.stream/live?v=fs1",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "beInSport 1TH",
  "image": "https://i.imgur.com/PxNN4J9.png",
