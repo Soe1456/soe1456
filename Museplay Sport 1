@@ -183,15 +183,27 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",
  "url": "http://mifut.ligatv.online/foxsports3-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "tve 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://edge-n1.worldwidetv.club:443/pERZFmRlFNxg7WGYoEWfoQ/1615586117/live-o33-th/epl-1_480/playlist.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "GALAVISION TV",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png",
+ "url": "http://mifut.ligatv.online/galavision.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "tve 1",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
  "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "tve 1",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "tve 1",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
  "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
