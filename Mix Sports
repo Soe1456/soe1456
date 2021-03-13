@@ -45,9 +45,9 @@
  "image": "https://tse2.mm.bing.net/th?id=OIP.WGgYxlNe8fSXAgOWKJXeRgHaCX&pid=Api&P=0&w=482&h=154",
  "url": "http://yrsprts.stream/live?v=tvx2?ch=bekeast",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "Bek Sports Wast",
+ "image": "https://ndhsaa.com/uploads/images/bek_sports_LOGO.jpg",
+ "url": "http://yrsprts.stream/live?v=tvx2?ch=bekwest",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "beInSport 1TH",
  "image": "https://i.imgur.com/PxNN4J9.png",
