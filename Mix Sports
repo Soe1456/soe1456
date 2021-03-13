@@ -138,9 +138,9 @@
  "image": "https://inilahonline.com/wp-content/uploads/2018/03/INDOSIAR.png",
  "url": "https://www.indosiar.com/",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
-  {"name": "Miami TV",
- "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "https://www.sctv.co.id/live-streaming",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+  {"name": "RCTI INDO",
+ "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/RCTI_tegak.png/799px-RCTI_tegak.png",
+ "url": "https://www.rctiplus.com/tv/rcti#",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
   {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
