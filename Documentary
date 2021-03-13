@@ -25,6 +25,14 @@
 {"name":"MYSCIHD","image":"https://www.butterfire.com/wp-content/uploads/MySci.jpg","url":"https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8"},
 {"name":"LBBCEARTH","image":"https://www.bbc.co.uk/staticarchive/a1f7c6fbd58bbe3f65841e104829723e51032580.jpg","url":"https://www.livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8"},
 
+ {"name": "HUNT CHANNEL",
+ "image": "https://www.huntchannel.tv/wp-content/uploads/2020/01/Place-Holder-Hunt-Channel-logo.png",
+ "url": "http://yrsprts.stream/live?v=hunt",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+  {"name": "HUNT CHANNEL",
+ "image": "https://www.huntchannel.tv/wp-content/uploads/2020/01/Place-Holder-Hunt-Channel-logo.png",
+ "url": "http://yrsprts.stream/live?v=hunt",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+
 
 ]
 }
