@@ -29,6 +29,10 @@
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png",
  "url": "http://www.dealood.com/video/563",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
+  {"name": "ESPN 2",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png",
+ "url": "http://yrsprts.stream/live?v=espn2",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
   {"name": "Fox Sport News",
  "image": "http://vignette1.wikia.nocookie.net/logopedia/images/5/59/FoxSportsNews_logo_1.png/revision/latest?cb=20130509121604",
  "url": "http://www.reloltv.com/play.php?video=https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8&about=Watch%20FOX%20Sports%20News%20online%20live",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
@@ -49,13 +53,10 @@
  "image": "https://ndhsaa.com/uploads/images/bek_sports_LOGO.jpg",
  "url": "http://yrsprts.stream/live?v=tvx2?ch=bekwest",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "ESPN DEPORTES",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1920px-Espn_deportes.svg.png",
+ "url": "http://yrsprts.stream/live?v=espndep",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "beInSport 1TH",
  "image": "https://i.imgur.com/PxNN4J9.png",
