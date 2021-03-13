@@ -134,13 +134,13 @@
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",
  "url": "https://livetvcentral.com/tv/sctv",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
+   {"name": "INDOSIAR INDO",
+ "image": "https://inilahonline.com/wp-content/uploads/2018/03/INDOSIAR.png",
+ "url": "https://www.indosiar.com/",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
   {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
  "url": "https://www.sctv.co.id/live-streaming",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
- 
-  {"name": "INDOSIAR INDO",
- "image": "https://inilahonline.com/wp-content/uploads/2018/03/INDOSIAR.png",
- "url": "blob:https://www.vidio.com/27dbab3c-2446-4969-af4b-4b07dbf3110d",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
   {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
