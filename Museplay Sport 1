@@ -227,6 +227,9 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
  "image": "https://thesavvyscreener.com/wp-content/uploads/2019/12/beIN-SPORTS-XTRA_LOGO-1024x127.png",
  "url": "http://www.reloltv.com/play.php?video=https://bein-plutolive-vo.akamaized.net/playlist.m3u8&about=Watch%20Bein%20Sports%20Extra%20online%20live%20tv",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
+{"name": "Miami tv",
+ "image": "https://tse1.explicit.bing.net/th?id=OIP.Zm2DSs44c-WmVPc25zZclgHaEK&pid=Api&P=0&w=273&h=154",
+ "url": "http://www.reloltv.com/playlist.php?playlist=https://github.com/iptv-org/iptv/raw/master/channels/us.m3u",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 
 	]
