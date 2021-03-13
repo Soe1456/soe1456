@@ -110,9 +110,9 @@
  "image": "https://tse2.mm.bing.net/th?id=OIP.n3Ic6rBeB0z5zaFlynJY_QHaCU&pid=Api&P=0&w=243&h=76",
  "url": "http://yrsprts.stream/live?v=tennis",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "MLB NETWORK",
- "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
- "url": "http://yrsprts.stream/live?v=mlbn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "BEIN USA",
+ "image": "https://tse1.mm.bing.net/th?id=OIP.9LdbIiCqw5ATxP942O018gHaB7&pid=Api&P=0&w=528&h=138",
+ "url": "https://sports24.stream/tv/v?id=beinusa",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "MLB NETWORK",
  "image": "https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg",
