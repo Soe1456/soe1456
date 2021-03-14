@@ -11,7 +11,23 @@
         "image": "https://tse2.mm.bing.net/th?id=OIP.TqX7bQIbdGKGB5jqg3x6qAAAAA&pid=Api&P=0&w=214&h=43",
         "URL": "https://raw.githubusercontent.com/Soe1456/soe1456/main/Fomny%20Sport",
         "stations": [
+        
+        
+{
+"name": "Canal+ Sport",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://runnel.ir/bein-sports-3/",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
 
+{
+"name": "Canal+ Sport",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://runnel.ir/bein-sports-1/",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
 
 {
 "name": "Bein-Sports-Spainish",  
@@ -257,22 +273,6 @@
 "name": "ESPN 2",  
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sportzonline.to/channels/hd/hd8.php",
-"referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sporting77.com/36e8c5752d63f27b95de5be9d348c880-live.html",
-"referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "http://runnel.ir/bein-sports-1/",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
