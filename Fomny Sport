@@ -22,17 +22,17 @@
 },
 
 {
-"name": "Lovenatural tv",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAllBrI1v4Xi-OOV8Fl5beiDbu4AR2RVxNjg&usqp=CAU",  
-"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv.php?iframe=http://free.crichd.online/embed2.php?id=skysp1",
+"name": "Bein-Sports-Spainish",  
+"image": "https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/bein_sports_spanish_c.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv.php?iframe=//vercanalestv1.com/tv/deportes/laliga.php",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 
 {
-"name": "Lovenatural tv",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAllBrI1v4Xi-OOV8Fl5beiDbu4AR2RVxNjg&usqp=CAU",  
-"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv.php?iframe=http://free.crichd.online/embed2.php?id=skysp1",
+"name": "Bein-Sports-Spainish",  
+"image": "https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/bein_sports_spanish_c.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop-iframe.php?http://verliga1.net/tv/deportes/verliga.php",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
