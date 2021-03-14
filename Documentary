@@ -4,6 +4,14 @@
 "stations":
 [
 
+{
+"name": "Lovenatural tv",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAllBrI1v4Xi-OOV8Fl5beiDbu4AR2RVxNjg&usqp=CAU",  
+"url": "https://bamus-eng-roku.amagi.tv:443/playlist1080p.m3u8",
+"referer": "http://www.cxtvlive.com/",
+"playInNatPlayer": "true"
+},
+
 {"name":"HISTORY HD","image":"https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg","url": "https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8"},
 {"name":"H2 HD","image":"https://www.pngkit.com/png/detail/432-4329573_h2-channel-logo-h2-hd.png","url": "https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8"},
 
