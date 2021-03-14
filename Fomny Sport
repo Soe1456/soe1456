@@ -22,9 +22,9 @@
 },
 
 {
-"name": "Bein-Sports-Spainish",  
-"image": "https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/bein_sports_spanish_c.png",  
-"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv.php?iframe=//vercanalestv1.com/tv/deportes/laliga.php",
+"name": "Arenasport 3",  
+"image": "https://tse4.mm.bing.net/th?id=OIP.bjD9v-m_DptdKytJ8Iyl6wHaBI&pid=Api&P=0&w=611&h=95",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sportzonline.to/channels/hd/hd8.php",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
@@ -32,7 +32,7 @@
 {
 "name": "Bein-Sports-Spainish",  
 "image": "https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/bein_sports_spanish_c.png",  
-"url": "http://fomny.com/Menu2/Pop3/Pop-iframe.php?http://verliga1.net/tv/deportes/verliga.php",
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-890x750.php?iframe=http://freestreams-live1.com/bein1turkey-s1/",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
