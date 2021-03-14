@@ -54,8 +54,32 @@
 },
 
 {
+"name": "Bein-Sports-Max 1",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://www.sporizle1.pw/embed/beinsport-max1-live",
+"referer": "https://www.doo2you.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein-Sports-Max 2",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://www.sporizle1.pw/embed/beinsport-max2-live",
+"referer": "https://www.doo2you.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports Haber",  
+"image": "https://images.performgroup.com/di/library/GOAL/e/56/bein-sports-haber_e3o7g26368ri1xs0ojg71p5g0.jpeg?t=1336759927&quality=90&h=300",  
+"url": "https://www.canlitv.today/bein-sports-haber",
+"referer": "https://www.doo2you.com/",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "Bein-Sports-Haber",  
-"image": "https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/bein_sports_spanish_c.png",  
+"image": "https://images.performgroup.com/di/library/GOAL/e/56/bein-sports-haber_e3o7g26368ri1xs0ojg71p5g0.jpeg?t=1336759927&quality=90&h=300",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://www.sporizle1.pw/embed/beinsport-haber-live",
 "referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
@@ -78,9 +102,9 @@
 },
 
 {
-"name": "Smart-Sports",  
-"image": "https://tse4.mm.bing.net/th?id=OIP.PzBdqu5IHcZd7xkT4DB5BwAAAA&pid=Api&P=0&w=300&h=300",  
-"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://www.sporizle1.pw/embed/smartsport-live?web",
+"name": "Bein Sports Haber",  
+"image": "https://images.performgroup.com/di/library/GOAL/e/56/bein-sports-haber_e3o7g26368ri1xs0ojg71p5g0.jpeg?t=1336759927&quality=90&h=300",  
+"url": "https://www.canlitv.today/bein-sports-haber",
 "referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
 },
