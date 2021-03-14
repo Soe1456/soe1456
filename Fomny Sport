@@ -182,9 +182,9 @@
 },
 
 {
-"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "https://s-33.streamtec.xyz/hls/stream.m3u8",
+"name": "bEIN sPORT ar",  
+"image": "https://tse2.mm.bing.net/th?id=OIP.ZDLto8N8m2BIKF1Zp2yVFQHaHa&pid=Api&P=0&w=300&h=300",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://ustreamix.to/stream.php?id=bein-sports-usa",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
@@ -246,17 +246,17 @@
 },
 
 {
-"name": "Direct Gol TV",  
-"image": "https://tse4.mm.bing.net/th?id=OIP.s8Eb2aAzWn41QU92o0GHVgHaB4&pid=Api&P=0&w=577&h=147",  
-"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sportzonline.to/channels/hd/hd6.php",
+"name": "Canal+ Sport",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "https://s-33.streamtec.xyz/hls/stream.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 
 {
-"name": "Foot+ TV",  
-"image": "http://vignette1.wikia.nocookie.net/logopedia/images/4/48/Foot%2B_logo.svg/revision/latest/scale-to-width-down/640?cb=20100529173748",  
-"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=//sportsbay.org/embed/68949/1/bein-sports-live.html",
+"name": "BT SPORT 1 HD",  
+"image": "https://www.torquayunited.com/wp-content/uploads/NEW-BT-Sport-Logo-RGB-1024x250.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://v2.sportzonline.to/channels/hd/hd1.php",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
