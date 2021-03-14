@@ -286,10 +286,10 @@
 },
 
 {
-"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "https://v3.sportzonline.to/channels/pt/sporttv1.php",
-"referer": "http://fomny.com/",
+"name": "NBCSN PRE",  
+"image": "http://static3.wikia.nocookie.net/__cb20130903050720/logopedia/images/d/d7/NBCSN_Logo.png",  
+"url": "https://v6.sportzonline.to/channels/hd/hd2.php",
+"referer": "https://v6.sportzonline.to/",
 "playInNatPlayer": "true"
 },
 
