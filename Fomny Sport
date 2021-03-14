@@ -262,9 +262,9 @@
 },
 
 {
-"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "https://s-33.streamtec.xyz/hls/stream.m3u8",
+"name": "BT SPORT 1 HD",  
+"image": "https://www.torquayunited.com/wp-content/uploads/NEW-BT-Sport-Logo-RGB-1024x250.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sporting77.com/4c01f96bf4590f97c918a1bb2c009550-live.html#sport7.pm",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
