@@ -142,11 +142,35 @@
  "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/RCTI_tegak.png/799px-RCTI_tegak.png",
  "url": "https://www.rctiplus.com/tv/rcti#",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
-  {"name": "Miami TV",
- "image": "http://www.giniko.com/logos/190x110/95.png",
+  {"name": "Canal Sexta tv",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/1200px-La_Sexta.svg.png",
  "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=//adictosalatele.com/TV/espana/lasexta/",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
   {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
  "url": "http://www.giniko.com/watch.php?id=95",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
