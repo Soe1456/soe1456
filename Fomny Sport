@@ -78,6 +78,78 @@
 },
 
 {
+"name": "Bein Sports 1 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "http://fomny.com/Video/france/04/Bein-sport/pop2.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 2 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "http://channelstream.club/stream/bein_2.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 4 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "http://channelstream.club/stream/bein_4.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 5 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "http://channelstream.club/stream/bein_5.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 6 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "http://channelstream.club/stream/bein_6.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 7 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "http://channelstream.club/stream/bein_7.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 8 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "http://channelstream.club/stream/bein_8.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 9 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "http://channelstream.club/stream/bein_9.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 10 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "http://channelstream.club/stream/bein_10.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "Smart-Sports",  
 "image": "https://tse4.mm.bing.net/th?id=OIP.PzBdqu5IHcZd7xkT4DB5BwAAAA&pid=Api&P=0&w=300&h=300",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://www.sporizle1.pw/embed/smartsport-live?web",
@@ -94,17 +166,17 @@
 },
 
 {
-"name": "Bein Sports Haber",  
-"image": "https://images.performgroup.com/di/library/GOAL/e/56/bein-sports-haber_e3o7g26368ri1xs0ojg71p5g0.jpeg?t=1336759927&quality=90&h=300",  
-"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sportzonline.to/channels/hd/hd6.php",
-"referer": "https://www.doo2you.com/",
+"name": "Bein Sports 10 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "http://channelstream.club/stream/bein_10.php",
+"referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 
 {
 "name": "True Tennis HD",  
 "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F5efbe446-0718-476e-9b93-f42da7d98e81.png&w=320&h=240",  
-"url": "http://fomny.com/Menu2/Pop3/Pop-iframe.php?http://verliga1.net/tv/deportes/verliga.php",
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sportzonline.to/channels/hd/hd6.php",
 "referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
 },
