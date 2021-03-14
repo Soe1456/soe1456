@@ -272,7 +272,47 @@
 {
 "name": "Canal+ Sport",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "https://s-33.streamtec.xyz/hls/stream.m3u8",
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sporting77.com/36e8c5752d63f27b95de5be9d348c880-live.html",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Canal+ Sport",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sporting77.com/36e8c5752d63f27b95de5be9d348c880-live.html",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Canal+ Sport",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sporting77.com/36e8c5752d63f27b95de5be9d348c880-live.html",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BT SPORT 3 HD",  
+"image": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2018/07/18/83e9cafd-8cd3-4f5d-8387-568327780cd4/BT-Sport-new-logo.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://cricfree.in/watch/site/update/bt3",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BT SPORT 2 HD",  
+"image": "https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://cricfree.in/watch/site/update/bt2l",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BT SPORT 1 HD",  
+"image": "https://www.torquayunited.com/wp-content/uploads/NEW-BT-Sport-Logo-RGB-1024x250.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://cricfree.in/watch/site/update/bt1",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
