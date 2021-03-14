@@ -286,16 +286,16 @@
 },
 
 {
-"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sporting77.com/36e8c5752d63f27b95de5be9d348c880-live.html",
+"name": "BTESPN HD",  
+"image": "https://bt-sport-business-prod.s3.amazonaws.com/wp-content/uploads/2018/05/BTSPORT_ESPN_BLACK_RED.png",  
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://cricfree.in/watch/site/update/btespn",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 
 {
-"name": "BT SPORT 3 HD",  
-"image": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2018/07/18/83e9cafd-8cd3-4f5d-8387-568327780cd4/BT-Sport-new-logo.png",  
+"name": "ELEVEN 3 HD",  
+"image": "https://tse1.mm.bing.net/th?id=OIP.H9oUgakLeVAbFWrfONPUvQAAAA&pid=Api&P=0&w=300&h=300",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://cricfree.in/watch/site/update/bt3",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
