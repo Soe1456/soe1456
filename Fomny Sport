@@ -86,9 +86,33 @@
 },
 
 {
+"name": "Bein Sports 1 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "https://channelstream.club/stream/bein_1.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 2 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "https://channelstream.club/stream/bein_2.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "Bein Sports 2 FR",  
 "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
 "url": "http://channelstream.club/stream/bein_2.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 3 FR",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
+"url": "https://channelstream.club/stream/bein_3.php",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
@@ -166,9 +190,9 @@
 },
 
 {
-"name": "Bein Sports 10 FR",  
+"name": "Bein Sports 3 FR",  
 "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",  
-"url": "http://channelstream.club/stream/bein_10.php",
+"url": "https://channelstream.club/stream/bein_3.php",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
