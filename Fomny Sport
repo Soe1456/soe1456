@@ -248,8 +248,16 @@
 {
 "name": "Direct Gol TV",  
 "image": "https://tse4.mm.bing.net/th?id=OIP.s8Eb2aAzWn41QU92o0GHVgHaB4&pid=Api&P=0&w=577&h=147",  
+"url": "http://fomny.com/Menu2/Pop3/iframe_plein_ecran-2.php?iframe=http://channelstream.live/",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Direct Gol TV",  
+"image": "https://tse4.mm.bing.net/th?id=OIP.s8Eb2aAzWn41QU92o0GHVgHaB4&pid=Api&P=0&w=577&h=147",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://sportzonline.to/channels/hd/hd6.php",
-"referer": "https://www.doo2you.com/",
+"referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 
