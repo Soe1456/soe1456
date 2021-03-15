@@ -19,13 +19,61 @@
 "playInNatPlayer": "true"},
 
 {
+"name": "Canal+ Sport",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://runnel.ir/movistar-comedia/",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+
+{
+"name": "Canal+ Sport",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://runnel.ir/movistar-comedia/",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+
+{
+"name": "HBO Asia",  
+"image": "https://fauxpop.com/wp-content/uploads/2014/11/hbo-asia-logo__140308044106.jpg",  
+"url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+{
+"name": "Cinemax (West)",  
+"image": "https://tse3.mm.bing.net/th?id=OIP.STFuZqmIJTOVxAO1AWHoBAHaFj&pid=Api&P=0&w=128&h=96",  
+"url": "https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+{
+"name": "Dubai One",  
+"image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png",  
+"url": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+{
+"name": "TVS Drive In Movie",  
+"image": "http://www.planetchocko.com/wp-content/uploads/2010/11/drive-in-movie-300x186.jpg",  
+"url": "https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+{
+"name": "STIRR Black Cinema",  
+"image": "http://sbgi.net/wp-content/uploads/2019/03/Stirr_Logo_black.png",  
+"url": "https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+{
+"name": "STIRR Movies",  
+"image": "https://ktxs.com/resources/media2/original/full/1280/center/80/4e2b628c-e99f-4364-9d28-126cf6fde4e5-vlcsnap2019011615h57m53s382.jpg",  
+"url": "https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+{
 "name": "Movie Kingdom",  
 "image": "https://fanart.tv/fanart/movies/4349/movielogo/the-kingdom-4fa1b73478017.png",  
 "url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
 "referer": "http://iptv-world-link.blogspot.com/",
 "playInNatPlayer": "true"},
-
-
 {
 "name": "The Asylum TV",  
 "image": "https://fanart.tv/fanart/tv/81211/clearlogo/Asylum-81211.png",  
