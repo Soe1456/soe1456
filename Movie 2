@@ -4,6 +4,19 @@
 "stations":
 [
 
+{"name": "Test",  
+"image": "https://3.bp.blogspot.com/-W0zq3V7GDmY/W01aUNO5peI/AAAAAAAAOQA/DkVDjQbqUvYXkHA2SC0HXxh9jYJUi2_cQCLcBGAs/s1600/Groovy-logo-600x257.png",  
+"url": "http://time4tv.stream/watch/sports/bt-sport-1.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+
+
+{"name": "Test",  
+"image": "https://3.bp.blogspot.com/-W0zq3V7GDmY/W01aUNO5peI/AAAAAAAAOQA/DkVDjQbqUvYXkHA2SC0HXxh9jYJUi2_cQCLcBGAs/s1600/Groovy-logo-600x257.png",  
+"url": "blob:https://wigistream.to/601d81dc-c1d4-4b02-b3c4-3452ac627daf",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+
 
 
 
