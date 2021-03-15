@@ -16,20 +16,12 @@
 {
 "name": "test",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "http://cdn.livetv394.me/export/webplayer.iframe.php?t=alieztv&c=137922&lang=en&eid=1048213&lid=1564725&ci=279&si=2",
+"url": "https://www.ustream.to/stream.php?id=antena-1-romanesti&ref=ss",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 
 
-
-{
-"name": "test",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "http://oklivetv.com/hr-hessischer-rundfunk-live/",
-"referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
 
 {
 "name": "test",  
@@ -47,6 +39,13 @@
 "playInNatPlayer": "true"
 },
 
+{
+"name": "Canal+ Sport 3 Poland",  
+"image": "https://cdn.maxcdn.info/channel/4edceeb96ceff6a755c4b2275030bbbd-canal-sport-3-poland.png",  
+"url": "https://www.olweb.tv/canal-plus-sport-3-poland",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
 
 {
 "name": "Diema-Sports-2",  
