@@ -39,6 +39,13 @@
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
+
+{
+"name": "Epix (East)",  
+"image": "http://lakingsinsider.com/wp-content/uploads/2015/02/epix_logo-e1423004802296.jpg",  
+"url": "https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
 {
 "name": "Epix 2 (East)",  
 "image": "https://cdn.tvpassport.com/image/station/240x135/epix2019_2.png",  
@@ -49,12 +56,6 @@
 "name": "Showtime (East)",  
 "image": "https://www.directhd.tv/wp-content/uploads/2018/09/showtime-east.jpg",  
 "url": "https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8",
-"referer": "http://fomny.com/",
-"playInNatPlayer": "true"},
-{
-"name": "Epix (East)",  
-"image": "http://lakingsinsider.com/wp-content/uploads/2015/02/epix_logo-e1423004802296.jpg",  
-"url": "https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 {
