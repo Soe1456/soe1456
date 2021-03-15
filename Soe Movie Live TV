@@ -4,21 +4,21 @@
 "stations":
 [
 
-{"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+{"name": "SUPER CHANNEL",  
+"image": "https://tse3.mm.bing.net/th?id=OIP.YBYjOj_3YNi8yLWvJVlLDQHaDi&pid=Api&P=0&w=319&h=153",  
 "url": "http://tv.10dailythings.com/channel/gr/super-channel",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
-{"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+{"name": "GROOVY TV",  
+"image": "https://3.bp.blogspot.com/-W0zq3V7GDmY/W01aUNO5peI/AAAAAAAAOQA/DkVDjQbqUvYXkHA2SC0HXxh9jYJUi2_cQCLcBGAs/s1600/Groovy-logo-600x257.png",  
 "url": "http://tv.10dailythings.com/channel/gr/groovy",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
-{"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "http://tv.10dailythings.com/channel/gr/skai-hd",
+{"name": "PRIME TIME DRAMA",  
+"image": "http://www.atvtoday.co.uk/wp-content/uploads/2015/03/drama.png",  
+"url": "http://tv.10dailythings.com/channel/us/prime-time-drama-720p",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
