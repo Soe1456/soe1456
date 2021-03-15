@@ -39,7 +39,25 @@
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
+{
+"name": "Canal+ Sport",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://runnel.ir/movistar-comedia/",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
 
+{
+"name": "HBO (West)",  
+"image": "https://tse1.mm.bing.net/th?id=OIP.WCHV4oijH1wZE8Nq4FD7RgHaHa&pid=Api&P=0&w=300&h=300",  
+"url": "https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+{
+"name": "HBO (East)",  
+"image": "https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_east_small.gif",  
+"url": "https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
 {
 "name": "Epix (East)",  
 "image": "http://lakingsinsider.com/wp-content/uploads/2015/02/epix_logo-e1423004802296.jpg",  
