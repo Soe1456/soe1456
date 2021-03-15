@@ -24,7 +24,7 @@
 {
 "name": "test",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "https://www.ustream.to/stream.php?id=antena-1-romanesti&ref=ss",
+"url": "https://www.streamlive.to/channels",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
