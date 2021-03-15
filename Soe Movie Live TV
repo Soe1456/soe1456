@@ -4,128 +4,121 @@
 "stations":
 [
 
-{
-"name": "Canal+ Sport",  
+{"name": "Canal+ Sport",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
 "url": "http://runnel.ir/movistar-comedia/",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
-{
-"name": "Canal+ Sport",  
+{"name": "Canal+ Sport",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
 "url": "http://runnel.ir/movistar-comedia/",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
-{
-"name": "Canal+ Sport",  
+{"name": "Canal+ Sport",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
 "url": "http://runnel.ir/movistar-comedia/",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
-{
-"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+{"name": "Screamfest",  
+"image": "http://www.shockya.com/news/wp-content/uploads/Screamfest-Logo.png",  
+"url": "https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+
+{"name": "Showtime (West)",  
+"image": "https://tse2.mm.bing.net/th?id=OIP.i8H8sd-_VQ52k7BZSmicvwHaHa&pid=Api&P=0&w=300&h=300",  
 "url": "http://runnel.ir/movistar-comedia/",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
-{
-"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "http://runnel.ir/movistar-comedia/",
+{"name": "STARZ (West)",  
+"image": "https://vignette.wikia.nocookie.net/dreamlogos/images/e/e6/Starz_West_2005.png/revision/latest?cb=20200228001427",  
+"url": "https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
-{
-"name": "Canal+ Sport",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "http://runnel.ir/movistar-comedia/",
-"referer": "http://fomny.com/",
-"playInNatPlayer": "true"},
-
-{
-"name": "HBO (West)",  
+{"name": "HBO (West)",  
 "image": "https://tse1.mm.bing.net/th?id=OIP.WCHV4oijH1wZE8Nq4FD7RgHaHa&pid=Api&P=0&w=300&h=300",  
 "url": "https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "HBO (East)",  
+
+{"name": "HBO (East)",  
 "image": "https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_east_small.gif",  
 "url": "https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "Epix (East)",  
+
+{"name": "Epix (East)",  
 "image": "http://lakingsinsider.com/wp-content/uploads/2015/02/epix_logo-e1423004802296.jpg",  
 "url": "https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "Epix 2 (East)",  
+
+{"name": "Epix 2 (East)",  
 "image": "https://cdn.tvpassport.com/image/station/240x135/epix2019_2.png",  
 "url": "https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "Showtime (East)",  
+
+{"name": "Showtime (East)",  
 "image": "https://www.directhd.tv/wp-content/uploads/2018/09/showtime-east.jpg",  
 "url": "https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "HBO Asia",  
+
+{"name": "HBO Asia",  
 "image": "https://fauxpop.com/wp-content/uploads/2014/11/hbo-asia-logo__140308044106.jpg",  
 "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "Cinemax (West)",  
+
+{"name": "Cinemax (West)",  
 "image": "https://tse3.mm.bing.net/th?id=OIP.STFuZqmIJTOVxAO1AWHoBAHaFj&pid=Api&P=0&w=128&h=96",  
 "url": "https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "Dubai One",  
+
+{"name": "Dubai One",  
 "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png",  
 "url": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "TVS Drive In Movie",  
+
+{"name": "TVS Drive In Movie",  
 "image": "http://www.planetchocko.com/wp-content/uploads/2010/11/drive-in-movie-300x186.jpg",  
 "url": "https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "STIRR Black Cinema",  
+
+{"name": "STIRR Black Cinema",  
 "image": "http://sbgi.net/wp-content/uploads/2019/03/Stirr_Logo_black.png",  
 "url": "https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "STIRR Movies",  
+
+{"name": "STIRR Movies",  
 "image": "https://ktxs.com/resources/media2/original/full/1280/center/80/4e2b628c-e99f-4364-9d28-126cf6fde4e5-vlcsnap2019011615h57m53s382.jpg",  
 "url": "https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "Movie Kingdom",  
+
+{"name": "Movie Kingdom",  
 "image": "https://fanart.tv/fanart/movies/4349/movielogo/the-kingdom-4fa1b73478017.png",  
 "url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
 "referer": "http://iptv-world-link.blogspot.com/",
 "playInNatPlayer": "true"},
-{
-"name": "The Asylum TV",  
+
+{"name": "The Asylum TV",  
 "image": "https://fanart.tv/fanart/tv/81211/clearlogo/Asylum-81211.png",  
 "url": "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-{
-"name": "The Film Detective ",  
+
+{"name": "The Film Detective ",  
 "image": "https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_ixwn60au/def_height/1591/def_width/2428/",  
 "url": "https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8",
 "referer": "http://fomny.com/",
@@ -153,60 +146,39 @@
 "referer": "http://iptv-world-link.blogspot.com/",
 "playInNatPlayer": "true"},
 
-{"name":"Cinemax",
-"image":"https://i.pinimg.com/originals/fe/93/64/fe9364c419ad8abed018dbed7774aa0d.png",
-"url":"http://iptv-world-link.blogspot.com/p/blog-page.html?flux=https://live1.presstv.com/live/ifilmen.m3u8#player"},
-{"name":"Foxmovie Premium",
-"image":"https://seeklogo.com/images/F/fox-movies-premium-logo-BA0887F20E-seeklogo.com.png",
-"url":"https://www.moviemocha.com/tv/fox-movies-premium-en/"},
 {"name":"&Flix HD",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu87cT263QG07xRnqQ5BYGn08mPdsDTUi18w&usqp=CAU",
-"url":"https://www.parsatv.com/m/name=Flix-HD#movie"},
+"url":"https://www.parsatv.com/m/name=Flix-HD#movie",
+"referer": "http://iptv-world-link.blogspot.com/",
+"playInNatPlayer": "true"},
 
-{"name":"FoxActionHD_TH",
-"image":"https://www.lcdtvthailand.com/images/News/2016/foxmovieshd.jpg",
-"url":"https://www.doofree88.com/live/fox-action-movies-th92YWx1ZT0xRXpDbWlqOTdoTzNKcXVvUldyWGh3PT0mdmFsaWRtaW51dGVzPTIw"},
-{"name":"FoxActionHD",
-"image":"https://www.lcdtvthailand.com/images/News/2016/foxmovieshd.jpg",
-"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com:443/entertainment/fox-action/chunks.m3u8?nimblesessionid=35489075&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIxIDI6MjA6MzIgUE0maGFzaF92YWx1ZT0xRXpDbWlqOTdoTzNKcXVvUldyWGh3PT0mdmFsaWRtaW51dGVzPTIw"},
+{"name":"Foxmovie Premium",
+"image":"https://seeklogo.com/images/F/fox-movies-premium-logo-BA0887F20E-seeklogo.com.png",
+"url":"https://www.moviemocha.com/tv/fox-movies-premium-en/",
+"referer": "http://iptv-world-link.blogspot.com/",
+"playInNatPlayer": "true"},
+
 {"name":"FoxMovies_TH",
 "image":"https://2.bp.blogspot.com/-lB5FSTV00t4/WkWLwi4cLcI/AAAAAAAABWw/yukgxqAHbxUYBw34bR9WSS0GZU-GuFfSQCLcBGAs/s1600/fox_movies_premium_hd%2B%25281%2529.png",
-"url":"https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8"},
-{"name":"FoxMovies",
+"url":"https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8",
+"referer": "http://iptv-world-link.blogspot.com/",
+"playInNatPlayer": "true"},
+{"name":"FoxMovies_TH",
 "image":"https://2.bp.blogspot.com/-lB5FSTV00t4/WkWLwi4cLcI/AAAAAAAABWw/yukgxqAHbxUYBw34bR9WSS0GZU-GuFfSQCLcBGAs/s1600/fox_movies_premium_hd%2B%25281%2529.png",
-"url":"https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8"},
-{"name":"FoxFamilyHD_TH",
-"image":"https://middleeast-business.com/wp-content/uploads/2016/04/middle_east_business_FOX-Family-Movies.jpg",
-"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/fox-fam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIxIDI6MjQ6NTQgUE0maGFzaF92YWx1ZT1GK1VRa1pia3dyNytUWGMvS21La1VBPT0mdmFsaWRtaW51dGVzPTIw"},
-{"name":"FoxFamilyHD",
-"image":"https://middleeast-business.com/wp-content/uploads/2016/04/middle_east_business_FOX-Family-Movies.jpg",
-"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com:443/entertainment/fox-fam/chunks.m3u8?nimblesessionid=35490374&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIxIDI6MjQ6NTQgUE0maGFzaF92YWx1ZT1GK1VRa1pia3dyNytUWGMvS21La1VBPT0mdmFsaWRtaW51dGVzPTIw"},
-{"name":"FoxThai_TH",
-"image":"https://4.bp.blogspot.com/-HjoJutrNZqo/XMSGY_1auXI/AAAAAAAAAV8/V3qgRASCU7wmFsK6l2T7Nc7eCF5VfuXrgCLcBGAs/s640/fox-thai-full.jpg",
-"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foxth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIxIDI6MzA6MDggUE0maGFzaF92YWx1ZT1QbGs4czBINmJhL0V6aDVxZDhlUnZRPT0mdmFsaWRtaW51dGVzPTIw"},
-{"name":"FoxThai",
-"image":"https://4.bp.blogspot.com/-HjoJutrNZqo/XMSGY_1auXI/AAAAAAAAAV8/V3qgRASCU7wmFsK6l2T7Nc7eCF5VfuXrgCLcBGAs/s640/fox-thai-full.jpg",
-"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com:443/entertainment/foxth/chunks.m3u8?nimblesessionid=35492010&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIxIDI6MzA6MDggUE0maGFzaF92YWx1ZT1QbGs4czBINmJhL0V6aDVxZDhlUnZRPT0mdmFsaWRtaW51dGVzPTIw"},
-{"name":"FoxCrimeHD_TH",
-"image":"https://www.beepstudios.com/wp-content/uploads/fox-crime-hd.jpg",
-"url":"https://www.livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8"},
-{"name":"FoxCrimeHD",
-"image":"https://www.beepstudios.com/wp-content/uploads/fox-crime-hd.jpg",
-"url":"https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8"},
+"url":"https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8",
+"referer": "http://iptv-world-link.blogspot.com/",
+"playInNatPlayer": "true"},
 
-{"name":"TrueFilmHD1",
-"image":"https://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
-"url":"https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8"},
+{"name":"AXN HD",
+"image":"https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5c84/1565806451232/55fb00a28ead0e79178b5c84.jpg",
+"url":"https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8",
+"referer": "http://iptv-world-link.blogspot.com/",
+"playInNatPlayer": "true"},
+
 {"name":"TrueFilmHD2",
 "image":"https://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
 "url":"https://www.doofree88.com/live/film-hd-2"},
 
-{"name":"AXN HD",
-"image":"https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5c84/1565806451232/55fb00a28ead0e79178b5c84.jpg",
-"url":"https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8"},
-{"name":"WarnerTV HD",
-"image":"https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/09/Warner-TV.png?fit=1200%2C900&ssl=1",
-"url":"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIxIDI6MzM6NTQgUE0maGFzaF92YWx1ZT1qem90U1UrV1RJbjdPSnBrMWkwRHVnPT0mdmFsaWRtaW51dGVzPTIw"},
 
 
 ]
