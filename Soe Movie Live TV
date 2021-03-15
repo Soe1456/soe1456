@@ -11,6 +11,20 @@
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
+{
+"name": "The Asylum TV",  
+"image": "https://fanart.tv/fanart/tv/81211/clearlogo/Asylum-81211.png",  
+"url": "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+
+{
+"name": "The Film Detective ",  
+"image": "https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_ixwn60au/def_height/1591/def_width/2428/",  
+"url": "https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+
 {"name": "GROOVY TV",  
 "image": "https://3.bp.blogspot.com/-W0zq3V7GDmY/W01aUNO5peI/AAAAAAAAOQA/DkVDjQbqUvYXkHA2SC0HXxh9jYJUi2_cQCLcBGAs/s1600/Groovy-logo-600x257.png",  
 "url": "http://iptv-world-link.blogspot.com/p/blog-page.html?flux=http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8#player",
