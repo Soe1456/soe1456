@@ -1,5 +1,5 @@
 {"name":"Documentary","author": "Muse-TV",
-"image":"https://www.google.co.th/search?q=documentary%20animal%20Logo%20gif&tbm=isch&hl=en&tbs=rimg:CYHzcWG2FpFTYRv1Uz43-6EC&client=ucweb-b-bookmark&prmd=vin&sa=X&ved=0CBoQuIIBahcKEwig2LadgZ7uAhUAAAAAHQAAAAAQHg&biw=393&bih=660#imgrc=V0MJVePsk9ovIM",
+"image":"https://vignette.wikia.nocookie.net/logos2/images/b/b5/ABCDC_218.png/revision/latest?cb=20180310013952",
 "url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/Documentary",
 "stations":
 [
@@ -7,85 +7,6 @@
 {"name": "Lovenatural tv",  
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAllBrI1v4Xi-OOV8Fl5beiDbu4AR2RVxNjg&usqp=CAU",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv.php?iframe=http://free.crichd.online/embed2.php?id=skysp1",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name":"HISTORY HD",
-"image":"https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg",
-"url": "https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name":"H2 HD",
-"image":"https://www.pngkit.com/png/detail/432-4329573_h2-channel-logo-h2-hd.png",
-"url": "https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name":"DiscoveryChannel",
-"image":"https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png?fit=700%2C509&ssl=1",
-"url": "https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name":"DiscoveryHDWorld",
-"image":"https://cdn.realscreen.com/wp/wp-content/uploads/2011/07/discoveryworldhd.jpg",
-"url": "https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-
-{"name": "NatGeoHD_TH",
-"image": "https://www.digiturkburada.com/kanal/kanal-buyuk/national-geographic-hd-buyuk.png",
-"url": "hhttps://www.livedoomovie.com/02_NatGeoHD_TH_720p/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name": "NatGeo HD",
-"image": "https://www.digiturkburada.com/kanal/kanal-buyuk/national-geographic-hd-buyuk.png",
-"url": "https://www.livedoomovie.com/02_NatGeoHD_720p/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name":"NatGeo Wild_TH",
-"image":"https://www.img.in.th/images/655cefdcd85121cb0d3d7465aa958a77.png",
-"url":"https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name":"NatGeoWild",
-"image":"https://www.img.in.th/images/655cefdcd85121cb0d3d7465aa958a77.png",
-"url": "https://www.livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name":"NatGeo People",
-"image":"https://www.img.in.th/images/1611ebfc446092be1a67fdbd6a3978bd.png",
-"url": "https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name":" AnimalPlanet",
-"image":"https://logo-load.com/uploads/posts/2016-04/1459696857_animal-planet-logo.png",
-"url": "https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name":"สำรวจโลก",
-"image":"https://img.tnews.co.th/userfiles/images/1-5(123).jpg",
-"url": "https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name":"MYSCIHD",
-"image":"https://www.butterfire.com/wp-content/uploads/MySci.jpg",
-"url":"https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8",
-"referer": "http://www.cxtvlive.com/",
-"playInNatPlayer": "true"
-},
-{"name":"LBBCEARTH",
-"image":"https://www.bbc.co.uk/staticarchive/a1f7c6fbd58bbe3f65841e104829723e51032580.jpg",
-"url":"https://www.livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
@@ -109,8 +30,7 @@
  "url": "http://yrsprts.stream/live?v=hunt",
  "referer": "https://adfiptv.com/",
  "playInNatPlayer: "true"},
- 
-{"name": "HUNT CHANNEL",
+ {"name": "HUNT CHANNEL",
  "image": "https://www.huntchannel.tv/wp-content/uploads/2020/01/Place-Holder-Hunt-Channel-logo.png",
  "url": "http://yrsprts.stream/live?v=hunt",
  "referer": "https://adfiptv.com/",
