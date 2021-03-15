@@ -21,12 +21,26 @@
 "playInNatPlayer": "true"
 },
 
-
+{
+"name": "test",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "https://www.ustream.to/stream.php?id=antena-1-romanesti&ref=ss",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
 
 {
 "name": "test",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
 "url": "http://cdn.livetv394.me/export/webplayer.iframe.php?t=ifr&c=1564830&lang=en&eid=1048213&lid=1564830&ci=279&si=2",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "test",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "https://www.ustream.to/stream.php?id=antena-1-romanesti&ref=ss",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
