@@ -32,7 +32,7 @@
 {
 "name": "test",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "https://time4tv.stream/sports/espn-live.php",
+"url": "http://epctv.com/stream/ESPN-Stream_6.html",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
