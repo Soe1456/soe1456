@@ -32,6 +32,14 @@
 {
 "name": "Canal+ Sport",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://cdn.livetv394.me/webplayer.php?t=ifr&c=1564847&lang=en&eid=1043587&lid=1564847&ci=654&si=1",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Canal+ Sport",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
 "url": "http://cdn.livetv394.me/export/webplayer.iframe.php?t=ifr&c=1564830&lang=en&eid=1048213&lid=1564830&ci=279&si=2",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
