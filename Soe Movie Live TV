@@ -6,6 +6,14 @@
 
 {"name": "SUPER CHANNEL",  
 "image": "https://tse3.mm.bing.net/th?id=OIP.YBYjOj_3YNi8yLWvJVlLDQHaDi&pid=Api&P=0&w=319&h=153",  
+"url": "http://buffstream.io/live-tv-streams/my-sports-1-live-stream",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+
+
+
+{"name": "SUPER CHANNEL",  
+"image": "https://tse3.mm.bing.net/th?id=OIP.YBYjOj_3YNi8yLWvJVlLDQHaDi&pid=Api&P=0&w=319&h=153",  
 "url": "http://tv.10dailythings.com/channel/gr/super-channel",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
@@ -96,13 +104,13 @@
 
 {"name": "STIRR Black Cinema",  
 "image": "http://sbgi.net/wp-content/uploads/2019/03/Stirr_Logo_black.png",  
-"url": "https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8",
+"url": "http://iptv-world-link.blogspot.com/p/blog-page.html?flux=https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8#player",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
 {"name": "STIRR Movies",  
 "image": "https://ktxs.com/resources/media2/original/full/1280/center/80/4e2b628c-e99f-4364-9d28-126cf6fde4e5-vlcsnap2019011615h57m53s382.jpg",  
-"url": "https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8",
+"url": "http://iptv-world-link.blogspot.com/p/blog-page.html?flux=https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8#player",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
