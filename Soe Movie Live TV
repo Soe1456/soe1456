@@ -4,7 +4,6 @@
 "stations":
 [
 
-       
 {
 "name": "Canal+ Sport",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
@@ -12,14 +11,28 @@
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
+{"name": "GROOVY TV",  
+"image": "https://3.bp.blogspot.com/-W0zq3V7GDmY/W01aUNO5peI/AAAAAAAAOQA/DkVDjQbqUvYXkHA2SC0HXxh9jYJUi2_cQCLcBGAs/s1600/Groovy-logo-600x257.png",  
+"url": "http://iptv-world-link.blogspot.com/p/blog-page.html?flux=http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8#player",
+"referer": "http://iptv-world-link.blogspot.com/",
+"playInNatPlayer": "true"},
+{"name": "GROOVY TV",  
+"image": "https://3.bp.blogspot.com/-W0zq3V7GDmY/W01aUNO5peI/AAAAAAAAOQA/DkVDjQbqUvYXkHA2SC0HXxh9jYJUi2_cQCLcBGAs/s1600/Groovy-logo-600x257.png",  
+"url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
+"referer": "http://iptv-world-link.blogspot.com/",
+"playInNatPlayer": "true"},
+
 {"name":"&Prive HD",
 "image":"http://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg",
 "url":"https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8",
-"referer": "http://fomny.com/",
+"referer": "http://iptv-world-link.blogspot.com/",
 "playInNatPlayer": "true"},
 {"name":"&Prive HD",
 "image":"http://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg",
-"url":"http://iptv-world-link.blogspot.com/p/blog-page.html?flux=https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8#player"},
+"url":"http://iptv-world-link.blogspot.com/p/blog-page.html?flux=https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8#player"
+"referer": "http://iptv-world-link.blogspot.com/",
+"playInNatPlayer": "true"},
+
 {"name":"Cinemax",
 "image":"https://i.pinimg.com/originals/fe/93/64/fe9364c419ad8abed018dbed7774aa0d.png",
 "url":"http://iptv-world-link.blogspot.com/p/blog-page.html?flux=https://live1.presstv.com/live/ifilmen.m3u8#player"},
