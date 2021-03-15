@@ -24,7 +24,23 @@
 {
 "name": "Canal+ Sport",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "http://runnel.ir/bein-sports-1/",
+"url": "http://www.usagoals.video/c/table-tennis/tt-cup/15-03-2021/tt-cup/1/",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Canal+ Sport",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://www.usagoals.video/c/table-tennis/tt-cup/15-03-2021/tt-cup/1/",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBCSN SPORT",  
+"image": "https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png",  
+"url": "http://to.xrivonet.info/21d2.html",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
