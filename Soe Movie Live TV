@@ -18,7 +18,7 @@
 
 {"name": "Canal+ Sport",  
 "image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "http://runnel.ir/movistar-comedia/",
+"url": "https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
@@ -30,7 +30,7 @@
 
 {"name": "Showtime (West)",  
 "image": "https://tse2.mm.bing.net/th?id=OIP.i8H8sd-_VQ52k7BZSmicvwHaHa&pid=Api&P=0&w=300&h=300",  
-"url": "http://runnel.ir/movistar-comedia/",
+"url": "https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
