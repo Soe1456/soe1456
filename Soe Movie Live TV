@@ -4,6 +4,14 @@
 "stations":
 [
 
+       
+{
+"name": "Canal+ Sport",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://runnel.ir/movistar-comedia/",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
 
 {"name":"&Prive HD",
 "image":"http://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg",
@@ -11,6 +19,10 @@
 {"name":"&Prive HD",
 "image":"http://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg",
 "url":"http://iptv-world-link.blogspot.com/p/blog-page.html?flux=https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8#player"},
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
 {"name":"Cinemax",
 "image":"https://i.pinimg.com/originals/fe/93/64/fe9364c419ad8abed018dbed7774aa0d.png",
 "url":"http://iptv-world-link.blogspot.com/p/blog-page.html?flux=https://live1.presstv.com/live/ifilmen.m3u8#player"},
