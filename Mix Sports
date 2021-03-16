@@ -176,6 +176,11 @@
  "url": "https://www.rctiplus.com/tv/rcti#",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
+ {"name": "DIGISPORT 1",
+ "image": "https://vignette.wikia.nocookie.net/logopedia/images/a/a1/DIGI_Sport_1_HD.png/revision/latest?cb=20161213133009",
+ "url": "http://freestreams-live1.com/claro-sports/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
 {"name": "Canal Sexta tv",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/1200px-La_Sexta.svg.png",
  "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=//adictosalatele.com/TV/espana/lasexta/",
@@ -196,16 +201,24 @@
  "url": "https://adictosaldeporte.com/TV/deportes/laliga/opcion3.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
- 
- 
-{"name": "Miami TV",
+ {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
  "url": "http://freestreams-live1.com/foxsports-premium/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
 {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "http://freestreams-live1.com/claro-sports/",
+ "url": "http://www.giniko.com/watch.php?id=95",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://www.giniko.com/watch.php?id=95",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://freestreams-live1.com/foxsports-premium/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
 {"name": "Miami TV",
