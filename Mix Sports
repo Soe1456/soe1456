@@ -156,7 +156,7 @@
  
  {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "http://cdn.livetv394.me/webplayer2.php?t=ifr&c=1564705&lang=en&eid=1048024&lid=1564705&ci=3642&si=4",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://cdn.livetv394.me/export/webplayer.iframe.php?t=ifr&c=1564705&lang=en&eid=1048024&lid=1564705&ci=3642&si=4",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
