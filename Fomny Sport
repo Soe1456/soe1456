@@ -21,6 +21,22 @@
 "playInNatPlayer": "true"
 },
 
+{
+"name": "test",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://www.usagoals.video/c/basketball/nba/15-03-2021/charlotte-hornets-vs-sacramento-kings/1/",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "test",  
+"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"url": "http://www.usagoals.video/c/basketball/nba/15-03-2021/charlotte-hornets-vs-sacramento-kings/4/",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+
 
 
 
