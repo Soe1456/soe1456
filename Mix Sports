@@ -148,15 +148,15 @@
  
   {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "http://yrsprts.stream/live?v=tvx2?ch=andflix",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://yrsprts.stream/live?v=tvx2?ch=sportitc",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
  "url": "http://iptv-world-link.blogspot.com/p/blog-page.html?flux=https://news.cgtn.com/resource/live/french/cgtn-f.m3u8#player",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "Miami TV",
- "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "http://cdn.livetv394.me/export/webplayer.iframe.php?t=ifr&c=1564705&lang=en&eid=1048024&lid=1564705&ci=3642&si=4",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "TUDN TV",
+ "image": "https://www.pandaancha.mx/plds/articulos/froala/1200px-TUDN_Logo.svg-1200x264-842134937.png",
+ "url": "http://yrsprts.stream/live?v=tvx2?ch=tudn",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
