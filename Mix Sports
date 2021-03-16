@@ -203,12 +203,12 @@
  
  {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "http://freestreams-live1.com/foxsports-premium/",
+ "url": "http://freestreams-live1.com/espn-usa1/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
 {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "http://www.giniko.com/watch.php?id=95",
+ "url": "http://freestreams-live1.com/cnntv/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
 {"name": "Miami TV",
