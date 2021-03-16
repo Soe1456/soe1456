@@ -29,21 +29,7 @@
 "playInNatPlayer": "true"
 },
 
-{
-"name": "BT SPORT 1 HD",  
-"image": "https://www.torquayunited.com/wp-content/uploads/NEW-BT-Sport-Logo-RGB-1024x250.png",  
-"url": "https://cricfree.pw/bt-sport-1-live-stream-2",
-"referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
 
-{
-"name": "BT SPORT 3 HD",  
-"image": "https://tse1.mm.bing.net/th?id=OIP.YwzfP2GagDDxSVQNgbDCfwHaB7&pid=Api&P=0&w=443&h=115",  
-"url": "https://cricfree.pw/bt-sport-3-live-stream",
-"referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
 
 {
 "name": "ESPN 2",  
@@ -365,59 +351,53 @@
 "playInNatPlayer": "true"
 },
 
-{
-"name": "BT SPORT 2 HD",  
+{"name": "BT SPORT 3 HD",  
+"image": "https://tse1.mm.bing.net/th?id=OIP.YwzfP2GagDDxSVQNgbDCfwHaB7&pid=Api&P=0&w=443&h=115",  
+"url": "https://cricfree.pw/bt-sport-3-live-stream",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+
+{"name": "BT SPORT 2 HD",  
 "image": "https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://cricfree.in/watch/site/update/bt2l",
 "referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "BT SPORT 2 HD",  
+"playInNatPlayer": "true"},
+{"name": "BT SPORT 2 HD",  
 "image": "https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://daddylive.live/embed/stream-32.php",
 "referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
+"playInNatPlayer": "true"},
 
-{
-"name": "BT SPORT 1 HD",  
+{"name": "BT SPORT 1 HD",  
 "image": "https://www.torquayunited.com/wp-content/uploads/NEW-BT-Sport-Logo-RGB-1024x250.png",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://daddylive.live/embed/stream-31.php",
 "referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "BT SPORT 1 HD",  
+"playInNatPlayer": "true"},
+{"name": "BT SPORT 1 HD",  
 "image": "https://www.torquayunited.com/wp-content/uploads/NEW-BT-Sport-Logo-RGB-1024x250.png",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://cricfree.in/watch/site/update/bt1",
 "referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
-
+"playInNatPlayer": "true"},
 {"name": "BT Sport 1",  
 "image": "https://vignette.wikia.nocookie.net/logopedia/images/9/9f/BT_Sport_1_HD_2018.svg/revision/latest?cb=20180510225121",  
 "url": "http://time4tv.stream/watch/sports/bt-sport-1.php",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
-
-{
-"name": "BT SPORT 1 HD",  
+{"name": "BT SPORT 1 HD",  
 "image": "https://www.torquayunited.com/wp-content/uploads/NEW-BT-Sport-Logo-RGB-1024x250.png",  
 "url": "http://www.usagoals.video/c/football/australia-a-league/15-03-2021/western-sydney-vs-wellington/2/",
 "referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "BT SPORT 1 HD",  
+"playInNatPlayer": "true"},
+{"name": "BT SPORT 1 HD",  
+"image": "https://www.torquayunited.com/wp-content/uploads/NEW-BT-Sport-Logo-RGB-1024x250.png",  
+"url": "https://cricfree.pw/bt-sport-1-live-stream-2",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+{"name": "BT SPORT 1 HD",  
 "image": "https://www.torquayunited.com/wp-content/uploads/NEW-BT-Sport-Logo-RGB-1024x250.png",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://v2.sportzonline.to/channels/hd/hd1.php",
 "referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
+"playInNatPlayer": "true"},
 
 {
 "name": "Direct Gol TV",  
