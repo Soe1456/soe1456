@@ -30,16 +30,16 @@
 },
 
 {
-"name": "test",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"name": "BT SPORT 1 HD",  
+"image": "https://www.torquayunited.com/wp-content/uploads/NEW-BT-Sport-Logo-RGB-1024x250.png",  
 "url": "https://cricfree.pw/bt-sport-1-live-stream-2",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 
 {
-"name": "test",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
+"name": "BT SPORT 3 HD",  
+"image": "https://tse1.mm.bing.net/th?id=OIP.YwzfP2GagDDxSVQNgbDCfwHaB7&pid=Api&P=0&w=443&h=115",  
 "url": "https://cricfree.pw/bt-sport-3-live-stream",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
