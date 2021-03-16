@@ -226,6 +226,26 @@
  "url": "http://freestreams-live1.com/sky-sportform1-italia/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
+ {"name": "Sky_Sport_Football_HD",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sky_Sport_Football_HD_-_Logo_2018.svg/800px-Sky_Sport_Football_HD_-_Logo_2018.svg.png",
+ "url": "http://freestreams-live1.com/sky-sports-football-uk/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Sky_Sport_premierleague",
+ "image": "https://www.underconsideration.com/brandnew/archives/sky_sports_genre_logo_premierleague.jpg",
+ "url": "http://freestreams-live1.com/skyspl/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://freestreams-live1.com/sky-sportform1-italia/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://freestreams-live1.com/sky-sport-24-italiaz/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
 {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
  "url": "http://www.giniko.com/watch.php?id=95",
