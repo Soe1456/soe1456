@@ -21,13 +21,7 @@
 "playInNatPlayer": "true"
 },
 
-{
-"name": "test",  
-"image": "https://programtv.naziemna.info/images/tvstation/150x60/canalplussport.png",  
-"url": "http://time4tv.stream/watch/sports/bt-sport-2.php",
-"referer": "http://fomny.com/",
-"playInNatPlayer": "true"
-},
+
 
 
 
@@ -365,6 +359,11 @@
 {"name": "BT SPORT 2 HD",  
 "image": "https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://daddylive.live/embed/stream-32.php",
+"referer": "http://fomny.com/",
+"playInNatPlayer": "true"},
+{"name": "BT SPORT 2 HD",  
+"image": "https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png",  
+"url": "http://time4tv.stream/watch/sports/bt-sport-2.php",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"},
 
