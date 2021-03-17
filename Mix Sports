@@ -326,6 +326,26 @@
  "url": "http://runnel.ir/tv/tv/bein-tr-2-3.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
+{"name": "tivibu-spor-izle",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/c5ea37da-03ba-4072-afc9-297c99b31443_tivibu-spor-tv.jpg",
+ "url": "http://www.canlisportv.com/tivibu-spor-izle/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "bt-sport-1",
+ "image": "http://runnel.ir/ax/logo/BT_Sport_1_logo.png",
+ "url": "http://runnel.ir/bt-sport-1/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "bt-sport-1-2.php",
+ "image": "http://runnel.ir/ax/logo/BT_Sport_1_logo.png",
+ "url": "http://runnel.ir/tv/tv/bt-sport-1-2.php",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "arena-sport-1",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/3de01538-c9a1-4f23-ad42-3ae6eafcc17d_arenasport-1-tv.jpg",
+ "url": "http://www.canlisportv.com/arena-sport-1-live/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
 {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
  "url": "http://freestreams-live1.com/sky-sportform1-italia/",
@@ -340,18 +360,18 @@
  
 
  
-{"name": "tivibu-spor-izle",
- "image": "http://www.canlisportv.com/media/images/tvlogo/c5ea37da-03ba-4072-afc9-297c99b31443_tivibu-spor-tv.jpg",
- "url": "http://www.canlisportv.com/tivibu-spor-izle/",
+{"name": "bt-sport-1-2.php",
+ "image": "http://runnel.ir/ax/logo/BT_Sport_1_logo.png",
+ "url": "http://runnel.ir/tv/tv/bt-sport-1-2.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
 
  
 
  
-{"name": "Miami TV",
- "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "http://runnel.ir/bein-sports-2-fr/",
+{"name": "arena-sport-1",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/3de01538-c9a1-4f23-ad42-3ae6eafcc17d_arenasport-1-tv.jpg",
+ "url": "http://www.canlisportv.com/arena-sport-1-live/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 
