@@ -291,6 +291,11 @@
  "url": "http://runnel.ir/eleven-sports-1-pl/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
+{"name": "bein-sports-1-fr",
+ "image": "http://runnel.ir/ax/logo/beIN-SPORTS-Fr-1-Logo.png",
+ "url": "http://runnel.ir/bein-sports-1-fr/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
 {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
  "url": "http://freestreams-live1.com/sky-sportform1-italia/",
@@ -305,9 +310,9 @@
  
 
  
-{"name": "bein-sports-9-ar",
- "image": "http://runnel.ir/ax/logo/beIN9.png",
- "url": "http://runnel.ir/bein-sports-9/",
+{"name": "bein-sports-2-fr",
+ "image": "http://runnel.ir/ax/logo/beIN-SPORTS-Fr-2-Logo.png",
+ "url": "http://runnel.ir/tv/tv/bein-fr-2-2.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
 
@@ -316,7 +321,7 @@
  
 {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "http://runnel.ir/bein-sports-1/",
+ "url": "http://runnel.ir/bein-sports-2-fr/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 
