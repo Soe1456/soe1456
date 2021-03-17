@@ -296,6 +296,36 @@
  "url": "http://runnel.ir/bein-sports-1-fr/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
+{"name": "bein-sports-3-fr",
+ "image": "http://runnel.ir/ax/logo/beIN-SPORTS-Fr-3-Logo.png",
+ "url": "http://runnel.ir/bein-sports-3-fr/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "bein-sports-usa",
+ "image": "http://runnel.ir/ax/logo/beIN-SPORTS-USA-Logo.png",
+ "url": "http://runnel.ir/bein-sports-usa/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "bein-sports-la-liga",
+ "image": "http://runnel.ir/ax/logo/beIN-SPORTS-La-Liga.png",
+ "url": "http://runnel.ir/bein-sports-la-liga/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "bein-sports-1-tr",
+ "image": "http://runnel.ir/ax/logo/beIN-SPORTS-Tr-1-Logo.png",
+ "url": "http://runnel.ir/tv/tv/bein-tr-1-3.php",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "bein-sports-2-tr",
+ "image": "http://runnel.ir/ax/logo/beIN-SPORTS-Tr-2-Logo.png",
+ "url": "http://runnel.ir/tv/tv/bein-tr-2-2.php",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "bein-sports-2-tr-backup",
+ "image": "http://runnel.ir/ax/logo/beIN-SPORTS-Tr-2-Logo.png",
+ "url": "http://runnel.ir/tv/tv/bein-tr-2-3.php",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
 {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
  "url": "http://freestreams-live1.com/sky-sportform1-italia/",
@@ -310,9 +340,9 @@
  
 
  
-{"name": "bein-sports-2-fr",
- "image": "http://runnel.ir/ax/logo/beIN-SPORTS-Fr-2-Logo.png",
- "url": "http://runnel.ir/tv/tv/bein-fr-2-2.php",
+{"name": "tivibu-spor-izle",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/c5ea37da-03ba-4072-afc9-297c99b31443_tivibu-spor-tv.jpg",
+ "url": "http://www.canlisportv.com/tivibu-spor-izle/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
 
