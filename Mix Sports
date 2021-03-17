@@ -246,9 +246,24 @@
  "url": "http://freestreams-live1.com/sky-sport-24-italiaz/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
+ {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://runnel.ir/bein-sports-1/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://runnel.ir/bein-sports-1/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Miami TV",
+ "image": "http://www.giniko.com/logos/190x110/95.png",
+ "url": "http://runnel.ir/bein-sports-1/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
 {"name": "Miami TV",
  "image": "http://www.giniko.com/logos/190x110/95.png",
- "url": "http://www.giniko.com/watch.php?id=95",
+ "url": "http://runnel.ir/bein-sports-1/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 
