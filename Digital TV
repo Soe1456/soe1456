@@ -123,6 +123,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "T-sports-Channel",  
+"image": "http://www.tsportschannel.com/Images/logo-t-sport.png",  
+"url": "https://www.ijube.com/channel-tsports/",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
 "name": "M Channel",  
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhewISK8C9ZqiAT9mt1QDFiwQX0GTh0bww6g&usqp=CAU",  
 "url": "https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8",
