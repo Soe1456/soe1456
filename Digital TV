@@ -9,7 +9,15 @@
 {
 "name": "Mangorn",  
 "image": "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",  
-"url": "https://tv.trueid.net/live/Mangorn",
+"url": "https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/3-channel/",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Mangorn",  
+"image": "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",  
+"url": "https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-sport-hd-1-th/",
 "referer": "https://cdn6.goprimetime.info/",
 "playInNatPlayer": "true"
 },
