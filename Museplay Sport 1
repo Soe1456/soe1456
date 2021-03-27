@@ -13,223 +13,248 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
 
 {"name": "tve 1",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png",
- "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "https://rtvelivestream.akamaized.net:443/la1_4000.m3u8",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
 {"name": "Smil",
  "image": "https://i.ibb.co/Df6kFcn/europaleague.jpg",
- "url": "http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "Direct Sports channel",
  "image": "https://tse3.mm.bing.net/th?id=OIP.OXf_VRx94yZLeUXC4o7P9AHaCE&pid=Api&P=0&w=568&h=160",
- "url": "https://dpelota.com/ver/directvsports.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "https://dpelota.com/ver/directvsports.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "Tyc Sports",
  "image": "https://vivos.superliga-argentina.com/wp-content/uploads/2020/08/1280px-TyC_Sports_logo.svg_.png",
- "url": "https://dpelota.com/ver/foxsportspremium.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "https://dpelota.com/ver/foxsportspremium.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "Deportes TV",
  "image": "https://i.ibb.co/Df6kFcn/europaleague.jpg",
- "url": "http://wizhdsports.net/free40.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "http://wizhdsports.net/free40.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "Sport tv",
  "image": "https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",
- "url": "https://globoesporte.online/channels/pt/sporttv1.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "https://globoesporte.online/channels/pt/sporttv1.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "Bein Sport hd",
  "image": "https://upload.wikimedia.org/wikipedia/commons%2Ff%2Ff6%2FBeIN_Sports.png",
- "url": "https://globoesporte.online/channels/hd/hd2.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "https://globoesporte.online/channels/hd/hd2.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "espn 3",
  "image": "https://i.pinimg.com/736x/87/aa/5c/87aa5c828e34a43538b7bd42e73a5326.jpg",
- "url": "https://dpelota.com/espn3hd.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "https://dpelota.com/espn3hd.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "espn hd",
  "image": "https://tse4.mm.bing.net/th?id=OIP.mSX2SzEpkCvGgcJgngDd_gHaBY&pid=Api&P=0&w=641&h=121",
- "url": "https://dpelota.com/ver/espn.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "https://dpelota.com/ver/espn.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "espn 2",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1200px-Espn2.svg.png",
- "url": "https://dpelota.com/ver/espn2.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "https://dpelota.com/ver/espn2.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "beines n",
  "image": "https://tse3.mm.bing.net/th?id=OIP.EDkU2P227FlLs9Lu1h6iqAHaBT&pid=Api&P=0&w=623&h=111",
- "url": "http://mifut.ligatv.online/beines.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/beines.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
- 
  {"name": "AZTECA UNO",
  "image": "https://tse3.mm.bing.net/th?id=OIP.HtCkTlaNO7m-UqB6Q_A5QwHaBV&pid=Api&P=0&w=457&h=83",
- "url": "http://mifut.ligatv.online/aztecauno.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "http://mifut.ligatv.online/aztecauno.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "EL Dos tv",
  "image": "https://i.imgur.com/8tejNfL.png",
- "url": "http://mifut.ligatv.online/eldos.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "http://mifut.ligatv.online/eldos.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Staraction tv",
  "image": "http://4.bp.blogspot.com/-0JMzb_Ojx9c/VVcWsE7nBEI/AAAAAAAAKak/DdhI-Ip-gsU/s1600/gambar%2Bbintang%2B(10).png",
- "url": "http://mifut.ligatv.online/staraction.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "http://mifut.ligatv.online/staraction.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Space canal",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1163px-SpaceLogo.svg.png",
- "url": "http://mifut.ligatv.online/space.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "http://mifut.ligatv.online/space.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Adrenalina sport",
  "image": "https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg",
- "url": "http://mifut.ligatv.online/adrenalina.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "http://mifut.ligatv.online/adrenalina.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Bein Sport N",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",
- "url": "http://mifut.ligatv.online/beines.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "http://mifut.ligatv.online/beines.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Bein Sport HD",
  "image": "https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest?cb=20140712174845",
- "url": "http://mifut.ligatv.online/beinhd.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/beinhd.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
- 
  {"name": "Clarosport",
  "image": "https://vignette.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest?cb=20140409052254",
- "url": "http://mifut.ligatv.online/clarosports.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/clarosports.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
- 
  {"name": "espndeportes tv",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",
- "url": "http://mifut.ligatv.online/espndep.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "http://mifut.ligatv.online/espndep.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Cannal 5",
  "image": "https://www.televisiongratishd.com/img/canal5.png",
- "url": "http://mifut.ligatv.online/elcinco.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/elcinco.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
- 
  {"name": "Azteca-7",
  "image": "http://mifut.ligatv.online/images/azteca_7.jpg",
- "url": "http://mifut.ligatv.online/azteca7.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
-
+ "url": "http://mifut.ligatv.online/azteca7.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Canal-Nueve TV 📺",
  "image": "http://mifut.ligatv.online/images/canal-nueve.png",
- "url": "http://mifut.ligatv.online/elnueve.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/elnueve.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
- 
  {"name": "Television TV",
  "image": "http://mifut.ligatv.online/images/imagen-television.png",
- "url": "http://mifut.ligatv.online/imagentv.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/imagentv.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
- 
  {"name": "ESPN MX 1",
  "image": "https://espndeportes.espn.com/2003/photos2008/0819/XGames_LogoMexico2008_180x2.jpg",
- "url": "http://mifut.ligatv.online/espn1-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/espn1-mx.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
- 
  {"name": "ESPN MX 2",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1200px-Espn2.svg.png",
- "url": "http://mifut.ligatv.online/espn2-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/espn2-mx.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
- 
  {"name": "ESPN MX 3",
  "image": "https://tse4.mm.bing.net/th?id=OIP.Tob4H925_YjaC3uQH9QYuwAAAA&pid=Api&P=0&w=300&h=300",
- "url": "http://mifut.ligatv.online/espn3-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/espn3-mx.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
- 
  {"name": "ESPN EXTRA",
  "image": "http://cdn.vizio.com/skin/frontend/enterprise/vizio/landingpages/gamedaylanding2/images/gd-apps-logo-ESPN-extra.png",
- "url": "http://mifut.ligatv.online/espn-extra.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/espn-extra.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "ESPN LA 1",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ESPN_Deportes_La_Revista_logo.svg/1200px-ESPN_Deportes_La_Revista_logo.svg.png",
- "url": "http://mifut.ligatv.online/espn-la.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/espn-la.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "ESPN LA 2",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1200px-Espn2.svg.png",
- "url": "http://mifut.ligatv.online/espn2-la.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/espn2-la.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "ESPN LA 3",
  "image": "https://tse4.mm.bing.net/th?id=OIP.Tob4H925_YjaC3uQH9QYuwAAAA&pid=Api&P=0&w=300&h=300",
- "url": "http://mifut.ligatv.online/espn3-la.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/espn3-la.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Fox Sport 1 mx",
  "image": "https://www.brand-news.it/wp-content/uploads/2013/08/logo_fox_sports.jpg",
- "url": "http://mifut.ligatv.online/foxsports1-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/foxsports1-mx.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Fox Sport 2 mx",
  "image": "https://adictosalatele.com/wp-content/uploads/2020/03/foxsports2mx.png",
- "url": "http://mifut.ligatv.online/foxsports2-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/foxsports2-mx.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Fox Sport 3 mx",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1920px-Fox_sports_3_logo.svg.png",
- "url": "http://mifut.ligatv.online/foxsports3-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/foxsports3-mx.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Fox Sport 1 la",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",
- "url": "http://mifut.ligatv.online/foxsports1-la.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/foxsports1-la.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Fox Sport 2 la",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",
- "url": "http://mifut.ligatv.online/foxsports2-la.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/foxsports2-la.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Fox Sport 3 la",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",
- "url": "http://mifut.ligatv.online/foxsports3-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/foxsports3-mx.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "GALAVISION TV",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png",
- "url": "http://mifut.ligatv.online/galavision.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/galavision.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "HAVOC TV",
  "image": "https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/11/Havoc-Television.png?resize=980%2C513",
- "url": "http://mifut.ligatv.online/havoc.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/havoc.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Rai Italia",
  "image": "https://www.pinpng.com/pngs/m/204-2047466_rai-italia-wikipedia-rai-italia-logo-hd-png.png",
- "url": "http://mifut.ligatv.online/rai.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/rai.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
-  {"name": "Telemundo tv",
+ {"name": "Telemundo tv",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
- "url": "http://mifut.ligatv.online/telemundo.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/telemundo.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
-  {"name": "TUDN MX",
+ {"name": "TUDN MX",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1024px-TUDN_Logo.svg.png",
- "url": "http://mifut.ligatv.online/tudn-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/tudn-mx.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
-  {"name": "TUDN US",
+ {"name": "TUDN US",
  "image": "https://corporate.univision.com/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",
- "url": "http://mifut.ligatv.online/tudn-us.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/tudn-us.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "TVC Deportes",
  "image": "https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Tvcd.png/revision/latest?cb=20120110222256",
- "url": "http://mifut.ligatv.online/tvcdep-mx.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/tvcdep-mx.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "UNIMAS TV",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png",
- "url": "http://mifut.ligatv.online/unimas.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/unimas.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Win Sports",
  "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png",
- "url": "http://mifut.ligatv.online/winsports.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/winsports.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Win Sport Extra",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png",
- "url": "http://mifut.ligatv.online/winplus.php",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://mifut.ligatv.online/winplus.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Bein Sport Extra",
  "image": "https://thesavvyscreener.com/wp-content/uploads/2019/12/beIN-SPORTS-XTRA_LOGO-1024x127.png",
- "url": "http://www.reloltv.com/play.php?video=https://bein-plutolive-vo.akamaized.net/playlist.m3u8&about=Watch%20Bein%20Sports%20Extra%20online%20live%20tv",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "http://www.reloltv.com/play.php?video=https://bein-plutolive-vo.akamaized.net/playlist.m3u8&about=Watch%20Bein%20Sports%20Extra%20online%20live%20tv",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "Miami tv",
  "image": "https://tse1.explicit.bing.net/th?id=OIP.Zm2DSs44c-WmVPc25zZclgHaEK&pid=Api&P=0&w=273&h=154",
- "url": "https://github.com/iptv-org/iptv/raw/master/channels/us.m3u",referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+ "url": "https://github.com/iptv-org/iptv/raw/master/channels/us.m3u",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
 
 	]
