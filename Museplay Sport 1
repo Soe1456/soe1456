@@ -27,7 +27,7 @@
  "url": "https://dpelota.com/ver/directvsports.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
-{"name": "Tyc Sports",
+{"name": "FoxSports Premium",
  "image": "https://vivos.superliga-argentina.com/wp-content/uploads/2020/08/1280px-TyC_Sports_logo.svg_.png",
  "url": "https://dpelota.com/ver/foxsportspremium.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
@@ -37,7 +37,7 @@
  "url": "http://wizhdsports.net/free40.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
-{"name": "Sport tv",
+{"name": "Sport tv 1",
  "image": "https://www.tiebreaktens.com/wp-content/uploads/2017/01/Sport-TV-logo-2.png",
  "url": "https://globoesporte.online/channels/pt/sporttv1.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
@@ -48,17 +48,17 @@
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "espn 3",
- "image": "https://i.pinimg.com/736x/87/aa/5c/87aa5c828e34a43538b7bd42e73a5326.jpg",
+ "image": "http://1.bp.blogspot.com/-TZNQbBgu508/UjtEagBbaMI/AAAAAAAAAH0/8YrDDQ6iA6k/s1600/ESPN3Vivo.png",
  "url": "https://dpelota.com/espn3hd.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "espn 2",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1200px-Espn2.svg.png",
+ "image": "https://www.tvcanaleshd.com/wp-content/uploads/2018/07/espn22.png",
  "url": "https://dpelota.com/ver/espn2.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "espn hd",
- "image": "https://tse4.mm.bing.net/th?id=OIP.mSX2SzEpkCvGgcJgngDd_gHaBY&pid=Api&P=0&w=641&h=121",
+ "image": "https://www.pngfind.com/pngs/m/120-1208622_espn-en-vivo-online-hd-por-internet-espn.png",
  "url": "https://dpelota.com/ver/espn.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
