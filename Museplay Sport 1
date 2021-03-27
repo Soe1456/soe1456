@@ -5,25 +5,30 @@
 [
 
 
-{"name": "Diract-Sports-Channel-2",
- "image": "https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png",
+{"name": "TUDN MX",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",
  "url": "https://pirlotvonlinehd.com/canal-24.php",
- "referer": "https://adfiptv.com/",playInNatPlayer: "true"}, 
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"}, 
 
-{"name": "Diract-Sports-Channel-2",
- "image": "https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png",
+{"name": "ESPN-2",
+ "image": "https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435",
  "url": "https://pirlotvonlinehd.com/canal-29.php",
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
+ 
+ {"name": "Diract-Sports-Channel-2",
+ "image": "https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png",
+ "url": "https://www.pirlotv.pro/Television/canal24.html",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Diract-Sports-Channel-2",
  "image": "https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png",
  "url": "https://rojadirectatv.pro/movistar-f1.php#",
- "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
  
- {"name": "Diract-Sports-Channel-2",
- "image": "https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png",
- "url": "https://pirlotvonlinehd.com/canal-27.php",
- "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ {"name": "ESPN VIVO",
+ "image": "http://1.bp.blogspot.com/-wELas1Zyc00/UTVXi0RfYpI/AAAAAAAAGao/9UYRDv5k3Qk/s1600/Espn+VIVO.png",
+ "url": "https://pirlotvonlinehd.com/canal-28.php",
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
 
 
 
