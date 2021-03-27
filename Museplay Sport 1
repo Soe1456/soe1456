@@ -133,7 +133,7 @@
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
  {"name": "ESPN MX 1",
- "image": "https://espndeportes.espn.com/2003/photos2008/0819/XGames_LogoMexico2008_180x2.jpg",
+ "image": "https://www.tvplusgratis.com/img/espnmexico.png",
  "url": "http://mifut.ligatv.online/espn1-mx.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
@@ -153,7 +153,7 @@
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "ESPN LA 1",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ESPN_Deportes_La_Revista_logo.svg/1200px-ESPN_Deportes_La_Revista_logo.svg.png",
+ "image": "https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg",
  "url": "http://mifut.ligatv.online/espn-la.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
