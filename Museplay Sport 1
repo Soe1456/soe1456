@@ -5,6 +5,15 @@
 [
 
 
+{"name": "FOXSPORT-PREMIUM-VIVO-BACKUP",
+ "image": "https://static.wikia.nocookie.net/logopedia/images/a/a4/Fox_Sports_premium_2020.png/revision/latest?cb=20201103013249",
+ "url": "https://pirlotvonlinehd.com/canal-14.php",
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
+
+{"name": "FOXSPORT-PREMIUM-VIVO",
+ "image": "https://static.wikia.nocookie.net/logopedia/images/a/a4/Fox_Sports_premium_2020.png/revision/latest?cb=20201103013249",
+ "url": "https://rojadirectatv.pro/tyc-sports.php#",
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
 
 {"name": "M-LALIGA",
  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png",
@@ -16,10 +25,7 @@
  "url": "https://pirlotvonlinehd.com/canal-36.php",
  "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
 
-{"name": "TNT sports",
- "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png",
- "url": "https://pirlotvonlinehd.com/canal-21.php",
- "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
+https://static.wikia.nocookie.net/logopedia/images/a/a4/Fox_Sports_premium_2020.png/revision/latest?cb=20201103013249
 
 {"name": "DAZN 1",
  "image": "https://cdn.dday.it/system/uploads/news/main_image/32136/main_daz1ape.jpg",
