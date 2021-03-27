@@ -31,7 +31,7 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
  "url": "https://dpelota.com/ver/foxsportspremium.php",
  "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
-{"name": "Deportes TV",
+{"name": "M+Deportes TV",
  "image": "https://i.ibb.co/Df6kFcn/europaleague.jpg",
  "url": "http://wizhdsports.net/free40.php",
  "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
@@ -41,7 +41,7 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
  "url": "https://globoesporte.online/channels/pt/sporttv1.php",
  "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
-{"name": "Bein Sport hd",
+{"name": "BT Sports 2",
  "image": "https://upload.wikimedia.org/wikipedia/commons%2Ff%2Ff6%2FBeIN_Sports.png",
  "url": "https://globoesporte.online/channels/hd/hd2.php",
  "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
@@ -51,14 +51,14 @@ url: "https://adfiptv.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD
  "url": "https://dpelota.com/espn3hd.php",
  "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
 
+{"name": "espn 2",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1200px-Espn2.svg.png",
+ "url": "https://dpelota.com/ver/espn2.php",
+ "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
+
 {"name": "espn hd",
  "image": "https://tse4.mm.bing.net/th?id=OIP.mSX2SzEpkCvGgcJgngDd_gHaBY&pid=Api&P=0&w=641&h=121",
  "url": "https://dpelota.com/ver/espn.php",
- "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
- 
- {"name": "espn 2",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1200px-Espn2.svg.png",
- "url": "https://dpelota.com/ver/espn2.php",
  "referer: "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "beines n",
