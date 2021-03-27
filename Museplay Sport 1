@@ -5,8 +5,29 @@
 [
 
 
+
+{"name": "M-LALIGA",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png",
+ "url": "https://rojadirectatv.pro/bein-sports.php#",
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
+
+{"name": "ESPN-2-VIVO",
+ "image": "https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png",
+ "url": "https://pirlotvonlinehd.com/canal-36.php",
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
+
+{"name": "TNT sports",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png",
+ "url": "https://pirlotvonlinehd.com/canal-21.php",
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
+
+{"name": "DAZN 1",
+ "image": "https://cdn.dday.it/system/uploads/news/main_image/32136/main_daz1ape.jpg",
+ "url": "https://pirlotvonlinehd.com/canal-24.php",
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
+
 {"name": "TUDN MX",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",
+ "image": "https://play-lh.googleusercontent.com/7O_IqzLKyd2EgoP7GUp0gOoyPoSOFGoIkvch742ijbi6ZAigB9mzHXsIFBRAI-w-6g",
  "url": "https://pirlotvonlinehd.com/canal-24.php",
  "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"}, 
 
@@ -15,17 +36,17 @@
  "url": "https://pirlotvonlinehd.com/canal-29.php",
  "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
  
- {"name": "Diract-Sports-Channel-2",
- "image": "https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png",
- "url": "https://www.pirlotv.pro/Television/canal24.html",
+ {"name": "ESPN 3",
+ "image": "https://e7.pngegg.com/pngimages/20/364/png-clipart-espn3-watchespn-espn-com-streaming-media-espn-3-television-text.png",
+ "url": "https://rojadirectatv.pro/espn-3.php#",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "Diract-Sports-Channel-2",
- "image": "https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png",
+ {"name": "ESPN-VIVO-BACKUP",
+ "image": "http://1.bp.blogspot.com/-wELas1Zyc00/UTVXi0RfYpI/AAAAAAAAGao/9UYRDv5k3Qk/s1600/Espn+VIVO.png",
  "url": "https://rojadirectatv.pro/movistar-f1.php#",
  "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
  
- {"name": "ESPN VIVO",
+ {"name": "ESPN-VIVO",
  "image": "http://1.bp.blogspot.com/-wELas1Zyc00/UTVXi0RfYpI/AAAAAAAAGao/9UYRDv5k3Qk/s1600/Espn+VIVO.png",
  "url": "https://pirlotvonlinehd.com/canal-28.php",
  "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
