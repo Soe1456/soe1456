@@ -43,7 +43,7 @@
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "BT Sports 2",
- "image": "https://upload.wikimedia.org/wikipedia/commons%2Ff%2Ff6%2FBeIN_Sports.png",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png",
  "url": "https://globoesporte.online/channels/hd/hd2.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
@@ -77,7 +77,7 @@
  "url": "http://mifut.ligatv.online/eldos.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "Staraction tv",
+ {"name": "Star-Action-tv",
  "image": "http://4.bp.blogspot.com/-0JMzb_Ojx9c/VVcWsE7nBEI/AAAAAAAAKak/DdhI-Ip-gsU/s1600/gambar%2Bbintang%2B(10).png",
  "url": "http://mifut.ligatv.online/staraction.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
@@ -88,7 +88,7 @@
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
  {"name": "Adrenalina sport",
- "image": "https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png",
  "url": "http://mifut.ligatv.online/adrenalina.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
