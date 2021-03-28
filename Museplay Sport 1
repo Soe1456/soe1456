@@ -71,6 +71,16 @@
  "url": "https://sportsbay.org/watch/99397/1/bulgaria-vs-italy-live.html",
  "referer": "https://sportsbay.org/",playInNatPlayer: "true"},
  
+{"name": "Fox Sports 1",
+ "image": "https://rolo.nocdnrlly.xyz/images/teams/Logo-Fox-Sports-1.png?",
+ "url": "https://sportsbay.org/watch/45459/1/fox-sports-1-live.html",
+ "referer": "https://sportsbay.org/",playInNatPlayer: "true"},
+ 
+{"name": "Fox Sports 2",
+ "image": "https://rolo.nocdnrlly.xyz/images/teams/Logo-Fox-Sports-2.png?",
+ "url": "https://sportsbay.org/watch/45460/1/fox-sports-2-live.html",
+ "referer": "https://sportsbay.org/",playInNatPlayer: "true"}, 
+ 
  {"name": "ESPN-USA",
  "image": "https://rolo.nocdnrlly.xyz/images/teams/Logo-ESPN.png?",
  "url": "https://sportsbay.org/watch/43572/1/espn-usa-live.html",
