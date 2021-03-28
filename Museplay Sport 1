@@ -71,6 +71,16 @@
  "url": "https://sportsbay.org/watch/99397/1/bulgaria-vs-italy-live.html",
  "referer": "https://sportsbay.org/",playInNatPlayer: "true"},
  
+{"name": "Showtime",
+ "image": "https://rolo.nocdnrlly.xyz/images/teams/Logo-Showtime.png?",
+ "url": "https://sportsbay.org/watch/77870/1/showtime-live.html",
+ "referer": "https://sportsbay.org/",playInNatPlayer: "true"}, 
+ 
+{"name": "WWE Network",
+ "image": "https://rolo.nocdnrlly.xyz/images/teams/Logo-WWE-Network.png?",
+ "url": "https://sportsbay.org/watch/67132/1/wwe-network-live.html",
+ "referer": "https://sportsbay.org/",playInNatPlayer: "true"}, 
+ 
 {"name": "Fox Sports 1",
  "image": "https://rolo.nocdnrlly.xyz/images/teams/Logo-Fox-Sports-1.png?",
  "url": "https://sportsbay.org/watch/45459/1/fox-sports-1-live.html",
