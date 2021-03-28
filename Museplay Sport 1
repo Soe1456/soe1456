@@ -9,12 +9,17 @@
 {"name": "sporttv1",
  "image": "https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png",
  "url": "https://globoesporte.online/channels/pt/sporttv1.php",
- "referer": "https://globoesporte.online/",playInNatPlayer: "true"},
+ "referer": "https://globoesporte.online/",playInNatPlayer: "true"}, 
  
 {"name": "sporttv2",
  "image": "https://i.pinimg.com/236x/17/d3/9a/17d39a6feab8bd83f98881d2dd9df016.jpg",
  "url": "https://globoesporte.online/channels/pt/sporttv2.php",
  "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"}, 
+
+{"name": "sporttv3",
+ "image": "https://i.pinimg.com/originals/9f/82/f0/9f82f0a2a590bf589bb97c5c03588ac5.png",
+ "url": "https://globoesporte.online/channels/pt/sporttv3.php",
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
 
 {"name": "sporttv4",
  "image": "https://i.pinimg.com/originals/e5/46/15/e5461535d73cc4d64fa1ee7c022f8202.png",
@@ -37,7 +42,7 @@
  "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
 
 {"name": "TFI_International",
- "image": "https://www.logo.wine/a/logo/TFI_International/TFI_International-Logo.wine.svg",
+ "image": "https://img.melodylinhart.com/350-_-140-_-70-_-uspto.report/TM/73819756/mark.png",
  "url": "https://globoesporte.online/channels/hd/hd4.php",
  "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
  
@@ -51,14 +56,9 @@
  "url": "https://globoesporte.online/channels/hd/hd5.php",
  "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
 
-{"name": "DAZN 1",
- "image": "https://cdn.dday.it/system/uploads/news/main_image/32136/main_daz1ape.jpg",
- "url": "https://pirlotvonlinehd.com/canal-24.php",
- "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
-
-{"name": "TUDN MX",
- "image": "https://play-lh.googleusercontent.com/7O_IqzLKyd2EgoP7GUp0gOoyPoSOFGoIkvch742ijbi6ZAigB9mzHXsIFBRAI-w-6g",
- "url": "https://pirlotvonlinehd.com/canal-24.php",
+{"name": "M-LALIGA",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png",
+ "url": "https://globoesporte.online/channels/hd/hd6.php",
  "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"}, 
 
 {"name": "ESPN-2",
