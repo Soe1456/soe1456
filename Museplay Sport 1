@@ -7,7 +7,17 @@
 
 {"name": "FOXSPORT-PREMIUM-VIVO-BACKUP",
  "image": "https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234",
- "url": "https://sports24.stream/watch/boxing-povetkin-vs-whyte-2-dazn1_28Mar.html",
+ "url": "https://sports24.stream/tv/v?id=bein4usa",
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
+ 
+ {"name": "FOXSPORT-PREMIUM-VIVO-BACKUP",
+ "image": "https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234",
+ "url": "https://sports24.stream/tv/v?id=laliga",
+ "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
+ 
+ {"name": "FOXSPORT-PREMIUM-VIVO-BACKUP",
+ "image": "https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234",
+ "url": "https://sports24.stream/tv/v?id=beinusa",
  "referer": "https://pirlotvonlinehd.com/",playInNatPlayer: "true"},
 
 {"name": "FOXSPORT-PREMIUM-VIVO-BACKUP",
