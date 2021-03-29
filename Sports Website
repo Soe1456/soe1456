@@ -5,6 +5,14 @@
 [
 
 
+	{"name":"sportsbay.org",
+	"image":"https://rolo.tumadre.xyz/images/spbaylogo.svg",
+	"url":"https://sportsbay.org/sports/tv-channels","embed": true},
+	
+	{"name":"pirlotvonlinehd",
+	"image":"https://i.postimg.cc/zGwYWRGY/pirlotv.png",
+	"url":"https://pirlotvonlinehd.com/","embed": true},
+	
 	{"name":"DOOFOOTBALL",
 	"image":"https://www.i-pic.info/i/S0Kn8315.png",
 	"url":"https://www.doofootball.com/","embed": true},
