@@ -44,16 +44,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "test",  
-"image": "https://www.nettv.live/uploads/allimg/18/1-1Q109211Q10-L.jpg",  
-"url": "https://vvipscore.co/live.php?id=31844",
+"name": "suckballhd",  
+"image": "https://suckballhd.com/images/logo-suckballhd_1.png",  
+"url": "https://suckballhd.com/live.php?sch_id=2160847",
 "referer": "https://vvipscore.co/index.php",
 "playInNatPlayer": "true"
 },
 {
-"name": "test",  
-"image": "https://www.nettv.live/uploads/allimg/18/1-1Q109211Q10-L.jpg",  
-"url": "https://vvipscore.co/live.php?id=31844",
+"name": "moodooball",  
+"image": "https://moodooball.com/wp-content/themes/moodooball/images/logo-moodooball.png",  
+"url": "https://moodooball.com/%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B8%94/?sch_id=2160845",
 "referer": "https://vvipscore.co/index.php",
 "playInNatPlayer": "true"
 },
