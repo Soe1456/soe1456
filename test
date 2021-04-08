@@ -13,8 +13,77 @@
         "stations": [
 
 
+{
+"name": "Sportklub 1 Slovenia (TV Online)",  
+"image": "https://tv24hd.com/wp-content/uploads/2019/05/Sportklub1Slovenia.png",  
+"url": "https://www.lineballsod.com/doball/live-ch252/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports 1 (France) TV Online",  
+"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/beinsport1fr.png",  
+"url": "https://www.lineballsod.com/doball/live-ch279/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Arena Sport 1 Serbia (TV Online)",  
+"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport1serbia.png",  
+"url": "https://www.lineballsod.com/doball/live-ch196/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports 2 (TU) TV Online",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch299.png",  
+"url": "https://www.lineballsod.com/doball/live-ch299/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports 1 (TU) TV Online",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch298.png",  
+"url": "https://www.lineballsod.com/doball/live-ch298/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
 
-
+{
+"name": "ESPN US TV Online",  
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",  
+"url": "https://www.lineballsod.com/doball/live-ch268/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sportklub 4 Slovenia (TV Online)",  
+"image": "https://tv24hd.com/wp-content/uploads/2019/05/Sportklub4Slovenia.png",  
+"url": "https://www.lineballsod.com/doball/live-ch254/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sportklub 2 Slovenia (TV Online)",  
+"image": "https://tv24hd.com/wp-content/uploads/2019/05/Sportklub2Slovenia.png",  
+"url": "https://www.lineballsod.com/doball/live-ch253/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
 {
 "name": "btsport1",  
 "image": "https://www.lineballsod.com/chanel/icon/btsport1.png",  
@@ -51,10 +120,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "moodooball",  
-"image": "https://moodooball.com/wp-content/themes/moodooball/images/logo-moodooball.png",  
-"url": "https://moodooball.com/%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B8%94/?sch_id=2160845",
-"referer": "https://vvipscore.co/index.php",
+"name": "FOX Sports 1 (USA) TV Online",  
+"image": "https://i.pinimg.com/originals/01/b0/4a/01b04a5342cb55408cd7296eaa6a5395.png",  
+"url": "https://www.lineballsod.com/doball/live-ch38/",
+"referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 
