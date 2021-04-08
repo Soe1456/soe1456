@@ -19,16 +19,47 @@
 "name": "test",  
 "image": "https://www.nettv.live/uploads/allimg/18/1-1Q109211Q10-L.jpg",  
 "url": "https://vvipscore.co/live.php?id=31844",
-"referer": "https://www.nettv.live/",
+"referer": "https://vvipscore.co/index.php",
 "playInNatPlayer": "true"
 },
 {
 "name": "test",  
 "image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
-"url": "https://vvipscore.co/live.php?id=31845",
-"referer": "https://www.nettv.live/",
+"url": "https://tubtoeball.net/broadcast-live/?schid=84601",
+"referer": "https://tubtoeball.net/",
 "playInNatPlayer": "true"
 },
+{
+"name": "test",  
+"image": "https://www.nettv.live/uploads/allimg/18/1-1Q109211Q10-L.jpg",  
+"url": "https://vvipscore.co/live.php?id=31844",
+"referer": "https://vvipscore.co/index.php",
+"playInNatPlayer": "true"
+},
+{
+"name": "test",  
+"image": "https://www.nettv.live/uploads/allimg/18/1-1Q109211Q10-L.jpg",  
+"url": "https://vvipscore.co/live.php?id=31844",
+"referer": "https://vvipscore.co/index.php",
+"playInNatPlayer": "true"
+},
+{
+"name": "test",  
+"image": "https://www.nettv.live/uploads/allimg/18/1-1Q109211Q10-L.jpg",  
+"url": "https://vvipscore.co/live.php?id=31844",
+"referer": "https://vvipscore.co/index.php",
+"playInNatPlayer": "true"
+},
+{
+"name": "test",  
+"image": "https://www.nettv.live/uploads/allimg/18/1-1Q109211Q10-L.jpg",  
+"url": "https://vvipscore.co/live.php?id=31844",
+"referer": "https://vvipscore.co/index.php",
+"playInNatPlayer": "true"
+},
+
+
+
 
 ]
 }
