@@ -1,0 +1,45 @@
+{
+       "name": "🎥 Mix TV 🎞️",
+       "author": "MUSE",
+       "url": "https://raw.githubusercontent.com/Soe1456/muse-shan-soe/main/Mix%20TV",
+       "image": "https://25.media.tumblr.com/40d6a74eace41aef3a8dc336842a7b47/tumblr_mexhbllkYw1riqyu4o1_500.gif",
+       "groups": [
+ 
+ 
+{
+        "name": "mix TV",
+        "image": "https://media3.giphy.com/media/gIwGXUI9zE9Hp4iJXO/source.gif",
+        "URL": "https://raw.githubusercontent.com/Soe1456/muse-shan-soe/main/Mix%20TV",
+        "stations": [
+
+
+
+
+{
+"name": "TVRI International",  
+"image": "https://www.nettv.live/uploads/allimg/18/1-1Q109211Q10-L.jpg",  
+"url": "https://www.nettv.live/en/play.php?aid=5512",
+"referer": "https://www.nettv.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jurnal TV",  
+"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=9389",
+"referer": "https://www.nettv.live/",
+"playInNatPlayer": "true"
+},
+
+]
+}
+]
+                              }
+ 
+                                     ]
+                              }
+ 
+                                     ]
+                               }                              
+ 
+                   ]
+               }
