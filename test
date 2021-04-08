@@ -21,6 +21,43 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "SPORT TV 2 (TV Online)",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch112.png",  
+"url": "https://www.lineballsod.com/doball/live-ch112/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Viasat fotboll (SE) TV Online",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch301.png",  
+"url": "https://www.lineballsod.com/doball/live-ch301/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 1 HD TV Online",  
+"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/bein1.png",  
+"url": "https://www.lineballsod.com/doball/live-ch7a/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "espn",  
+"image": "https://fussbol24.com/sport/src/images/channel/espn.png",  
+"url": "https://livescore24-th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=34842",
+"referer": "https://livescore24-th.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+
+
+{
 "name": "PFC Internacional (TV Online)",  
 "image": "https://www.lineballsod.com/api/table/icon/live-ch155.png",  
 "url": "https://www.lineballsod.com/doball/live-ch155/",
