@@ -16,16 +16,16 @@
 
 
 {
-"name": "testv=vipscore",  
-"image": "https://www.nettv.live/uploads/allimg/18/1-1Q109211Q10-L.jpg",  
-"url": "https://vvipscore.co/live.php?id=31844",
+"name": "livescore24-th",  
+"image": "https://livescore24-th.com/wp-content/uploads/2020/04/S002-1536x236.png",  
+"url": "https://livescore24-th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=34843",
 "referer": "https://vvipscore.co/index.php",
 "playInNatPlayer": "true"
 },
 {
-"name": "test-tubtoeball",  
-"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
-"url": "https://tubtoeball.net/broadcast-live/?schid=84601",
+"name": "pptvhd36live",  
+"image": "https://pptvhd36live.com/wp-content/uploads/2020/11/54.png",  
+"url": "https://pptvhd36live.com/?id=34843",
 "referer": "https://tubtoeball.net/",
 "playInNatPlayer": "true"
 },
