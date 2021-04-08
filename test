@@ -1,7 +1,7 @@
 {
        "name": "🎥 Mix TV 🎞️",
        "author": "MUSE",
-       "url": "https://raw.githubusercontent.com/Soe1456/muse-shan-soe/main/Mix%20TV",
+       "url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/test",
        "image": "https://25.media.tumblr.com/40d6a74eace41aef3a8dc336842a7b47/tumblr_mexhbllkYw1riqyu4o1_500.gif",
        "groups": [
  
@@ -16,16 +16,16 @@
 
 
 {
-"name": "TVRI International",  
+"name": "test",  
 "image": "https://www.nettv.live/uploads/allimg/18/1-1Q109211Q10-L.jpg",  
-"url": "https://www.nettv.live/en/play.php?aid=5512",
+"url": "https://vvipscore.co/live.php?id=31844",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Jurnal TV",  
+"name": "test",  
 "image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
-"url": "https://www.nettv.live/m/play.php?aid=9389",
+"url": "https://vvipscore.co/live.php?id=31845",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
