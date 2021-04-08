@@ -21,6 +21,71 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "NBC-SPORTS",  
+"image": "https://cdn.afterdawn.fi/v3/news/original/nbc-sports-logo-18.jpg",  
+"url": "https://www.zonedooball.com/live-football/?id=2160848",
+"referer": "https://www.zonedooball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports 1 (TU)",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch298.png",  
+"url": "https://duball356.com/live-football/?id=2160819",
+"referer": "https://duball356.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBC-SPORTS",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6psTNnZ0OApDOg8Zc1b6oc-rj22wQdk0DRzTQ67nvtvvJPYgbY4AnJ8_gCMzF6R8c2v4&usqp=CAU",  
+"url": "https://duball356.com/live-football/?id=2160848",
+"referer": "https://duball356.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+
+
+{
 "name": "Foxsport-NL-3",  
 "image": "https://fussbol24.com/sport/src/images/channel/NL-Fox-3.png",  
 "url": "https://livescore24-th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=34845",
@@ -59,11 +124,9 @@
 "name": "beIN Sports 2 (AU)",  
 "image": "https://www.lineballsod.com/api/table/icon/live-ch300.png",  
 "url": "https://www.zonedooball.com/live-football/?id=2160818",
-"referer": "https://www.lineballsod.com/",
+"referer": "https://www.zonedooball.com/",
 "playInNatPlayer": "true"
 },
-
-
 {
 "name": "SPORT TV 2 (TV Online)",  
 "image": "https://www.lineballsod.com/api/table/icon/live-ch112.png",  
@@ -120,7 +183,6 @@
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Sportklub 1 Slovenia (TV Online)",  
 "image": "https://tv24hd.com/wp-content/uploads/2019/05/Sportklub1Slovenia.png",  
