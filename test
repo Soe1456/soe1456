@@ -70,16 +70,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "vtv3",  
+"image": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv3.htm",  
+"url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv3.htm",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "vtv2",  
+"image": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv2.htm",  
+"url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv2.htm",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
