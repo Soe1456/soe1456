@@ -197,23 +197,23 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "ESPN Sport",  
-"image": "http://fomny.com/Video/USA/01/ESPN-News-Sport/logo.gif",  
+"name": "ESPN Sport-USA",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5h1AKlBLwwvDmPbBDs94CjfWIU_j6COfVgWYegZu5QsT7rwRyCPuPZhGDyXnnkfeJfEM&usqp=CAU",  
 "url": "http://fomny.com/Menu2/Pop3/iframe_plein_ecran-2.php?iframe=//sportsbay.org/embed/43572/1/espn-usa-live.html",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "ESPN Sport 2",  
+"name": "ESPN Sport 2-USA",  
 "image": "https://www.logolynx.com/images/logolynx/e0/e035728cb8bab598fbba5861ef68c0ad.png",  
 "url": "http://fomny.com/Menu2/Pop3/iframe_plein_ecran-2.php?iframe=//sportsbay.org/embed/45351/1/espn-2-live.html",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "ESPN-U",  
+"image": "https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png",  
+"url": "http://fomny.com/Menu2/Pop3/iframe_plein_ecran-2.php?iframe=//sportsbay.org/embed/45457/1/espn-u-live.html",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
