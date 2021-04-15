@@ -330,34 +330,61 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "TRAVEL CHANNEL HD",  
+"image": "https://www.seirsanduk.com/images/tvlogo/travel-channel-hd.png",  
+"url": "https://www.seirsanduk.com/hd-travel-channel-hd-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "TRAVEL TV",  
+"image": "https://www.seirsanduk.com/images/tvlogo/travel-tv.png",  
+"url": "https://www.seirsanduk.com/travel-tv-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "TV 1",  
+"image": "https://www.seirsanduk.com/images/tvlogo/tv-1.png",  
+"url": "https://www.seirsanduk.com/tv-1-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "TV EVROPA",  
+"image": "https://www.seirsanduk.com/images/tvlogo/tv-evropa.png",  
+"url": "https://www.seirsanduk.com/tv-evropa-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "VTK",  
+"image": "https://www.seirsanduk.com/images/tvlogo/vtk.png",  
+"url": "https://www.seirsanduk.com/vtk-online",
+"referer": "https://www.seirsanduk.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ALFA TV",  
+"image": "https://www.seirsanduk.com/images/tvlogo/alfa-tv.png",  
+"url": "https://www.seirsanduk.com/alfa-tv-online",
+"referer": "https://www.seirsanduk.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "AXN",  
+"image": "https://www.seirsanduk.com/images/tvlogo/axn.png",  
+"url": "https://www.seirsanduk.com/axn-online",
+"referer": "https://www.seirsanduk.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BLOOMBERG TV",  
+"image": "https://www.seirsanduk.com/images/tvlogo/bloomberg-tv.png",  
+"url": "https://www.seirsanduk.com/bloomberg-tv-online",
+"referer": "https://www.seirsanduk.com/",
+"playInNatPlayer": "true"
+},
 
 
 ]
