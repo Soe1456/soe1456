@@ -197,16 +197,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "ESPN Sport",  
+"image": "http://fomny.com/Video/USA/01/ESPN-News-Sport/logo.gif",  
+"url": "http://fomny.com/Menu2/Pop3/iframe_plein_ecran-2.php?iframe=//sportsbay.org/embed/43572/1/espn-usa-live.html",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "ESPN Sport 2",  
+"image": "https://www.logolynx.com/images/logolynx/e0/e035728cb8bab598fbba5861ef68c0ad.png",  
+"url": "http://fomny.com/Menu2/Pop3/iframe_plein_ecran-2.php?iframe=//sportsbay.org/embed/45351/1/espn-2-live.html",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
