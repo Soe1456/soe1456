@@ -218,16 +218,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
+"name": "A&E TV",  
+"image": "https://cdn.worldvectorlogo.com/logos/a-e-4066.svg",  
 "url": "http://123tvnow.com/watch/ae/",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "us_privacy",  
+"image": "https://penrose.law/wp-content/uploads/EU-US-privacy-shield.jpg",  
+"url": "https://studio1-lit-plex.amagi.tv/amRdirect/us_privacy=1---&did=34d71c51-aba4-5bad-a00a-d61a86b07852&dnt=0&X-Plex-Token=hUVZrmsZqAsWBFX4R-En&channelId=6025c38eb7f47e002cc831be/hls/amagi_hls_data_plexAAAAA-studio1-lit-plex/CDN/640x360_1205600/index.m3u8",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
