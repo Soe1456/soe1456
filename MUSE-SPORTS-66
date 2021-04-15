@@ -50,13 +50,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "BEIN-SPORTS-1",  
-"image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/beinsportsarabia1hd.png",  
-"url": "https://www.moviemocha.com/?r=tv_view&id=18",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "Digisport1 RO",  
 "image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/digisport1romania.png",  
 "url": "https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/digisport1/chunks.m3u8?nimblesessionid=2432520&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIxIDEyOjIxOjM0IFBNJmhhc2hfdmFsdWU9dHcwRlJaVzVYSHdVenhjem1QZFJLQT09JnZhbGlkbWludXRlcz0yMA==",
@@ -64,9 +57,23 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "BT-SPORT-2",  
-"image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsport2.png",  
-"url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/UEFA-Europa-League-Manchester-United-vs-Granada-CF/89256",
+"name": "BEIN-SPORTS-1",  
+"image": "https://ballnaka.tv/images/tv/bein1.webp",  
+"url": "https://www.moviemocha.com/?r=tv_view&id=18",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BEIN-SPORTS-1-TH",  
+"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/bein1.png",  
+"url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/bein1",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BEIN-SPORTS-1-TH",  
+"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/bein1.png",  
+"url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/bein2",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
@@ -78,23 +85,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "BEIN-SPORTS-1-TH",  
-"image": "https://ballnaka.tv/images/tv/bein1.webp",  
-"url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/bein1",
+"name": "BT-SPORT-2",  
+"image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsport2.png",  
+"url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/UEFA-Europa-League-Manchester-United-vs-Granada-CF/89256",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
+"name": "BT-SPORT-2",  
+"image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsport2.png",  
+"url": "https://www.moviemocha.com/?r=tv_view&id=157",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
