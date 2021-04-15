@@ -17,14 +17,14 @@
 {
 "name": "TRUE-SPORTS-PREMIER-1",  
 "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",  
-"url": "https://we-play.tv/watching/football/89170",
+"url": "",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "TRUE-SPORTS-PREMIER-1-1",  
 "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",  
-"url": "https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/digisport1/chunks.m3u8?nimblesessionid=2432520&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIxIDEyOjIxOjM0IFBNJmhhc2hfdmFsdWU9dHcwRlJaVzVYSHdVenhjem1QZFJLQT09JnZhbGlkbWludXRlcz0yMA==",
+"url": "",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
@@ -45,28 +45,28 @@
 {
 "name": "Digisport1 RO",  
 "image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/digisport1romania.png",  
-"url": "https://stream.warpballsod.tv/digisport1romania.m3u8?sessionid=1407691",
+"url": "https://we-play.tv/watching/football/89170",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "TRUE-SPORTS-PREMIER-1",  
-"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",  
+"name": "BEIN-SPORTS-1",  
+"image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/beinsportsarabia1hd.png",  
 "url": "https://www.moviemocha.com/?r=tv_view&id=18",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Digisport1 RO",  
+"image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/digisport1romania.png",  
+"url": "https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/digisport1/chunks.m3u8?nimblesessionid=2432520&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIxIDEyOjIxOjM0IFBNJmhhc2hfdmFsdWU9dHcwRlJaVzVYSHdVenhjem1QZFJLQT09JnZhbGlkbWludXRlcz0yMA==",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "BT-SPORT-2",  
+"image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsport2.png",  
+"url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/UEFA-Europa-League-Manchester-United-vs-Granada-CF/89256",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
