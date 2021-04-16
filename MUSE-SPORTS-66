@@ -36,6 +36,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "TRUE-SPORTS-PREMIER-1-3",  
+"image": "https://overseer.blackboxsys.net/images/png/epl-1.png",  
+"url": "https://www.warpfootball.games/live/?ch=epl1",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "TRUE-SPORTS-PREMIER-2",  
 "image": "https://overseer.blackboxsys.net/images/png/epl-2.png",  
 "url": "https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-premier-football-hd-2-2/",
@@ -225,6 +232,48 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "live-4",  
+"image": "https://linkdooball.com/channel/assets/201712271534041225444673.jpg",  
+"url": "https://doball24.com/stream/live4.php",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "live-5",  
+"image": "https://linkdooball.com/channel/assets/20171227153412502754253.jpg",  
+"url": "https://doball24.com/stream/live5.php",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "live-6",  
+"image": "https://linkdooball.com/channel/assets/201712271534242131993784.jpg",  
+"url": "https://doball24.com/stream/live6.php",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "live-7",  
+"image": "https://linkdooball.com/channel/assets/201712271534331923040981.jpg",  
+"url": "https://doball24.com/stream/live7.php",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "live-8",  
+"image": "https://linkdooball.com/channel/assets/2017122715350465935948.jpg",  
+"url": "https://doball24.com/stream/live8.php",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "live-9",  
+"image": "https://linkdooball.com/channel/assets/20171227153516126124507.jpg",  
+"url": "https://doball24.com/stream/live9.php",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "A&E TV",  
 "image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/5028/brand.gif?itok=bO-w4Sr7",  
 "url": "http://123tvnow.com/watch/ae/",
@@ -315,94 +364,46 @@
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
+
 {
-"name": "live-4",  
-"image": "https://linkdooball.com/channel/assets/201712271534041225444673.jpg",  
-"url": "https://doball24.com/stream/live4.php",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "live-5",  
-"image": "https://linkdooball.com/channel/assets/20171227153412502754253.jpg",  
-"url": "https://doball24.com/stream/live5.php",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "live-6",  
-"image": "https://linkdooball.com/channel/assets/201712271534242131993784.jpg",  
-"url": "https://doball24.com/stream/live6.php",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "live-7",  
-"image": "https://linkdooball.com/channel/assets/201712271534331923040981.jpg",  
-"url": "https://doball24.com/stream/live7.php",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "live-8",  
-"image": "https://linkdooball.com/channel/assets/2017122715350465935948.jpg",  
-"url": "https://doball24.com/stream/live8.php",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "live-9",  
-"image": "https://linkdooball.com/channel/assets/20171227153516126124507.jpg",  
-"url": "https://doball24.com/stream/live9.php",
+"name": "",  
+"image": "",  
+"url": "https://www.warpfootball.games/live/?ch=epl2",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
-"url": "",
+"url": "https://www.warpfootball.games/live/?ch=epl3",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
-"url": "",
+"url": "https://www.warpfootball.games/live/?ch=bein1",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
-"url": "",
+"url": "https://www.warpfootball.games/live/?ch=bein2",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
-"url": "",
+"url": "https://www.warpfootball.games/live/?ch=skysportpremiere",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
-"url": "",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
+"url": "https://www.warpfootball.games/live/?ch=skysportfootball",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
