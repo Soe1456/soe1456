@@ -302,16 +302,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "MV_Series",  
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/v2h9.png",  
+"url": "https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/chunklist_w1815781438.m3u8",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Premier League",  
+"image": "https://overseer.blackboxsys.net/images/png/epl-1.png",  
+"url": "https://xn--l3clbuukk5c4d8a3e5d.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=2161598",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
