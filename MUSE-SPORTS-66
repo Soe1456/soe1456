@@ -274,16 +274,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "tv3max",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1219.png",  
+"url": "https://www.doofootball.com/live/streaming/tv3max/641785",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
-"url": "",
+"url": "https://www.youtube.com/watch?v=YgoosYVy4cM",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
