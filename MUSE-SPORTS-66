@@ -234,7 +234,7 @@
 {
 "name": "ABC",  
 "image": "https://www.abc.net.au/cm/rimage/10477576-16x9-large.jpg?v=2",  
-"url": "http://hls.123tv.live/ch/SAYE_Xny_H7uQY-YkLYRRA/1618565451/abc.m3u8",
+"url": "chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#http://hls.123tv.live/ch/Ex-pZ8W-w6BTQgbjZd7KXg/1618566118/abc.m3u8",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
