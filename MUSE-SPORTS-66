@@ -219,7 +219,7 @@
 },
 {
 "name": "A&E TV",  
-"image": "https://cdn.worldvectorlogo.com/logos/a-e-4066.svg",  
+"image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/5028/brand.gif?itok=bO-w4Sr7",  
 "url": "http://123tvnow.com/watch/ae/",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
@@ -232,9 +232,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "http://oklivetv.com/cgtn-arabic-live/",
+"name": "ABC",  
+"image": "https://www.abc.net.au/cm/rimage/10477576-16x9-large.jpg?v=2",  
+"url": "http://hls.123tv.live/ch/SAYE_Xny_H7uQY-YkLYRRA/1618565451/abc.m3u8",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
