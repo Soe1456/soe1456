@@ -29,6 +29,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "TRUE-SPORTS-PREMIER-1-2",  
+"image": "https://overseer.blackboxsys.net/images/png/epl-1.png",  
+"url": "https://xn--l3clbuukk5c4d8a3e5d.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=2161598",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "TRUE-SPORTS-PREMIER-2",  
 "image": "https://overseer.blackboxsys.net/images/png/epl-2.png",  
 "url": "https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-premier-football-hd-2-2/",
@@ -197,23 +204,23 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "ESPN Sport-USA",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5h1AKlBLwwvDmPbBDs94CjfWIU_j6COfVgWYegZu5QsT7rwRyCPuPZhGDyXnnkfeJfEM&usqp=CAU",  
-"url": "http://fomny.com/Menu2/Pop3/iframe_plein_ecran-2.php?iframe=//sportsbay.org/embed/43572/1/espn-usa-live.html",
-"referer": "https://dooball66.com/",
+"name": "live-1",  
+"image": "https://linkdooball.com/channel/assets/201712271507372076588892.jpg",  
+"url": "https://doball24.com/stream/live1.php",
+"referer": "https://doball24.com/stream/",
 "playInNatPlayer": "true"
 },
 {
-"name": "ESPN Sport 2-USA",  
-"image": "https://www.logolynx.com/images/logolynx/e0/e035728cb8bab598fbba5861ef68c0ad.png",  
-"url": "http://fomny.com/Menu2/Pop3/iframe_plein_ecran-2.php?iframe=//sportsbay.org/embed/45351/1/espn-2-live.html",
-"referer": "https://dooball66.com/",
+"name": "live-2",  
+"image": "https://linkdooball.com/channel/assets/20171227153339235094938.jpg",  
+"url": "https://doball24.com/stream/live2.php",
+"referer": "https://doball24.com/stream/",
 "playInNatPlayer": "true"
 },
 {
-"name": "ESPN-U",  
-"image": "https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png",  
-"url": "http://fomny.com/Menu2/Pop3/iframe_plein_ecran-2.php?iframe=//sportsbay.org/embed/45457/1/espn-u-live.html",
+"name": "live-3",  
+"image": "https://linkdooball.com/channel/assets/20171227153354175337297.jpg",  
+"url": "https://doball24.com/stream/live3.php",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
@@ -309,51 +316,44 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Premier League",  
-"image": "https://overseer.blackboxsys.net/images/png/epl-1.png",  
-"url": "https://xn--l3clbuukk5c4d8a3e5d.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=2161598",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "doball24",  
+"name": "live-4",  
 "image": "https://linkdooball.com/channel/assets/201712271534041225444673.jpg",  
 "url": "https://doball24.com/stream/live4.php",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "live-5",  
+"image": "https://linkdooball.com/channel/assets/20171227153412502754253.jpg",  
+"url": "https://doball24.com/stream/live5.php",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "live-6",  
+"image": "https://linkdooball.com/channel/assets/201712271534242131993784.jpg",  
+"url": "https://doball24.com/stream/live6.php",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "live-7",  
+"image": "https://linkdooball.com/channel/assets/201712271534331923040981.jpg",  
+"url": "https://doball24.com/stream/live7.php",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "live-8",  
+"image": "https://linkdooball.com/channel/assets/2017122715350465935948.jpg",  
+"url": "https://doball24.com/stream/live8.php",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "live-9",  
+"image": "https://linkdooball.com/channel/assets/20171227153516126124507.jpg",  
+"url": "https://doball24.com/stream/live9.php",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
