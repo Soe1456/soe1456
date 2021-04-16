@@ -93,14 +93,14 @@
 },
 {
 "name": "BEIN-SPORTS-2-TH",  
-"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/bein1.png",  
+"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein2.png",  
 "url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/bein2",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "BEIN-SPORTS-2-2TH",  
-"image": "",  
+"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein2.png",  
 "url": "https://www.warpfootball.games/live/?ch=bein2",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
@@ -406,27 +406,24 @@
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
-
-
-
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "BT-SPORT-1",  
+"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport1.png",  
+"url": "https://www.warpfootball.games/live/?ch=btsport1",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "BT-SPORT-2",  
+"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport2.png",  
+"url": "https://www.warpfootball.games/live/?ch=btsport2",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "BT-SPORT-3",  
+"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport3.png",  
+"url": "https://www.warpfootball.games/live/?ch=btsport3",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
