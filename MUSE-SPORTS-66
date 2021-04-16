@@ -239,16 +239,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
+"name": "Hefei TV-CN",  
+"image": "http://2019030416250000z.oss-cn-beijing.aliyuncs.com/2019/11/8/f53f3813-7ed8-475e-d1b0-d2060ca9cb1a.png",  
 "url": "http://lesson.hfbtv.com/fccommon/Home/detail?site_id=57&detail_type=7&cid=13&plate_id=235&key=",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "VTV1",  
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/QKGSGH8O8M.png",  
+"url": "http://118.107.85.11:1935/tvnet/smil:vtv1.smil/chunklist_w1878348120_b800000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNjE4NTM5OTk4JnZ0Y2RpZ2ljb21lbmR0aW1lPTE2MTg2MjYzOTgmdnRjZGlnaWNvbWhhc2g9U1VwZjNjM1lVREhjbGtUdzRuSzVFS3dXMld3S2RVUFhaZUJPaHFhSnZDOD0=.m3u8",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
