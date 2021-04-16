@@ -449,6 +449,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "SPORT-TV-1",  
+"image": "https://www.warpfootball.games/wp-content/themes/Divi/logo/sporttv1.png",  
+"url": "https://www.warpfootball.games/live/?ch=sporttv1&id=20971",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "SPORT-TV-2",  
 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sporttv2.png",  
 "url": "https://www.warpfootball.games/live/?ch=sporttv2",
@@ -589,9 +596,51 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "beinsports2tu&id",  
+"image": "https://www.warpfootball.games/wp-content/themes/Divi/logo/beinsports2tu.png",  
+"url": "https://www.warpfootball.games/live/?ch=beinsports2tu&id=20968",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beinsports1tu",  
+"image": "https://www.warpfootball.games/wp-content/themes/Divi/logo/beinsports1tu.png",  
+"url": "https://www.warpfootball.games/live/?ch=beinsports1tu&id=20969",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "diemasport1",  
+"image": "https://www.warpfootball.games/wp-content/themes/Divi/logo/diemasport1.png",  
+"url": "https://www.warpfootball.games/live/?ch=diemasport1&id=21001",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "elevensports1pt",  
+"image": "https://www.warpfootball.games/wp-content/themes/Divi/logo/elevensports1pt.png",  
+"url": "https://www.warpfootball.games/live/?ch=elevensports1pt&id=20974",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "viasatfotboll",  
+"image": "https://www.warpfootball.games/wp-content/themes/Divi/logo/viasatfotboll.png",  
+"url": "https://www.warpfootball.games/live/?ch=viasatfotboll&id=21049",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beinsports2au",  
+"image": "https://www.warpfootball.games/wp-content/themes/Divi/logo/beinsports2au.png",  
+"url": "https://www.warpfootball.games/live/?ch=beinsports2au&id=21054",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "freesportuk",  
+"image": "https://www.warpfootball.games/wp-content/themes/Divi/logo/foxsport1nl.png",  
+"url": "https://www.warpfootball.games/live/?ch=freesportuk&id=21056",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
@@ -616,8 +665,13 @@
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
-
-
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
 
 
 
