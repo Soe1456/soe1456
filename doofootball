@@ -162,7 +162,7 @@
 },
 {
 "name": "digisport3romania",  
-"image": "https://static.wikia.nocookie.net/logopedia/images/4/48/Digi_Sport_3_%282011%29.png/revision/latest/scale-to-width-down/200?cb=20210411115057",  
+"image": "https://sport-tv-guide.live/images/tv-station-ro-digi-sport-3-882.png",  
 "url": "https://www.doofootball.com/live/streaming/digisport3romania/644970",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
@@ -259,47 +259,85 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "tv3max",  
+"image": "https://upload.wikimedia.org/wikipedia/en/3/33/TV3_Max_logo_2017.png",  
+"url": "https://www.doofootball.com/live/streaming/tv3max/641760",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
+"name": "viasatfotboll",  
 "image": "",  
-"url": "",
+"url": "https://www.doofootball.com/live/streaming/viasatfotboll/641760",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "arenasport1serbia",  
+"image": "https://i.pinimg.com/originals/60/bc/e3/60bce301aecd8b67e0ad9ca9ce6d8ec6.png",  
+"url": "https://www.doofootball.com/live/streaming/arenasport1serbia/647148",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "beinsportsarabia-2-hd",  
+"image": "https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia2hd.png",  
+"url": "https://www.doofootball.com/live/streaming/beinsportsarabia2hd/647148",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "digisport4romania",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsw5IJHpxnwRRp4t78A0nXwQWM1rk7dWgOwg&usqp=CAU",  
+"url": "https://www.doofootball.com/live/streaming/digisport4romania/647153",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "foxsport2",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT22F6RkLtoU_l9dt43ym0OO5ToGu0N_6xoLozT8_cdscARDDVqf4S4TKn3FTjm3kN7Gcs&usqp=CAU",  
+"url": "https://www.doofootball.com/live/streaming/foxsport2/674632",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
+{
+"name": "streaming/sportdigital",  
+"image": "https://i.pinimg.com/originals/86/f4/59/86f4598026087ec4519ec812306ff9d3.png",  
+"url": "https://www.doofootball.com/live/streaming/sportdigital/658272",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "sport1plus",  
+"image": "https://img.sport-tv-guide.live/images/tv-station-de-sport1-plus-149.png",  
+"url": "https://www.doofootball.com/live/streaming/sport1plus/658272",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beinsport-2-fr",  
+"image": "https://kooora4you.com/images/min/bein1_fr.jpg",  
+"url": "https://www.doofootball.com/live/streaming/beinsport2fr/646465",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beinsports-1-tu",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch298.png",  
+"url": "https://www.doofootball.com/live/streaming/beinsports1tu/649901",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beinsports2tu",  
+"image": "https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png",  
+"url": "https://www.doofootball.com/live/streaming/beinsports2tu/649907",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+
+
 
 ]
 }
