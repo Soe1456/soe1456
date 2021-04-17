@@ -84,16 +84,30 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "beinsport-TH-1",  
+"name": "beinsport-TH-1-1",  
 "image": "https://doo2you.com/icon/beinsporthd1.png",  
 "url": "https://www.doofootball.com/live/streaming/bein1/669666",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "beinsport-TH-2",  
+"name": "beinsport-TH-1-2",  
+"image": "https://doo2you.com/icon/beinsporthd1.png",  
+"url": "https://www.doo2you.com/doballsod/tv/31",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beinsport-TH-2-1",  
 "image": "https://doo2you.com/icon/beinsporthd2.png",  
 "url": "https://www.doofootball.com/live/streaming/bein2/644969",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beinsport-TH-2-2",  
+"image": "https://doo2you.com/icon/beinsporthd2.png",  
+"url": "https://www.doo2you.com/doballsod/tv/32",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
@@ -199,20 +213,7 @@
 
 
 
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "",  
 "image": "",  
