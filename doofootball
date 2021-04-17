@@ -175,9 +175,37 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "foxsport-4-nl",  
+"image": "https://i.pinimg.com/originals/ae/cc/57/aecc57e1aa2fb80fffd0678ae925e99c.png",  
+"url": "https://www.doofootball.com/live/streaming/foxsport4nl/641767",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "btsportespn",  
+"image": "https://i.pinimg.com/originals/34/5f/3d/345f3da8a337549c0a233da99db6eaf3.png",  
+"url": "https://www.doofootball.com/live/streaming/btsportespn/641767",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eleven_Sports_1",  
+"image": "https://www.thesportsdb.com/images/media/logo/Eleven_Sports_1_Poland.png",  
+"url": "https://www.doofootball.com/live/streaming/elevensports1pt/641767",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "viasatfotboll",  
+"image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/0118/brand.gif?itok=nKpvLv_i",  
+"url": "https://www.doofootball.com/live/streaming/viasatfotboll/641767",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "astrosupersport2",  
+"image": "https://archive.org/services/img/AstroSupersport2",  
+"url": "https://www.doofootball.com/live/streaming/astrosupersport2/641767",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
@@ -209,13 +237,7 @@
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
+
 
 ]
 }
