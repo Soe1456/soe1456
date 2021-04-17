@@ -42,23 +42,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT Sport 1",  
-"image": "https://lh4.googleusercontent.com/-kquRdF4bUus/U4hIt67QjSI/AAAAAAAAA7Y/ZzL65I7wSfM/h120/1.jpg",  
-"url": "https://www.olweb.tv/bt-sport-1-hd",
+"name": " ESPN 3",  
+"image": "https://cdn.maxcdn.info/channel/a2f547b5abc0f0be92a6486e2a47ee6f-espn-3.png",  
+"url": "https://www.olweb.tv/espn-3-live",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
@@ -84,6 +70,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": " FS2",  
+"image": "https://lh3.googleusercontent.com/-7DMh9GHHQ_8/U2-sZy7I25I/AAAAAAAAAsA/95TSaysqTr8/h60/foxsports.jpg",  
+"url": "https://www.olweb.tv/fs2",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": " Prva TV",  
 "image": "https://cdn.maxcdn.info/channel/25cdf66f1de7d7330b74057a1da0c321-Prva-TV-Serbia.png",  
 "url": "https://www.olweb.tv/prva-tv-uzivo",
@@ -98,6 +91,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "BT Sport 1",  
+"image": "https://lh4.googleusercontent.com/-kquRdF4bUus/U4hIt67QjSI/AAAAAAAAA7Y/ZzL65I7wSfM/h120/1.jpg",  
+"url": "https://www.olweb.tv/bt-sport-1-hd",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": " BT Sport 2",  
 "image": "https://lh4.googleusercontent.com/-5HS2FbSeTww/U4hIw3MIZ4I/AAAAAAAAA7g/0H6ieAnSg54/h120/b.jpg",  
 "url": "https://www.olweb.tv/bt-sport-2-hd",
@@ -105,9 +105,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "true24live",  
-"image": "https://www.goalzaa.com/public/images/configs/logo.png",  
-"url": "https://www.true24live.com/stream.php?id=73918",
+"name": "FOX SPORTS",  
+"image": "https://cdn.maxcdn.info/channel/aa9ddade87d40dee6ac5b10a273f8165-foxsport.jpg",  
+"url": "https://www.olweb.tv/fox-sports-hd",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
