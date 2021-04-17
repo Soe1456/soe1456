@@ -14,16 +14,37 @@
         
         
 {
-"name": "TRUE-SPORT-PREMIER-1",  
+"name": "TRUE-SPORT-PREMIER-1-1",  
 "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",  
 "url": "https://www.doofootball.com/live/streaming/epl1/646593",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "TRUE-SPORT-PREMIER-1-BACKUP",  
+"name": "RUE-SPORT-PREMIER-1-2",  
+"image": "https://doo2you.com/icon/TruePremierFootballHD1.png",  
+"url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "RUE-SPORT-PREMIER-1-3",  
+"image": "https://doo2you.com/icon/TruePremierFootballHD1.png",  
+"url": "https://www.doo2you.com/doballsod/tv/22",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE-SPORT-PREMIER-1-4",  
 "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",  
 "url": "https://www.doofootball.com/live/streaming/epl1backup/646593",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "RUE-SPORT-PREMIER-1-5",  
+"image": "https://doo2you.com/icon/TruePremierFootballHD1.png",  
+"url": "https://www.doo2you.com/doballsod/tv/21",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
@@ -146,27 +167,7 @@
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
-{
-"name": "RUE-SPORT-PREMIER-1-4",  
-"image": "https://doo2you.com/icon/TruePremierFootballHD1.png",  
-"url": "https://www.doo2you.com/doballsod/tv/21",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "RUE-SPORT-PREMIER-1-2",  
-"image": "https://doo2you.com/icon/TruePremierFootballHD1.png",  
-"url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "RUE-SPORT-PREMIER-1-3",  
-"image": "https://doo2you.com/icon/TruePremierFootballHD1.png",  
-"url": "https://www.doo2you.com/doballsod/tv/22",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "",  
 "image": "",  
