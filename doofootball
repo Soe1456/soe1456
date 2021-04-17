@@ -70,6 +70,20 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "TRUE-SPORT-PREMIER-3-1",  
+"image": "https://doo2you.com/icon/TruePremierFootballHD3.png",  
+"url": "https://www.doo2you.com/doballsod/tv/25",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE-SPORT-PREMIER-3-2",  
+"image": "https://doo2you.com/icon/TruePremierFootballHD3.png",  
+"url": "https://www.doo2you.com/doballsod/tv/26",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "beinsport-TH-1",  
 "image": "https://doo2you.com/icon/beinsporthd1.png",  
 "url": "https://www.doofootball.com/live/streaming/bein1/669666",
@@ -183,29 +197,57 @@
 },
 
 
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
 
 
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
 
 
 
