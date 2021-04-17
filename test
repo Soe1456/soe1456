@@ -35,26 +35,20 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "skysportpremiere",  
+"image": "https://media.info/i/lf/300/1507600205/1554.png",  
+"url": "https://www.doofootball.com/live/streaming/skysportpremiere/646593",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "SPORTS TV",  
+"image": "https://www.ecanlitvizle.live/logo/sports-tv-izle.png",  
+"url": "https://www.ecanlitvizle.live/sports-tv-izle-1/",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "TRT SPOR 2 HD",  
 "image": "https://www.ecanlitvizle.live/logo/trt-spor-2-canli.png",  
@@ -84,7 +78,14 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "eurosport-2",  
+"name": "EUROSPORT",  
+"image": "https://www.ecanlitvizle.live/logo/eurosport.png",  
+"url": "https://www.ecanlitvizle.live/eurosport-live/2/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EUROSPORT-2",  
 "image": "https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg",  
 "url": "https://www.ecanlitvizle.live/eurosport-2-live/2/",
 "referer": "https://www.lineballsod.com/",
