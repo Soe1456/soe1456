@@ -210,6 +210,69 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "beinmax6fr",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/05/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-4.png",  
+"url": "https://www.doofootball.com/live/streaming/beinmax6fr/641763",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "foxsport 5 nl",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--245.png",  
+"url": "https://www.doofootball.com/live/streaming/foxsport5nl/641763",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "tv3-sport-1",  
+"image": "https://tv24hd.com/wp-content/uploads/2019/05/TV3Sport1.png",  
+"url": "https://www.doofootball.com/live/streaming/tv3sport1/641761",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beinmax4fr",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/05/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-2.png",  
+"url": "https://www.doofootball.com/live/streaming/beinmax4fr/641761",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "astrosupersport",  
+"image": "https://archive.org/services/img/AstroSupersport2",  
+"url": "https://www.doofootball.com/live/streaming/astrosupersport/641761",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "streaming/btsport1",  
+"image": "https://i.pinimg.com/originals/91/c1/84/91c1846b6eb2203ffbdbd9589c6ea8e9.png",  
+"url": "https://www.doofootball.com/live/streaming/btsport1/641760",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "digisport2romania",  
+"image": "https://www.ball24.tv/wp-content/themes/ball24/logo/digisport2romania.png",  
+"url": "https://www.doofootball.com/live/streaming/digisport2romania/641760",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "",  
 "image": "",  
 "url": "",
@@ -237,7 +300,6 @@
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
-
 
 ]
 }
