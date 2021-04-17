@@ -21,16 +21,37 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "SPORT TV 3 PT",  
+"image": "https://www.kindpng.com/picc/m/23-238605_bt-sport-logo-2019-hd-png-download.png",  
+"url": "https://www.canlifutbolaz.com/2018/01/kanal-52.html",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "SPORT TV 2PT",  
+"image": "https://www.kindpng.com/picc/m/23-238605_bt-sport-logo-2019-hd-png-download.png",  
+"url": "https://www.canlifutbolaz.com/2018/01/kanal-51.html",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT SPORT",  
+"image": "https://www.kindpng.com/picc/m/23-238605_bt-sport-logo-2019-hd-png-download.png",  
+"url": "https://www.canlifutbolaz.com/2018/01/kanal-50.html",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BEİN SPORTS HD 1 TURKEY",  
+"image": "https://sport-tv-guide.live/images/stations/a640.png",  
+"url": "https://www.canlifutbolaz.com/2018/01/kanal-3.html",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "SKY FOOTBALL",  
+"image": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",  
+"url": "https://www.canlifutbolaz.com/2018/01/kanal-46.html",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
