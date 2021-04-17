@@ -1,22 +1,22 @@
 {
        "name": "🎥doofootball TV🎞️",
        "author": "MUSE",
-       "url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/14.04.2021-MUSE",
+       "url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/doofootball",
        "image": "https://www.seirsanduk.com/images/logo.png",
        "groups": [
  
  
 {
-        "name": "Bnt TV",
+        "name": "ดูฟุตบอล-TV",
         "image": "https://cdn.dribbble.com/users/31664/screenshots/2430133/recycle-2.gif",
-        "URL": "https://raw.githubusercontent.com/Soe1456/soe1456/main/14.04.2021-MUSE",
+        "URL": "https://raw.githubusercontent.com/Soe1456/soe1456/main/doofootball",
         "stations": [
         
         
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "TRUE-SPORT-PREMIER-1",  
+"image": "https://overseer.blackboxsys.net/images/png/epl-1.png",  
+"url": "https://www.doofootball.com/live/streaming/epl1/646593",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
