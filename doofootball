@@ -111,7 +111,34 @@
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "ziggosportvoetbal",  
+"image": "https://doo2you.com/icon/ziggosportvoetbal.png",  
+"url": "https://www.doofootball.com/live/streaming/ziggosportvoetbal/646593",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ziggosportselect",  
+"image": "https://doo2you.com/icon/ziggosportselect.png",  
+"url": "https://www.doofootball.com/live/streaming/ziggosportselect/669666",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "astrosupersport",  
+"image": "https://archive.org/services/img/AstroSupersport2",  
+"url": "https://www.doofootball.com/live/streaming/astrosupersport/641761",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "astrosupersport2",  
+"image": "https://archive.org/services/img/AstroSupersport2",  
+"url": "https://www.doofootball.com/live/streaming/astrosupersport2/641767",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
 
 
 
