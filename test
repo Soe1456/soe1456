@@ -35,9 +35,31 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+
+{
 "name": " Fox Sports 3",  
 "image": "https://cdn.maxcdn.info/channel/73e590cccde614991d1e3e8667aa64c1-foxsports.jpg",  
 "url": "https://www.olweb.tv/fox-sports-3",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": " ESPN 2",  
+"image": "https://cdn.maxcdn.info/channel/c2a05693bd1ce0b684f9ce281e5584fc-espn-2.png",  
+"url": "https://www.olweb.tv/espn-2-live",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
