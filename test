@@ -22,16 +22,16 @@
 },
 
 {
-"name": "beIN Sports 1 (TU)",  
-"image": "https://www.lineballsod.com/api/table/icon/live-ch298.png",  
-"url": "https://duball356.com/live-football/?id=2160819",
+"name": "นิวคาสเซิ่ล ยูไนเต็ด  VS  เวสต์แฮม ยูไนเต็ด",  
+"image": "https://api.ufatv.center/teams/684.png,  
+"url": "https://duball356.com/live-football/?id=2161661",
 "referer": "https://duball356.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "NBC-SPORTS",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6psTNnZ0OApDOg8Zc1b6oc-rj22wQdk0DRzTQ67nvtvvJPYgbY4AnJ8_gCMzF6R8c2v4&usqp=CAU",  
-"url": "https://duball356.com/live-football/?id=2160848",
+"name": "โวล์ฟสบวร์ก  VS  บาเยิร์น มิวนิค",  
+"image": "https://api.ufatv.center/teams/968.png",  
+"url": "https://duball356.com/live-football/?id=2161683",
 "referer": "https://duball356.com/",
 "playInNatPlayer": "true"
 },
