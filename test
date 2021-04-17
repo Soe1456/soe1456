@@ -22,16 +22,16 @@
 },
 
 {
-"name": "นิวคาสเซิ่ล ยูไนเต็ด  VS  เวสต์แฮม ยูไนเต็ด",  
-"image": "https://api.ufatv.center/teams/684.png",  
-"url": "https://duball356.com/live-football/?id=2161661",
-"referer": "https://duball356.com/",
+"name": " Prva TV",  
+"image": "https://cdn.maxcdn.info/channel/25cdf66f1de7d7330b74057a1da0c321-Prva-TV-Serbia.png",  
+"url": "https://www.olweb.tv/prva-tv-uzivo",
+"referer": "https://www.olweb.tv/",
 "playInNatPlayer": "true"
 },
 {
-"name": "โวล์ฟสบวร์ก  VS  บาเยิร์น มิวนิค",  
-"image": "https://api.ufatv.center/teams/968.png",  
-"url": "https://duball356.com/live-football/?id=2161683",
+"name": " Benfica TV",  
+"image": "https://cdn.maxcdn.info/channel/830faee03d9acd7aed381aeec63d0796-benficatv.png",  
+"url": "https://www.olweb.tv/benfica-tv",
 "referer": "https://duball356.com/",
 "playInNatPlayer": "true"
 },
