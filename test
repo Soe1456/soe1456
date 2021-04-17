@@ -35,20 +35,19 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": " ESPN Deportes",  
+"image": "https://cdn.maxcdn.info/channel/d3826a763ba2e4321d1bb01b6307a797-ESPN-Deportes.png",  
+"url": "https://www.olweb.tv/espn-deportes",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": " NBC Sports Network",  
+"image": "https://lh5.googleusercontent.com/-I5ZdpEnxyjQ/U5-f8KjdNtI/AAAAAAAABCg/6IcZkj6fJMY/h120/NBC.png",  
+"url": "https://www.olweb.tv/nbcsn",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": " Fox Sports 3",  
 "image": "https://cdn.maxcdn.info/channel/73e590cccde614991d1e3e8667aa64c1-foxsports.jpg",  
