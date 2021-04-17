@@ -49,9 +49,37 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT Sport 1",  
+"image": "https://lh4.googleusercontent.com/-kquRdF4bUus/U4hIt67QjSI/AAAAAAAAA7Y/ZzL65I7wSfM/h120/1.jpg",  
+"url": "https://www.olweb.tv/bt-sport-1-hd",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": " Digi Sport 1",  
+"image": "https://cdn.maxcdn.info/channel/2c0ecbbfc04e61949025fd3a2730b09f-Digi-Sport.png",  
+"url": "https://www.olweb.tv/digi-sport-1-ro",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "FOX Sports Southwest",  
 "image": "https://cdn.maxcdn.info/channel/381772c298ae2c1357b193a576ba534f-FOX-Sports-Southwest.jpg",  
 "url": "https://www.olweb.tv/fox-sports-southwest",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": " FS1",  
+"image": "https://lh3.googleusercontent.com/-7DMh9GHHQ_8/U2-sZy7I25I/AAAAAAAAAsA/95TSaysqTr8/h60/foxsports.jpg",  
+"url": "https://www.olweb.tv/fs1",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
