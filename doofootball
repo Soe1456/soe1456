@@ -127,18 +127,82 @@
 },
 {
 "name": "astrosupersport",  
-"image": "https://archive.org/services/img/AstroSupersport2",  
+"image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",  
 "url": "https://www.doofootball.com/live/streaming/astrosupersport/641761",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "astrosupersport2",  
-"image": "https://archive.org/services/img/AstroSupersport2",  
+"image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",  
 "url": "https://www.doofootball.com/live/streaming/astrosupersport2/641767",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
+{
+"name": "astro supersport 4",  
+"image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",  
+"url": "https://www.doofootball.com/live/streaming/astrosupersport4/669666",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "https://dbsport-n1.worldwidetv.club:449/hmcb4rf66f-th2/ie-eirsport1_480/chunks.m3u8?nimblesessionid=2849929&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDIxIDI6NDg6NTggUE0maGFzaF92YWx1ZT1WWUxCR1ZHNEVqUWNsRVB3RjlDRTlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjExNTM4MXxodHRwczovL2Rvb2JhbGw2Ni5jb20vfE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MC4wLjQ0MzAuNzIgU2FmYXJpLzUzNy4zNnwxNjE4NjcwOTM4fGllLWVpcnNwb3J0MXwyMTE1MzgxfDQ5LjQ5LjIyLjkw",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
 
 
 
