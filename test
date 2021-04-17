@@ -35,6 +35,27 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "BT SPORT 1",  
+"image": "https://i.pinimg.com/originals/91/c1/84/91c1846b6eb2203ffbdbd9589c6ea8e9.png",  
+"url": "https://www.canlifutbolaz.com/2018/01/kanal-47.html",
+"referer": "https://www.canlifutbolaz.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": " TSN1",  
+"image": "https://cdn.maxcdn.info/channel/ac208d689541aa379412ce7dbd4b151b-tsn.png",  
+"url": "https://www.olweb.tv/tsn1",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": " TSN4",  
+"image": "https://cdn.maxcdn.info/channel/ac208d689541aa379412ce7dbd4b151b-tsn.png",  
+"url": "https://www.olweb.tv/tsn4",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": " ESPN Deportes",  
 "image": "https://cdn.maxcdn.info/channel/d3826a763ba2e4321d1bb01b6307a797-ESPN-Deportes.png",  
 "url": "https://www.olweb.tv/espn-deportes",
