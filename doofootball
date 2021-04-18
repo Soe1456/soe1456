@@ -224,6 +224,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "ziggosportselect-backup",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",  
+"url": "https://balllive4ks.com/live/?title=%E0%B9%80%E0%B8%AD%E0%B8%8B%E0%B8%B5%20%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%99%20vs.%20%E0%B8%8B%E0%B8%B2%E0%B8%AA%E0%B8%8B%E0%B8%B9%E0%B9%82%E0%B8%AD%E0%B9%82%E0%B8%A5%E0%B9%88&channel=ziggosportselect&league=%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%20%E0%B8%AD%E0%B8%B2%20%E0%B8%AD%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%B5&id=647502",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "astrosupersport",  
 "image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",  
 "url": "https://www.doofootball.com/live/streaming/astrosupersport/641761",
@@ -322,24 +329,18 @@
 "playInNatPlayer": "true"
 },
 
+
 {
 "name": "",  
 "image": "",  
-"url": "",
+"url": "https://www.zonedooball.com/live-football/?id=2161839",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
-"url": "",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
+"url": "https://dooballz.com/live-football/?id=2161816#https://www.ballzaa.com/linkdooball.php",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
