@@ -161,6 +161,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "beinsport-2-fr-backup",  
+"image": "https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png",  
+"url": "https://balllive4ks.com/live/?title=%E0%B9%80%E0%B8%AD%E0%B8%8B%E0%B8%B5%20%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%99%20vs.%20%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%B1%E0%B8%A7&channel=beinsport2fr&league=%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%20%E0%B8%AD%E0%B8%B2%20%E0%B8%AD%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%B5&id=644963",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "beinmax4fr",  
 "image": "https://www.i99win.com/wp-content/uploads/2019/05/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-2.png",  
 "url": "https://www.doofootball.com/live/streaming/beinmax4fr/641761",
@@ -175,9 +182,23 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "PREMEIR SPORT 1",  
+"image": "https://sport-tv-guide.live/images/stations/a95.png",  
+"url": "https://balllive4ks.com/live/?title=%E0%B9%80%E0%B8%AD%E0%B8%8B%E0%B8%B5%20%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%99%20vs.%20%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%B1%E0%B8%A7&channel=premiersports1&league=%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%20%E0%B8%AD%E0%B8%B2%20%E0%B8%AD%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%B5&id=644963",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "ziggosportvoetbal",  
 "image": "https://doo2you.com/icon/ziggosportvoetbal.png",  
 "url": "https://www.doofootball.com/live/streaming/ziggosportvoetbal/646593",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ziggosportvoetbal-backup",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ziggo_Sport_Totaal_Logo.jpg",  
+"url": "https://balllive4ks.com/live/?title=%E0%B9%80%E0%B8%AD%E0%B8%8B%E0%B8%B5%20%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%99%20vs.%20%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%B1%E0%B8%A7&channel=ziggosportvoetbal&league=%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%20%E0%B8%AD%E0%B8%B2%20%E0%B8%AD%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%B5&id=644963",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
@@ -209,7 +230,13 @@
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "DAZN",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYQ-ziIb3aPz0q3tJ-A9wTXwxXqDdc5vleNXo5HEKtZyP5L5LIS9EQYK5pYkaWJDp8U8&usqp=CAU",  
+"url": "https://mpmbet88.com/live/EQNaVf9n6Q/#https://www.ballzaa.com/linkdooball.php",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
 
 
 
@@ -221,34 +248,10 @@
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
-{
-"name": "test",  
-"image": "https://logos.flamingtext.com/Word-Logos/test-design-china-name.png",  
-"url": "https://balllive4ks.com/live/?title=%E0%B9%80%E0%B8%AD%E0%B8%8B%E0%B8%B5%20%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%99%20vs.%20%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%B1%E0%B8%A7&channel=premiersports1&league=%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%20%E0%B8%AD%E0%B8%B2%20%E0%B8%AD%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%B5&id=644963",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "test",  
-"image": "https://logos.flamingtext.com/Word-Logos/test-design-china-name.png",  
-"url": "https://mpmbet88.com/live/EQNaVf9n6Q/#https://www.ballzaa.com/linkdooball.php",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "test",  
-"image": "https://logos.flamingtext.com/Word-Logos/test-design-china-name.png",  
-"url": "https://balllive4ks.com/live/?title=%E0%B9%80%E0%B8%AD%E0%B8%8B%E0%B8%B5%20%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%99%20vs.%20%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%B1%E0%B8%A7&channel=beinsport2fr&league=%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%20%E0%B8%AD%E0%B8%B2%20%E0%B8%AD%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%B5&id=644963",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "test",  
-"image": "https://logos.flamingtext.com/Word-Logos/test-design-china-name.png",  
-"url": "https://balllive4ks.com/live/?title=%E0%B9%80%E0%B8%AD%E0%B8%8B%E0%B8%B5%20%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%99%20vs.%20%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%B1%E0%B8%A7&channel=ziggosportvoetbal&league=%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%20%E0%B8%AD%E0%B8%B2%20%E0%B8%AD%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%B5&id=644963",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
-},
+
+
+
+
 {
 "name": "",  
 "image": "",  
