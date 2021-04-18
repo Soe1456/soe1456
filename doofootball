@@ -237,19 +237,13 @@
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
-
-
-
-
 {
-"name": "TUDN TV",  
-"image": "https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",  
-"url": "http://cdn.livetv408.me/webplayer.php?t=ifr&c=1582170&lang=en&eid=1056425&lid=1582170&ci=68&si=1",
+"name": "arenasport-1-serbia",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--319.png",  
+"url": "https://balllive4ks.com/live/?title=%E0%B9%80%E0%B8%AD%E0%B8%8B%E0%B8%B5%20%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%99%20vs.%20%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%B1%E0%B8%A7&channel=arenasport1serbia&league=%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%20%E0%B8%AD%E0%B8%B2%20%E0%B8%AD%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%B5&id=644963",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
-
-
 
 
 {
@@ -287,7 +281,41 @@
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
 
 
 
