@@ -23,14 +23,14 @@
 {
 "name": "TRUE-SPORT-PREMIER-1-2",  
 "image": "https://doo2you.com/icon/TruePremierFootballHD1.png",  
-"url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8",
+"url": "https://www.doofootball.com/live/streaming/epl1backup/646586",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "TRUE-SPORT-PREMIER-1-3",  
 "image": "https://doo2you.com/icon/TruePremierFootballHD1.png",  
-"url": "https://www.doo2you.com/doballsod/tv/22",
+"url": "https://www.doofootball.com/live/streaming/epl1/646586",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
@@ -44,7 +44,7 @@
 {
 "name": "TRUE-SPORT-PREMIER-1-5",  
 "image": "https://doo2you.com/icon/TruePremierFootballHD1.png",  
-"url": "https://www.doo2you.com/doballsod/tv/21",
+"url": "https://www.doofootball.com/live/streaming/epl1backup/646586",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
