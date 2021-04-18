@@ -215,9 +215,9 @@
 
 
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "TUDN TV",  
+"image": "https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",  
+"url": "http://cdn.livetv408.me/webplayer.php?t=ifr&c=1582170&lang=en&eid=1056425&lid=1582170&ci=68&si=1",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
