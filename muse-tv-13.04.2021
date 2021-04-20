@@ -9,10 +9,14 @@
 "groups":[
 
 
+
+
 {
-"name":"muse-tv",
-"image": "https://www.pngkey.com/png/detail/272-2726001_logo-ea-sports-logo-gif.png",
-"stations":[
+        "name": "muse-tv",
+        "image": "https://www.pngkey.com/png/detail/272-2726001_logo-ea-sports-logo-gif.png",
+        "URL": "https://raw.githubusercontent.com/Soe1456/soe1456/main/muse-tv-13.04.2021",
+        "stations": [
+
 
 
 {
