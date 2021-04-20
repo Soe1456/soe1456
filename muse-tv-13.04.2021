@@ -18,74 +18,75 @@
 "name": "tennis", 
 "image":"https://media1.giphy.com/media/l2Je9qCCWYn0Q8rEA/giphy.gif", 
 "url": "https://bingsport.com/live-sport/barcelona-open-bancsabadell-day-2-22230.html",
-"import": true
+"referer": "",
+"playInNatPlayer": "true"
 },   
 {
 "name": "tennis-1", 
 "image":"https://cdn.dribbble.com/users/218750/screenshots/1958578/tennis.gif", 
 "url": "https://bingsport.com/live-sport/alejandro-davidovich-fokina-vs-alexander-bublik-22260.html",
-"import": true
+"referer": "",
+"playInNatPlayer": "true"
 },
 {
-"name": "", 
-"image":"", 
+"name": "",  
+"image": "",  
 "url": "",
-"import": true
+"referer": "",
+"playInNatPlayer": "true"
 },
 {
-"name": "", 
-"image":"", 
+"name": "",  
+"image": "",  
 "url": "",
-"import": true
+"referer": "",
+"playInNatPlayer": "true"
 },
 {
-"name": "", 
-"image":"", 
+"name": "",  
+"image": "",  
 "url": "",
-"import": true
-},   
-{
-"name": "", 
-"image":"", 
-"url": "",
-"import": true
+"referer": "",
+"playInNatPlayer": "true"
 },
 {
-"name": "", 
-"image":"", 
+"name": "",  
+"image": "",  
 "url": "",
-"import": true
+"referer": "",
+"playInNatPlayer": "true"
 },
 {
-"name": "", 
-"image":"", 
+"name": "",  
+"image": "",  
 "url": "",
-"import": true
+"referer": "",
+"playInNatPlayer": "true"
 },
 {
-"name": "", 
-"image":"", 
+"name": "",  
+"image": "",  
 "url": "",
-"import": true
-},   
-{
-"name": "", 
-"image":"", 
-"url": "",
-"import": true
+"referer": "",
+"playInNatPlayer": "true"
 },
 {
-"name": "", 
-"image":"", 
+"name": "",  
+"image": "",  
 "url": "",
-"import": true
+"referer": "",
+"playInNatPlayer": "true"
 },
 {
-"name": "", 
-"image":"", 
+"name": "",  
+"image": "",  
 "url": "",
-"import": true
+"referer": "",
+"playInNatPlayer": "true"
 },
+
+
+
 
 ]
 }
