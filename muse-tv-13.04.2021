@@ -1,8 +1,8 @@
 {
 "name": "muse-tv"  , 
 "author":"musetv update 20/04/2021 17:07",
-"url": "https://w3ubin.com/hxwak5jIt.w3u",
-"image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+"url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/muse-tv-13.04.2021",
+"image": "https://media1.giphy.com/media/27J3k9t1p6wkKKH5FY/200.gif?cid=82a1493bi6tmlq1t2rpx6sifel3xawb8k5keice598qw3yly&rid=200.gif",
 "imageScale": "",
 "telegram":"@museshan",
 "info":"list-by-muse",
@@ -11,20 +11,20 @@
 
 {
 "name":"Importar Listas",
-"image": "https://i.imgur.com/YAaMwxN.png",
+"image": "https://www.pngkey.com/png/detail/272-2726001_logo-ea-sports-logo-gif.png",
 "stations":[
 
 
 {
-"name": "", 
-"image":"", 
-"url": "",
+"name": "tennis", 
+"image":"https://media1.giphy.com/media/l2Je9qCCWYn0Q8rEA/giphy.gif", 
+"url": "https://bingsport.com/live-sport/barcelona-open-bancsabadell-day-2-22230.html",
 "import": true
 },   
 {
-"name": "", 
-"image":"", 
-"url": "",
+"name": "tennis-1", 
+"image":"https://cdn.dribbble.com/users/218750/screenshots/1958578/tennis.gif", 
+"url": "https://bingsport.com/live-sport/alejandro-davidovich-fokina-vs-alexander-bublik-22260.html",
 "import": true
 },
 {
