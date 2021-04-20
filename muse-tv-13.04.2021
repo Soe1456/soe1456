@@ -18,27 +18,27 @@
 "name": "sky sports main", 
 "image":"https://i.pinimg.com/originals/32/d4/b3/32d4b3d232f01b4cbb82252a2edfbb76.png", 
 "url": "https://elixx.xyz/evalencia.html",
-"referer": "",
+"referer": "https://elixx.xyz/",
 "playInNatPlayer": "true"
 },   
 {
-"name": "mnx_hd", 
-"image":"https://cloudfront.timesnownews.com/site/tnad/timesnetwork/mnx_hd.png", 
+"name": "Sport-tv-2", 
+"image":"https://i.pinimg.com/236x/17/d3/9a/17d39a6feab8bd83f98881d2dd9df016.jpg", 
 "url": "https://elixx.xyz/benfica.html",
-"referer": "",
+"referer": "https://elixx.xyz/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "bundesliga",  
+"image": "https://ballsoutinpublic.files.wordpress.com/2012/04/bundesliga-logo.png",  
+"url": "https://elixx.xyz/lazio.html",
+"referer": "https://elixx.xyz/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Rai 2 hd",  
+"image": "https://www.tvzoom.it/wp-content/uploads/2014/06/rai2logo-e1435306459542.jpg",  
+"url": "https://elixx.xyz/yroma.html",
 "referer": "",
 "playInNatPlayer": "true"
 },
