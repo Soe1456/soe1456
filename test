@@ -35,6 +35,20 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "DAZN 3",  
+"image": "https://www.lyngsat.com/logo/tv/dd/dazn-3-espana-uk-es.png",  
+"url": "https://c787898.com/embed.php?id=live30",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "sky sport bundesliga",  
 "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sky_Sport_Bundesliga_Logo_2016.png",  
 "url": "http://www.jackstream.net/livestreamhd/football/germany-bundesliga/hertha-berlin-vs-freiburg/20210421/1/",
