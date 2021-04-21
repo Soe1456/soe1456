@@ -252,54 +252,96 @@
 "referer": "",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "foxsport-3",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1090.png",  
+"url": "https://www.doonung1234.com/match/view/12372/foxsport3",
+"referer": "",
+"playInNatPlayer": "true"
+},
 
 {
-"name": "",  
+"name": "gol",  
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--369.png",  
 "url": "https://www.doonung1234.com/match/view/12335/gol",
 "referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "nova-sport",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1058.png",  
+"url": "https://www.doonung1234.com/match/view/12317/novasport",
 "referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "premier-sports-1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--95.png",  
+"url": "https://www.doonung1234.com/match/view/12318/premiersports1",
 "referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "C-more-football",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--482.png",  
+"url": "https://www.doonung1234.com/match/view/12318/cmorefootball",
 "referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "ziggosportselect",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",  
+"url": "https://www.doonung1234.com/match/view/12318/ziggosportselect",
 "referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "viasatfotboll",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--494.png",  
+"url": "https://www.doonung1234.com/match/view/12319/viasatfotboll",
 "referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "foxsport-1-nl",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png",  
+"url": "https://www.doonung1234.com/match/view/12319/foxsport1nl",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "foxsport-4-nl",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--244.png",  
+"url": "https://www.doonung1234.com/match/view/12319/foxsport4nl",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "canal11pt",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png",  
+"url": "https://www.doonung1234.com/match/view/12336/canal11pt",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "bt-sport-1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--97.png",  
+"url": "https://www.doonung1234.com/match/view/12337/btsport1",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "bt-sport-2",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--100.png",  
+"url": "https://www.doonung1234.com/match/view/12319/btsport2",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "bt-sport-3",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--108.png",  
+"url": "https://www.doonung1234.com/match/view/12346/btsport3",
 "referer": "",
 "playInNatPlayer": "true"
 },
