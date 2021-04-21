@@ -127,9 +127,44 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "sport-tv-1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",  
+"url": "https://www.doonung1234.com/match/view/12315/sporttv1",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "sport-tv-2",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",  
+"url": "https://www.doonung1234.com/match/view/12311/sporttv2",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "sport-tv-3",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",  
+"url": "https://www.doonung1234.com/match/view/12318/sporttv3",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "sport-tv-4",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--453.png",  
+"url": "https://www.doonung1234.com/match/view/12351/sporttv4",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "bein-1-th",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",  
+"url": "https://www.doonung1234.com/match/view/12322/bein1",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "bein-2-th",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",  
+"url": "https://www.doonung1234.com/match/view/12318/bein2",
 "referer": "",
 "playInNatPlayer": "true"
 },
@@ -189,9 +224,34 @@
 "referer": "",
 "playInNatPlayer": "true"
 },
-
-
-
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
 
 
 
