@@ -42,6 +42,27 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ESPN",  
+"image": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",  
+"url": "https://c787898.com/embed.php?id=live1t",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "DAZN 2",  
+"image": "https://www.pay-tv-portal.de/wp-content/uploads/dazn-2.jpg",  
+"url": "https://c787898.com/embed.php?id=live29",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "DAZN 3",  
 "image": "https://www.lyngsat.com/logo/tv/dd/dazn-3-espana-uk-es.png",  
 "url": "https://c787898.com/embed.php?id=live30",
