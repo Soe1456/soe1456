@@ -106,6 +106,20 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "digisport-3-romania",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--882.png",  
+"url": "https://www.doonung1234.com/match/view/12368/digisport3romania",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "digisport-4-romania",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--883.png",  
+"url": "https://www.doonung1234.com/match/view/12349/digisport4romania",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
 "name": "arenasport-1-serbia",  
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--319.png",  
 "url": "https://www.doonung1234.com/match/view/12312/arenasport1serbia",
@@ -239,24 +253,11 @@
 "playInNatPlayer": "true"
 },
 
-{
-"name": "digisport-3-romania",  
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--882.png",  
-"url": "https://www.doonung1234.com/match/view/12368/digisport3romania",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "digisport-4-romania",  
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--883.png",  
-"url": "https://www.doonung1234.com/match/view/12349/digisport4romania",
-"referer": "",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "",  
-"image": "",  
-"url": "",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--369.png",  
+"url": "https://www.doonung1234.com/match/view/12335/gol",
 "referer": "",
 "playInNatPlayer": "true"
 },
