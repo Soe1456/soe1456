@@ -53,28 +53,28 @@
 "name": "sportdigital",  
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sport-Digital_hd.svg/1280px-Sport-Digital_hd.svg.png",  
 "url": "https://www.doonung1234.com/match/view/12304/sportdigital",
-"referer": "",
+"referer": "https://www.doonung1234.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "beinsports 2 tu",  
-"image": "https://www.lineballsod.com/api/table/icon/live-ch299.png",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",  
 "url": "https://www.doonung1234.com/match/view/12305/beinsports2tu",
-"referer": "",
+"referer": "https://www.doonung1234.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "astrosupersport",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png",  
+"url": "https://www.doonung1234.com/match/view/12304/astrosupersport",
+"referer": "https://www.doonung1234.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "beinsports 1 tu",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",  
+"url": "https://www.doonung1234.com/match/view/12306/beinsports1tu",
+"referer": "https://www.doonung1234.com/",
 "playInNatPlayer": "true"
 },
 {
