@@ -49,16 +49,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Sky--sport-mix",  
+"image": "http://fomny.com/Video/United-kindom/Sky-sport/stream/logo-mix.gif",  
+"url": "http://fomny.com/Video/United-kindom/Sky-sport/stream/Sky--sport-mix.php",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Sky-sport-football",  
+"image": "http://fomny.com/Video/United-kindom/Sky-sport/stream/logo-foot.gif",  
+"url": "http://fomny.com/Video/United-kindom/Sky-sport/stream/Sky-sport-football.php",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
