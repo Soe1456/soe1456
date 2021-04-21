@@ -374,41 +374,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "tv-3max",  
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1219.png",  
-"url": "https://www.doonung1234.com/match/view/12321/tv3max",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
 "name": "skysportpremiere",  
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--90.png",  
 "url": "https://www.doonung1234.com/match/view/12321/skysportpremiere",
@@ -457,7 +422,34 @@
 "referer": "",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
 
 
 ]
