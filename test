@@ -27,20 +27,10 @@
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "ตารางบอล",  
-"image": "https://d1nxzqpcg2bym0.cloudfront.net/google_play/table.ball.com/6b4862f2-909a-11e8-ba66-474c262be8ba/128x128",  
-"url": "https://www.premierdream.com/program/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
+{"name": "โปรแกรมฟุตบอล","image":"https://www.gifimili.com/gif/2018/07/sports-de-ballon.gif",  
+"url":"https://www.premierdream.com/program/",
+"embed": "true"},
+
 {
 "name": "ESPN",  
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ykR6J8sQHXSbouSKR82Qh6LhhUQdc3OTZK9FhAKpbl5FsgaOVcTwB52N4-V48frY9jM&usqp=CAU",  
