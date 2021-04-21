@@ -57,6 +57,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "beinsports 1 tu",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",  
+"url": "https://www.doonung1234.com/match/view/12306/beinsports1tu",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "beinsports 2 tu",  
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",  
 "url": "https://www.doonung1234.com/match/view/12305/beinsports2tu",
@@ -71,10 +78,24 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "beinsports 1 tu",  
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",  
-"url": "https://www.doonung1234.com/match/view/12306/beinsports1tu",
+"name": "diemasport-1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1059.png",  
+"url": "https://www.doonung1234.com/match/view/12307/diemasport1",
 "referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "telekomsport1ro",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--884.png",  
+"url": "https://www.doonung1234.com/match/view/12308/telekomsport1ro",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "digisport1romania",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--880.png",  
+"url": "https://www.doonung1234.com/match/view/12308/digisport1romania",
+"referer": "",
 "playInNatPlayer": "true"
 },
 {
@@ -84,6 +105,94 @@
 "referer": "",
 "playInNatPlayer": "true"
 },
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+
+
 
 
 
