@@ -346,9 +346,86 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "C-more-live-hd",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--484.png",  
+"url": "https://www.doonung1234.com/match/view/12338/cmorelivehd",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "ziggosportvoetbal",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--286.png",  
+"url": "https://www.doonung1234.com/match/view/12321/ziggosportvoetbal",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "espnbrazil",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1232.png",  
+"url": "https://www.doonung1234.com/match/view/12321/espnbrazil",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "tv-3max",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1219.png",  
+"url": "https://www.doonung1234.com/match/view/12321/tv3max",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
 "name": "",  
 "image": "",  
 "url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "tv-3max",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1219.png",  
+"url": "https://www.doonung1234.com/match/view/12321/tv3max",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "skysportpremiere",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--90.png",  
+"url": "https://www.doonung1234.com/match/view/12321/skysportpremiere",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "skysportfootball",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--91.png",  
+"url": "https://www.doonung1234.com/match/view/12339/skysportfootball",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "skysportmainevent",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--663.png",  
+"url": "https://www.doonung1234.com/match/view/12321/skysportmainevent",
 "referer": "",
 "playInNatPlayer": "true"
 },
