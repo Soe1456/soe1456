@@ -13,7 +13,27 @@
         "stations": [
 
 
-
+{
+"name": "epl1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4106.png",  
+"url": "https://www.doonung1234.com/match/view/12352/epl1",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "epl1backup",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4509.png",  
+"url": "https://www.doonung1234.com/match/view/12352/epl1backup",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "epl2",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4107.png",  
+"url": "https://www.doonung1234.com/match/view/12352/epl2",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
 {
 "name": "sky sports main", 
 "image":"https://i.pinimg.com/originals/32/d4/b3/32d4b3d232f01b4cbb82252a2edfbb76.png", 
@@ -407,27 +427,7 @@
 "referer": "https://www.doonung1234.com/",
 "playInNatPlayer": "true"
 },
-{
-"name": "epl1",  
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4106.png",  
-"url": "https://www.doonung1234.com/match/view/12352/epl1",
-"referer": "https://www.doonung1234.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "epl1backup",  
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4509.png",  
-"url": "https://www.doonung1234.com/match/view/12352/epl1backup",
-"referer": "https://www.doonung1234.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "epl2",  
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4107.png",  
-"url": "https://www.doonung1234.com/match/view/12352/epl2",
-"referer": "https://www.doonung1234.com/",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "pfc",  
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1446.png",  
