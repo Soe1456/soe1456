@@ -35,22 +35,22 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "C-MORE",  
+"image": "data:image/png;base64,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",  
+"url": "https://c787898.com/embed.php?id=live5",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "sky sport serie a",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_Sport_Serie_A_-_Logo_2018.svg/1280px-Sky_Sport_Serie_A_-_Logo_2018.svg.png",  
+"url": "https://c787898.com/live/chdz.php",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "ESPN",  
-"image": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",  
+"name": "ESPN-2-VIVO",  
+"image": "https://4.bp.blogspot.com/-j9QJsV84FaE/V2zEXMI820I/AAAAAAAAAsw/b5OYP1l-dhgObAMhT5jPJTP0NIpDNMblACLcB/s320/espn.png",  
 "url": "https://c787898.com/embed.php?id=live1t",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
