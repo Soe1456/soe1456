@@ -59,10 +59,15 @@ https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png",7 La Rioja
 https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://tengrinews.kz/userdata/news/2016/news_289692/thumb_xm/photo_178371.jpg",7 канал
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",7News Boston
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
 
+#EXTINF:-1 group-title="News" tvg-logo="",
 
 
 
