@@ -3,17 +3,17 @@
 
 #=============================================================================="News"==========================================================================================#
 
-#EXTINF:-1 group-title="News" tvg-logo="",Sky News-Aus
+#EXTINF:-1 group-title="News" tvg-logo="https://cdn.one.accedo.tv/files/5d21c76423eec60011ea78cf?sessionKey=01F3V77RP9RDYYXP0VGAXW4WFQ1E33AF515C",Sky News-Aus
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",ABC News-Aus
+#EXTINF:-1 group-title="News" tvg-logo="https://cms.cignal.tv/Upload/Images/ABC-Australia.jpg",ABC News-Aus
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",ABC News-Aus
+#EXTINF:-1 group-title="News" tvg-logo="https://usercontent.one/wp/gidhr.org/wp-content/uploads/2021/02/abcaustralia-logo.jpg",ABC News-Aus
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 ,#EXTINF:-1 group-title="News" tvg-logo="",CGTN China
+#EXTINF:-1 ,#EXTINF:-1 group-title="News" tvg-logo="https://img.17qq.com/images/mwpwsqmny.jpeg",CGTN China
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",CGTN China
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimR_ug2pQJpzH2VbJrXqkv2braU-uTnyjDnxwDYg=s900-c-k-c0x00ffffff-no-rj",CGTN China
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",CGTN Spain
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png",CGTN Spain
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 
