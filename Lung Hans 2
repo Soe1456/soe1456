@@ -55,8 +55,8 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeXvHEWeUCAFYUHvSBbJkLJ9B-i866oe5Z_Z55GhQWC-b51q6PeLRMnBrGUS78x5IRfg&usqp=CAU",24h
 https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",
-
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png",3News Now
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
@@ -168,8 +168,8 @@ https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #=============================================================================="Entertainment"==========================================================================#
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="",
-
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png",30A Sidewalks
+https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",
@@ -187,8 +187,8 @@ https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/24-kitchen_0.png?itok=trbjd-1N",24 Kitchen
 https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="",
-
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/0j5Aget.png",
+https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",
