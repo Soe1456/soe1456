@@ -109,8 +109,8 @@ https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mark.trademarkia.com/logo-images/the-tennis-channel/t-tennis-channel-plus-86418209.jpg",Tennis Channel+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://mb.cision.com/Public/2355/2013115/89509122b8543e8c_org.jpg",Fox Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",
