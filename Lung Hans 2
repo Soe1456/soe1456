@@ -59,10 +59,10 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://pbs.twimg.com/profile_images/1315669297453203457/tHp0pijR.jpg",RT Documentar
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="",
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://pbs.twimg.com/profile_images/929865868636340225/1feyllch.jpg",law & crime ch 2
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="",
-
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://www.zuflix.io/uploads/tv_image/cgtn-documentary.png",cdgn-documentary
+https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
@@ -122,8 +122,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-hbosignature.jpg",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="",CINEMAX
-
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.pinimg.com/originals/8c/4d/b6/8c4db6118aa2e6ae829432a4358e8e6b.jpg",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",
