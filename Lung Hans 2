@@ -63,8 +63,8 @@ https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",7News Boston
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",
-
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png",ABC 15
+https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
@@ -194,8 +194,8 @@ https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
 https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/lively-place.jpg?ssl=1",A+E | Lively Place
 http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="",
-
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Augsburg_tv.jpg",a.tv
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",
