@@ -23,12 +23,12 @@ http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 group-title="News" tvg-logo="https://i.pinimg.com/originals/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg",BLOOMBERG TV-US
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",
-
-#EXTINF:-1 group-title="News" tvg-logo="",
-
-#EXTINF:-1 group-title="News" tvg-logo="",
-
+#EXTINF:-1 group-title="News" tvg-logo="https://cdn.mos.cms.futurecdn.net/coMLaJqPtSxbp8vu8jobnb.jpg",Newsmax-US
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://cdn.mos.cms.futurecdn.net/coMLaJqPtSxbp8vu8jobnb.jpg",Newsmax-US-Backup
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/1280px-CBS_News_logo_%282020%29.svg.png",CBS News-US
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
