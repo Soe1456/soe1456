@@ -45,8 +45,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208_b1464000.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.thenextgenenterprise.com/wp-content/uploads/2019/10/LCI.png",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",
-
+#EXTINF:-1 group-title="News" tvg-logo="https://logopond.com/logos/6a0f35ee3d18d93e6c645e368b0ecb4f.png",1 TV
+http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
@@ -109,8 +109,7 @@ https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mark.trademarkia.com/logo-images/the-tennis-channel/t-tennis-channel-plus-86418209.jpg",Tennis Channel+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://mb.cision.com/Public/2355/2013115/89509122b8543e8c_org.jpg",Fox Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="",
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",
@@ -145,6 +144,8 @@ https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-flix-hd-logo.jpg",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://mb.cision.com/Public/2355/2013115/89509122b8543e8c_org.jpg",Fox Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",
