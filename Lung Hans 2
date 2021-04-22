@@ -37,10 +37,10 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://s3.amazonaws.com/cheddar-production/assets/9d98b36f-f2a6-4537-a1a1-61b748ca2607.png",
 http://live.chdrstatic.com/cbn/primary/3.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",
-
-#EXTINF:-1 group-title="News" tvg-logo="",
-
+#EXTINF:-1 group-title="News" tvg-logo="https://ueat.utoronto.ca/wp-content/uploads/2018/01/Global-News.png",
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://uspto.report/TM/79271909/mark",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
