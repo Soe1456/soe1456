@@ -141,8 +141,8 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/maste
 https://nn.geo.joj.sk/hls/family-360.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://positiv.tv/wp-content/uploads/2021/04/Positiv_Full_Color_wSlogan.png",Positiv TV
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="",
-
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",
