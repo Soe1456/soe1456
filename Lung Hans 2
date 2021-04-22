@@ -41,6 +41,8 @@ http://live.chdrstatic.com/cbn/primary/3.m3u8
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://uspto.report/TM/79271909/mark",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-logo="https://www.fhf-hdf.fr/wp-content/uploads/2018/10/Grand-Lille-TV_logo-e1538726944727.jpg",Grand Lille TV
+http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208_b1464000.m3u8
 
 
 #=============================================================================="Documentary"==========================================================================================#
@@ -69,6 +71,8 @@ https://gma2.blab.email/fs2.m3u8
 http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/uk-eurosport2.jpg",eurosport2
 http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-foxsports1.png",Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
@@ -79,13 +83,17 @@ http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="",
 
+
+
+#=============================================================================="Movies"==========================================================================#
+
 #EXTINF:-1 group-title="News" tvg-logo="",
 
+#EXTINF:-1 group-title="News" tvg-logo="",
 
+#EXTINF:-1 group-title="News" tvg-logo="",
 
-
-
-
+#EXTINF:-1 group-title="News" tvg-logo="",
 
 
 
