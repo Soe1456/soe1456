@@ -83,8 +83,8 @@ https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://www.zuflix.io/uploads/tv_image/cgtn-documentary.png",cdgn-documentary
 https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="",
-
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://thesavvyscreener.com/wp-content/uploads/2020/02/AE-Crime-Central-1.png",A&E Crime
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
@@ -210,8 +210,8 @@ https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="music-videos" tvg-logo="https://ясенево.онлайн/wp-content/uploads/2015/01/9volna.jpg",9 Волна
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:-1 group-title="music-videos" tvg-logo="",
-
+#EXTINF:-1 group-title="music-videos" tvg-logo="https://i.imgur.com/jxY0QSw.png",90s Loop
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="music-videos" tvg-logo="",
 
 #EXTINF:-1 group-title="music-videos" tvg-logo="",
