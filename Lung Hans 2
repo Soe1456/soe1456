@@ -87,6 +87,12 @@ https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
 #=============================================================================="Movies"==========================================================================#
 
+#EXTINF:-1 group-title="News" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-hbo.jpg",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbofamily-logo.jpg",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
@@ -95,7 +101,7 @@ https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="",
 
-
+#EXTINF:-1 group-title="News" tvg-logo="",
 
 
 
