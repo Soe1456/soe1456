@@ -43,22 +43,26 @@ https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/ind
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
 
 
-#=============================================================================="News"==========================================================================================#
+#=============================================================================="Documentary"==========================================================================================#
 
+#EXTINF:-1 group-title="News" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/sd-discovery.png",Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.ais.co.th/play/images/channel/ch_logo_asia.jpg",
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
 
-#EXTINF:-1 group-title="News" tvg-logo="",
 
-#EXTINF:-1 group-title="News" tvg-logo="",
+#=============================================================================="Sports"==========================================================================#
 
-#EXTINF:-1 group-title="News" tvg-logo="",
 
-#EXTINF:-1 group-title="News" tvg-logo="",
-
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Espn_2.png",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://cuse.com/images/2019/8/7/NewACCNXlogo_web.jpg?preset=large.socialmediaimage",ESPN ACCN
+https://gma2.blab.email/acc.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
