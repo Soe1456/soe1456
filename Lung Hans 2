@@ -207,10 +207,10 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
 #EXTINF:-1 group-title="Radio-station" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",406 Stingray Classic Rock
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#EXTINF:-1 group-title="Radio-station" tvg-logo="",
-
-#EXTINF:-1 group-title="Radio-station" tvg-logo="",
-
+#EXTINF:-1 group-title="Radio-station" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",408 Stingray Pop Adult
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:-1 group-title="Radio-station" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",409 Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
 #EXTINF:-1 group-title="Radio-station" tvg-logo="",
 
 #EXTINF:-1 group-title="Radio-station" tvg-logo="",
