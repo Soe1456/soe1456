@@ -50,12 +50,19 @@ http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/CXHLhZD.png",101TV Malaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/24news.png",24 Канал
-http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/66/dd/1f/66dd1ffb-35c5-6564-0390-23276ddf5516/source/512x512bb.jpg",24/7 Canal de Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeXvHEWeUCAFYUHvSBbJkLJ9B-i866oe5Z_Z55GhQWC-b51q6PeLRMnBrGUS78x5IRfg&usqp=CAU",24h
+https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
+
+#EXTINF:-1 group-title="News" tvg-logo="",
+
 
 
 
@@ -157,6 +164,22 @@ https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 group-title="Movies" tvg-logo="",
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",
+
+
+#=============================================================================="Entertainment"==========================================================================#
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",
+
 
 
 
