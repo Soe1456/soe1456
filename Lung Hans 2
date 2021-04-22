@@ -85,8 +85,7 @@ https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://thesavvyscreener.com/wp-content/uploads/2020/02/AE-Crime-Central-1.png",A&E Crime
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/lively-place.jpg?ssl=1",A+E | Lively Place
-http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
@@ -193,6 +192,8 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/0j5Aget.png",
 https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/lively-place.jpg?ssl=1",A+E | Lively Place
+http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",
