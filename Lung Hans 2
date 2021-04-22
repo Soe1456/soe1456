@@ -177,7 +177,6 @@ https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="",
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",
 
@@ -201,6 +200,20 @@ https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",
+
+
+#=============================================================================="music-videos"==========================================================================#
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/jxY0QSw.png",80s Loop
+https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="music-videos" tvg-logo="https://i1.wp.com/www.88stereo.com/wp-content/uploads/2020/06/ESPACIO-DISPONIBLE.jpg?fit=300%2C250",88 Stereo (486p)
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="music-videos" tvg-logo="",
+
+#EXTINF:-1 group-title="music-videos" tvg-logo="",
+
+#EXTINF:-1 group-title="music-videos" tvg-logo="",
+
 
 
 #=============================================================================="Radio-station"==========================================================================#
