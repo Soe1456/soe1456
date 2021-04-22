@@ -35,8 +35,8 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://deadline.com/wp-content/uploads/2020/08/image001.png?w=399",FOX News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",
-
+#EXTINF:-1 group-title="News" tvg-logo="https://s3.amazonaws.com/cheddar-production/assets/9d98b36f-f2a6-4537-a1a1-61b748ca2607.png",
+http://live.chdrstatic.com/cbn/primary/3.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
