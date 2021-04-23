@@ -162,6 +162,8 @@ https://live-edge-rbx-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-hbo.jpg",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png",HBO ENG
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbofamily-logo.jpg",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
@@ -196,7 +198,6 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png",HITSMOVIES
 https://mediasv.online/live/hitsmovie/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="",
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",
 
