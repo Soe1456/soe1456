@@ -74,10 +74,17 @@ https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2PK86fh3RVaESXBgP_l2WVLhBvkUAs87tmcesB_V0zYbfFPGOUMbsQJhhJcVgS1c71HA&usqp=CAU",ABC 7 Sarasota FL
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.pngkey.com/png/full/473-4736933_sky-news-extra-sky-news-on-win.png",Sky News Extra1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.hedex.tv/uploads/images/clip_1008_1610809364_social.png",Sky News Extra2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/media/Dh5eif0VMAATrYv.jpg",Sky News Extra3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="",
 
+#EXTINF:-1 group-title="News" tvg-logo="",
 
-
-
+#EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
 
