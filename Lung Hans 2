@@ -190,6 +190,12 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CELESTIAL-LOGO.jpg/revision/latest?cb=20120620031102",Celestial Movies
 http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/FOXLifeLA2018.png",FOX LIFE
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://img.17qq.com/images/pphmgcccv.jpeg",Cable Movie
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png",HITSMOVIES
+https://mediasv.online/live/hitsmovie/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",
@@ -198,7 +204,9 @@ http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",
 
+#EXTINF:-1 group-title="Movies" tvg-logo="",
 
+#EXTINF:-1 group-title="Movies" tvg-logo="",
 
 
 #=============================================================================="Entertainment"==========================================================================#
