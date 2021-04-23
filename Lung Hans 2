@@ -6,8 +6,8 @@
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0y1gbLNOb82n6MX90wfwUtP_48q9boQ6Zhpnm7XgRsc6PzjVfwD1IfNT3oKVe10p3Zw&usqp=CAU",BBC World
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266879_cnn-hd.jpg",CNN NEWS HD
-https://1861340594.rsc.cdn77.org/YcQVwmDDiJI3Eqss4FJoPA==,1619169570/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-tv5pacific.png",TV5Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ytimg.com/vi/lWgO61xdAAY/maxresdefault.jpg",MSNBC Live
 https://1420543146.rsc.cdn77.org/J-9FSPo2EFLPzU3JOhJs1w==,1619185162/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://wjro.org.il/cms/assets/uploads/2019/09/bloomberg-news-logo.png",bloomberg news
