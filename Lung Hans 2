@@ -69,8 +69,8 @@ https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2PK86fh3RVaESXBgP_l2WVLhBvkUAs87tmcesB_V0zYbfFPGOUMbsQJhhJcVgS1c71HA&usqp=CAU",ABC 7 Sarasota FL
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",
-
+#EXTINF:-1 group-title="News" tvg-logo="http://allvectorlogo.com/img/2016/07/bbc-america-logo.png",BBC US
+http://rv.flysat.live:80/musa1/musa2/81050?checkedby:iptvcat.com
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
@@ -128,7 +128,6 @@ https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mark.trademarkia.com/logo-images/the-tennis-channel/t-tennis-channel-plus-86418209.jpg",Tennis Channel+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://7televalencia.com/wp-content/uploads/2020/01/7televalencia-home-logo-300x169.jpg",7 TeleValencia
 https://live-edge-rbx-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",
