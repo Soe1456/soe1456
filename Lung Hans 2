@@ -10,6 +10,8 @@ https://1636691764.rsc.cdn77.org/VDIBBNEi5pDyCUYisVuKuA==,1619161175/LS-ATL-5454
 https://1861340594.rsc.cdn77.org/YcQVwmDDiJI3Eqss4FJoPA==,1619169570/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ytimg.com/vi/lWgO61xdAAY/maxresdefault.jpg",MSNBC Live
 https://1420543146.rsc.cdn77.org/J-9FSPo2EFLPzU3JOhJs1w==,1619185162/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://wjro.org.il/cms/assets/uploads/2019/09/bloomberg-news-logo.png",bloomberg news
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://cdn.one.accedo.tv/files/5d21c76423eec60011ea78cf?sessionKey=01F3V77RP9RDYYXP0VGAXW4WFQ1E33AF515C",Sky News-Aus
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://cms.cignal.tv/Upload/Images/ABC-Australia.jpg",ABC News-Aus
@@ -80,8 +82,7 @@ https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 
 
 
-#EXTINF:-1 group-title="News" tvg-logo="",
-http://goal88live.com/live-1360-link1.html
+
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
