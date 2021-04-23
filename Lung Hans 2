@@ -3,6 +3,9 @@
 
 #=============================================================================="News"==========================================================================================#
 
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/1200px-BBC_News_HD_Logo.svg.png",BBC NEWS HD
+http://miarea.vip:8080/nena/nena/78211?checkedby:iptvcat.com
 #EXTINF:-1 group-title="News" tvg-logo="https://cdn.one.accedo.tv/files/5d21c76423eec60011ea78cf?sessionKey=01F3V77RP9RDYYXP0VGAXW4WFQ1E33AF515C",Sky News-Aus
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://cms.cignal.tv/Upload/Images/ABC-Australia.jpg",ABC News-Aus
@@ -69,10 +72,14 @@ https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2PK86fh3RVaESXBgP_l2WVLhBvkUAs87tmcesB_V0zYbfFPGOUMbsQJhhJcVgS1c71HA&usqp=CAU",ABC 7 Sarasota FL
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://allvectorlogo.com/img/2016/07/bbc-america-logo.png",BBC US
-http://securepoint.io:83/live/promo/promo/142614.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="News" tvg-logo="http://allvectorlogo.com/img/2016/07/bbc-america-logo.png",BBC AMERICA HD
-http://miarea.vip:8080/nena/nena/706?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="News" tvg-logo="",
+
+
+#EXTINF:-1 group-title="News" tvg-logo="",
+
+#EXTINF:-1 group-title="News" tvg-logo="",
+
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 #EXTINF:-1 group-title="News" tvg-logo="",
@@ -93,7 +100,10 @@ https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://thesavvyscreener.com/wp-content/uploads/2020/02/AE-Crime-Central-1.png",A&E Crime
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
-
+#EXTINF:-1 group-title="News" tvg-logo="http://allvectorlogo.com/img/2016/07/bbc-america-logo.png",BBC US
+http://securepoint.io:83/live/promo/promo/142614.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-logo="http://allvectorlogo.com/img/2016/07/bbc-america-logo.png",BBC AMERICA HD
+http://miarea.vip:8080/nena/nena/706?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
