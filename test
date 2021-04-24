@@ -121,14 +121,14 @@
 "name": "sky sport bundesliga",  
 "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sky_Sport_Bundesliga_Logo_2016.png",  
 "url": "http://www.jackstream.net/livestreamhd/football/germany-bundesliga/hertha-berlin-vs-freiburg/20210421/1/",
-"referer": "https://www.lineballsod.com/",
+"referer": "https://www.jackstream.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "TYC-SPORTS",  
 "image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN",  
 "url": "https://daddylive.co/stream/stream-25.php",
-"referer": "https://www.lineballsod.com/",
+"referer": "https://daddylive.co/",
 "playInNatPlayer": "true"
 },
 {
@@ -170,49 +170,49 @@
 "name": "Sky-sport-football",  
 "image": "http://fomny.com/Video/United-kindom/Sky-sport/stream/logo-foot.gif",  
 "url": "http://fomny.com/Video/United-kindom/Sky-sport/stream/Sky-sport-football.php",
-"referer": "https://www.lineballsod.com/",
+"referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Sky-sport-arena",  
 "image": "http://fomny.com/Video/United-kindom/Sky-sport/stream/logo-arena.gif",  
 "url": "http://fomny.com/Video/United-kindom/Sky-sport/stream/Sky-sport-arena.php",
-"referer": "https://www.lineballsod.com/",
+"referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Sky-sport-action",  
 "image": "http://fomny.com/Video/United-kindom/Sky-sport/stream/logo-action.gif",  
 "url": "http://fomny.com/Video/United-kindom/Sky-sport/stream/Sky-sport-action.php",
-"referer": "https://www.lineballsod.com/",
+"referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "skysport-main-event",  
 "image": "http://fomny.com/Video/United-kindom/Sky-sport/stream/logo-main-event.gif",  
 "url": "http://fomny.com/Video/United-kindom/Sky-sport/pop-12.php?http://cricfree.ws/update/skys1",
-"referer": "https://www.lineballsod.com/",
+"referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "uk_skysport_1",  
 "image": "http://fomny.com/Video/United-kindom/Sky-sport/logo.gif",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=http://channelstream.club/stream/uk_skysport_1.php",
-"referer": "https://www.lineballsod.com/",
+"referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "skysportpremiere",  
 "image": "https://media.info/i/lf/300/1507600205/1554.png",  
 "url": "https://www.doofootball.com/live/streaming/skysportpremiere/646593",
-"referer": "https://www.lineballsod.com/",
+"referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "SPORTS TV",  
 "image": "https://www.ecanlitvizle.live/logo/sports-tv-izle.png",  
 "url": "https://www.ecanlitvizle.live/sports-tv-izle-1/",
-"referer": "https://www.lineballsod.com/",
+"referer": "https://www.ecanlitvizle.live/",
 "playInNatPlayer": "true"
 },
 
@@ -220,56 +220,56 @@
 "name": "TRT SPOR 2 HD",  
 "image": "https://www.ecanlitvizle.live/logo/trt-spor-2-canli.png",  
 "url": "https://www.ecanlitvizle.live/trt-spor-2-canli-hd/2/",
-"referer": "https://www.lineballsod.com/",
+"referer": "https://www.ecanlitvizle.live/",
 "playInNatPlayer": "true"
 },
 {
 "name": "GS TV",  
 "image": "https://www.ecanlitvizle.live/logo/galatasaray-tv-izle.png",  
-"url": "https://www.ecanlitvizle.live/galatasaray-tv-canli-izle/",
-"referer": "https://www.lineballsod.com/",
+"url": "https://www.ecanlitvizle.live/galatasaray-tv-canli-izle/2/",
+"referer": "https://www.ecanlitvizle.live/",
 "playInNatPlayer": "true"
 },
 {
 "name": "FB TV",  
 "image": "https://www.ecanlitvizle.live/logo/fenerbahce-fb-tv-izle.png",  
-"url": "https://www.ecanlitvizle.live/fenerbahce-fb-tv-canli-izle/2/",
-"referer": "https://www.lineballsod.com/",
+"url": "https://www.ecanlitvizle.live/fenerbahce-fb-tv-canli-izle/3/",
+"referer": "https://www.ecanlitvizle.live/",
 "playInNatPlayer": "true"
 },
 {
 "name": "A SPOR HD",  
 "image": "https://www.ecanlitvizle.live/logo/a-spor-canli.png",  
-"url": "https://www.ecanlitvizle.live/a-spor-canli-11/2/",
-"referer": "https://www.lineballsod.com/",
+"url": "https://www.ecanlitvizle.live/a-spor-canli-11/3/",
+"referer": "https://www.ecanlitvizle.live/",
 "playInNatPlayer": "true"
 },
 {
 "name": "EUROSPORT",  
 "image": "https://www.ecanlitvizle.live/logo/eurosport.png",  
 "url": "https://www.ecanlitvizle.live/eurosport-live/2/",
-"referer": "https://www.lineballsod.com/",
+"referer": "https://www.ecanlitvizle.live/",
 "playInNatPlayer": "true"
 },
 {
 "name": "EUROSPORT-2",  
 "image": "https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg",  
 "url": "https://www.ecanlitvizle.live/eurosport-2-live/2/",
-"referer": "https://www.lineballsod.com/",
+"referer": "https://www.ecanlitvizle.live/",
 "playInNatPlayer": "true"
 },
 {
 "name": "TRT SPOR 2",  
 "image": "https://www.kskhaber.com/wp-content/uploads/2020/12/71ee780d17ddf50i.jpg",  
 "url": "https://www.canlifutbolaz.com/2019/12/trtsp2.html",
-"referer": "https://www.lineballsod.com/",
+"referer": "https://www.canlifutbolaz.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "TRT 1 HD",  
 "image": "https://cdn.bolgegundem.com/d/news/1001214.jpg",  
 "url": "https://www.canlifutbolaz.com/2021/03/trt-1-hd.html",
-"referer": "https://www.lineballsod.com/",
+"referer": "https://www.canlifutbolaz.com/",
 "playInNatPlayer": "true"
 },
 {
