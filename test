@@ -169,7 +169,7 @@
 {
 "name": "Sky-sport-football",  
 "image": "http://fomny.com/Video/United-kindom/Sky-sport/stream/logo-foot.gif",  
-"url": "http://fomny.com/Video/United-kindom/Sky-sport/stream/Sky-sport-football.php",
+"url": "http://fomny.com/Video/United-kindom/Sky-sport/pop-12.php?http://cricfree.ws/update/skyspfootball",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
@@ -183,7 +183,7 @@
 {
 "name": "Sky-sport-action",  
 "image": "http://fomny.com/Video/United-kindom/Sky-sport/stream/logo-action.gif",  
-"url": "http://fomny.com/Video/United-kindom/Sky-sport/stream/Sky-sport-action.php",
+"url": "http://fomny.com/Video/United-kindom/Sky-sport/pop-12.php?http://cricfree.ws/update/skys3",
 "referer": "http://fomny.com/",
 "playInNatPlayer": "true"
 },
@@ -219,7 +219,7 @@
 {
 "name": "Real Madrid TV ",  
 "image": "https://cdn.maxcdn.info/channel/13266c4643360d76d8871d3321aa9601-Real-Madrid.png",  
-"url": "https://www.olweb.tv/real-madrid-tv-eu",
+"url": "https://www.realmadrid.com/en/real-madrid-tv",
 "referer": "https://www.ecanlitvizle.live/",
 "playInNatPlayer": "true"
 },
