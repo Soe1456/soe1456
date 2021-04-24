@@ -483,20 +483,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Foxsport-NL-3",  
-"image": "https://fussbol24.com/sport/src/images/channel/NL-Fox-3.png",  
-"url": "https://livescore24-th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=34845",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Arena Sport 1",  
-"image": "https://fussbol24.com/sport/src/images/channel/arena1.png",  
-"url": "https://movie24thai.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%aa%e0%b8%94/?id=34807",
-"referer": "https://movie24thai.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "beIN Sports 2 (AU)",  
 "image": "https://www.lineballsod.com/api/table/icon/live-ch300.png",  
 "url": "https://www.lineballsod.com/doball/live-ch300/",
