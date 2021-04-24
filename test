@@ -482,8 +482,6 @@
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
-
-
 {
 "name": "Foxsport-NL-3",  
 "image": "https://fussbol24.com/sport/src/images/channel/NL-Fox-3.png",  
@@ -548,6 +546,20 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Arena Sport 1 Serbia (TV Online)",  
+"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport1serbia.png",  
+"url": "https://www.lineballsod.com/doball/live-ch196/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Arena Sport 2 Serbia (TV Online)",  
+"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport2serbia.png",  
+"url": "https://www.lineballsod.com/doball/live-ch197/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "beIN Sports 2 (AU) TV Online",  
 "image": "https://www.lineballsod.com/api/table/icon/live-ch300.png",  
 "url": "https://www.lineballsod.com/doball/live-ch300/",
@@ -561,25 +573,10 @@
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "beIN Sports 1 (France) TV Online",  
 "image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/beinsport1fr.png",  
 "url": "https://www.lineballsod.com/doball/live-ch279/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Arena Sport 1 Serbia (TV Online)",  
-"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport1serbia.png",  
-"url": "https://www.lineballsod.com/doball/live-ch196/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Arena Sport 2 Serbia (TV Online)",  
-"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport2serbia.png",  
-"url": "https://www.lineballsod.com/doball/live-ch197/",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
@@ -598,9 +595,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Eleven Sports (PT) (TV Online)",  
-"image": "https://www.lineballsod.com/api/table/icon/live-ch303.png",  
-"url": "https://www.lineballsod.com/doball/live-ch303/",
+"name": "True Premier Football HD 1",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch285.png",  
+"url": "https://www.lineballsod.com/doball/live-ch285/",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
