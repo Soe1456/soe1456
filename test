@@ -525,16 +525,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "espn",  
-"image": "https://fussbol24.com/sport/src/images/channel/espn.png",  
-"url": "https://livescore24-th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=34842",
+"name": "ESPN US TV",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch268.png",  
+"url": "https://www.lineballsod.com/doball/live-ch268/",
 "referer": "https://livescore24-th.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Foxsport-NL-2",  
-"image": "https://fussbol24.com/sport/src/images/channel/NL-Fox-2.png",  
-"url": "https://livescore24-th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=34843",
+"name": "Free Sports (UK)",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch304.png",  
+"url": "https://www.lineballsod.com/doball/live-ch304/",
 "referer": "https://livescore24-th.com/",
 "playInNatPlayer": "true"
 },
