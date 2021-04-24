@@ -499,27 +499,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "btsport3",  
-"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsport3.png",  
-"url": "https://thdooball.com/live-football/?id=2160846",
-"referer": "https://thdooball.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "btsport2",  
-"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsport2.png",  
-"url": "https://thdooball.com/live-football/?id=2160845",
-"referer": "https://thdooball.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "btsport1",  
-"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsport1.png",  
-"url": "https://thdooball.com/live-football/?id=2160847",
-"referer": "https://thdooball.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "beIN Sports 2 (AU)",  
 "image": "https://www.lineballsod.com/api/table/icon/live-ch300.png",  
 "url": "https://www.zonedooball.com/live-football/?id=2160818",
