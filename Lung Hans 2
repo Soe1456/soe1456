@@ -163,16 +163,16 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 http://edge01eu.ekranet.com/scantv/index.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="https://albania.mom-rsf.org/uploads/tx_lfrogmom/media/8084-1206_import.png",Syri TV
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://www.tematv.al/sites/default/files/logo3.png",Tema TV
+http://edge01eu.ekranet.com/tematv_360p/index.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://46.101.142.56/wp-content/uploads/2018/05/TEMA-LLOGO-60x60-TIK.png",Tema Ferizaj
+http://134.209.238.38/hls/test.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://static.epg.best/at/ORF2.at.png",ORF 2
+https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://static.epg.best/at/ORFSport.at.png",ORF Sport+
+https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://www.dorftv.at/sites/default/themes/dorftv_omega/logo.png",dorf
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
