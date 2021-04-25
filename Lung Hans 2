@@ -296,6 +296,8 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_%282020_Logo%29.svg/1920px-RTSH_Sport_%282020_Logo%29.svg.png",RTSH Sport
 http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.transalis.com/wp-content/uploads/2019/12/Sports-Direct-EDI-Trading-Partner-1.png",direct sports
+https://verizon.br.cdn.booyah.live/hls/1000045/54314386.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",
@@ -304,6 +306,27 @@ http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",
 
+#EXTINF:-1 group-title="Sports" tvg-logo="",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",
 
 
 #=============================================================================="Movies"==========================================================================#
