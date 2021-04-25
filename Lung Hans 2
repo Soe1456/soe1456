@@ -177,6 +177,14 @@ https://stream.openplayout.org/hls/dorf_high/index.m3u8
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Oe24_Logo_2016.png",Oe24
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://www.ln24.be/themes/custom/mmw/images/logo-ln24.png",Les News 24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://www.antennecentre.tv/sites/antennecentre.easydev.be/files/logoac_rev.png",Antenne center
+http://tvl-live.fl.freecaster.net/live/actv/actv.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://www.canalc.be/wp-content/uploads/CanalC_Blanc_Transparent_pour-fond-sombre-2.png",Canal C
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/29/Canal_Zoom_logo.png",Canal Zoom
+http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
@@ -185,7 +193,13 @@ https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
 
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 
 
