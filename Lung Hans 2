@@ -201,14 +201,14 @@ https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
 https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/onair.png",Bulgaria on Air
 https://cdn1.mobiletv.bg/T3/bg_on_air/bg_on_air_794613_850k.m3u8
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://static.epg.best/hr/Htv1.hr.png",HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://ottresource.aviion.tv/61e8d2843cc7412db3a5482855a069ce.png",HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://ottresource.aviion.tv/53ca566392544337862d5bce54444097.png",HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png",HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
@@ -289,8 +289,8 @@ https://live-edge-rbx-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://previews.123rf.com/images/wangsinawang/wangsinawang1807/wangsinawang180700154/107645697-tennis-logo-designs.jpg",Tennis 2
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",
-
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/novasport.png",Nova Sports
+https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",
