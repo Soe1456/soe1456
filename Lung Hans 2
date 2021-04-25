@@ -11,6 +11,8 @@ https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.digitaltveurope.com/files/2011/10/CNN-logo1.jpg",CNN-US
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://wjro.org.il/cms/assets/uploads/2019/09/bloomberg-news-logo.png",bloomberg news
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://wjro.org.il/cms/assets/uploads/2019/09/bloomberg-news-logo.png",bloomberg news
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://cdn.one.accedo.tv/files/5d21c76423eec60011ea78cf?sessionKey=01F3V77RP9RDYYXP0VGAXW4WFQ1E33AF515C",Sky News-Aus
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
