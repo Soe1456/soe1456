@@ -157,6 +157,12 @@ http://edge01eu.ekranet.com/tematv_720p/index.m3u8
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="http://tv7.al/wp-content/uploads/2018/02/Logo-83Heigh.png",7 TV
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://albepg.com/tvlogi/ALBUK%20HD.png",Albania UK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://www.scan-tv.com/wp-content/uploads/2016/12/logo-default.png",Scan Tv
+http://edge01eu.ekranet.com/scantv/index.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://albania.mom-rsf.org/uploads/tx_lfrogmom/media/8084-1206_import.png",Syri TV
+https://tv.syri.net/syrilive/webtv/playlist.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
@@ -173,7 +179,11 @@ https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
 
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 
 
