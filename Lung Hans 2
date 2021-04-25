@@ -173,10 +173,10 @@ https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
 https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="http://www.dorftv.at/sites/default/themes/dorftv_omega/logo.png",dorf
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6f/FS1_Logo_with_Claim_%282012%29.jpg",FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Oe24_Logo_2016.png",Oe24
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
