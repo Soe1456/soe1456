@@ -137,8 +137,8 @@ https://ch.iptvmate.net/ae523d9d4a44766e58fa51e8f4eb8c51.m3u8
 https://ch.iptvmate.net/f88e306fdabc0014d5ebfe79fbb1d92a.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczjpBO0o68KmiO7jWcABxdFYVQIEXSiHtbYwDzP0hpN1pj1CoqibIBj2JfTmTwAuEaYY&usqp=CAU",Telebarn
 https://ch.iptvmate.net/ae9fa52a9d838fa431d69c832220b1a4.m3u8
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://danribeiro.ch/wp-content/uploads/2021/02/dan-ribeiro-logo-lfmtv-television-suisse-romande.png", LFM TV, LFM TV
+https://edge3.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1211388897_b3000000.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
