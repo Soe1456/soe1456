@@ -138,10 +138,10 @@ http://securepoint.io:83/live/promo/promo/142614.ts?checkedby:iptvcat.com
 http://miarea.vip:8080/nena/nena/706?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="",
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="",
-
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-history2.png",HISTORY2 HD
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/019f9a50258033.58cb840c2b144.jpg",Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
@@ -239,6 +239,13 @@ https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",
+
 
 
 #=============================================================================="Entertainment"==========================================================================#
