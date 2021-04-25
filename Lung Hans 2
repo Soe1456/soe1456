@@ -117,6 +117,26 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 #EXTINF:-1 group-title="News" tvg-logo="",
 
 
+#=============================================================================="Swiss"==========================================================================#
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_9_Danmark.svg/240px-Canal_9_Danmark.svg.png",CANAL 9 tv
+https://cdn.iptvmate.net/countries/ch.m3u
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://www.jeux-cooperatifs.ch/wp-content/uploads/2018/09/Unknown-1.jpg",canal alpha
+https://cdn.iptvmate.net/countries/ch.m3u
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+
+
 
 #=============================================================================="Documentary"==========================================================================================#
 
