@@ -141,6 +141,18 @@ https://ch.iptvmate.net/ae9fa52a9d838fa431d69c832220b1a4.m3u8
 http://edge01eu.ekranet.com/rtshhd_low/index.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RTSH_2_HD_%282020_Logo%29.svg/1920px-RTSH_2_HD_%282020_Logo%29.svg.png",RTSH 2
 http://edge01eu.ekranet.com/rtsh2hd1/index.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://albepg.com/tvlogi/RTSH3%20HD.png",RTSH 3
+http://edge01eu.ekranet.com/rtsh3hd1/index.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/RTSH_24_%282020_Logo%29.svg/1920px-RTSH_24_%282020_Logo%29.svg.png",RTSH 24
+http://edge01eu.ekranet.com/rtsh24/index.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="",
+
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
