@@ -262,8 +262,15 @@ https://30a-tv.com/beachy.m3u8
 http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Augsburg_tv.jpg",a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://iili.io/3MWmUx.jpg",Cookie Asia
-https://mediasv.online/tvchannel_x1/foxactionmovie/chunks.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.kindpng.com/picc/m/17-171683_astro-asian-food-channel-asian-food-channel-logo.png",Asian Food Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://png.pngitem.com/pimgs/s/72-729733_bbc-lifestyle-logo-hd-png-download.png",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="",
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="",
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="",
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",
 
