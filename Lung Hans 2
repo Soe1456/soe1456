@@ -185,12 +185,12 @@ http://tvl-live.fl.freecaster.net/live/actv/actv.m3u8
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/29/Canal_Zoom_logo.png",Canal Zoom
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://www.focus-wtv.be/sites/all/themes/focus/logo.png",Focus WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://webfiles.notele.be/layout/logo.png",notélé
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RTL-TVI_logo.svg/1280px-RTL-TVI_logo.svg.png",RTL TVI
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
