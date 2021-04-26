@@ -258,11 +258,27 @@ https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://image.roku.com/developer_channels/prod/9a80a112cc87c7d30e065145dc45f61a003e5c2163e3b3794ec8cb08e15a3784.png",discoverpakistan
 https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8?
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-samrujlok.jpg",สำรวจโลก
+https://cdn6.goprimetime.info/feed/LC8/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-bbclifestyle.png",BBC lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-bbcearth.png",BBC earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeo.png",NAT GEOGRAPHIC EN
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.tubefilter.com/wp-content/uploads/2017/07/pet-collective-yt-1400x825.jpg",the-pet-collective
+https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L._AC_UL600_SR600,600_.png",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
+
+
+
+
 
 
 #=============================================================================="Sports"==========================================================================#
@@ -304,14 +320,14 @@ https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.transalis.com/wp-content/uploads/2019/12/Sports-Direct-EDI-Trading-Partner-1.png",direct sports
 https://verizon.br.cdn.booyah.live/hls/1000045/54314386.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="",
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/f9/d7/fa/f9d7faae0c4167c3e1199702e091ceeb.png",Skynetsports1
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist_w2098499287.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.png",Skynetsports2
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w1834747878.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/60/d6/d0/60d6d0094336d45d0396350f2648559a.png",Skynetsports3
+http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist_w1549922984.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/97/82/eb/9782ebded924527be80816df1c7765ab.png",TrueTennis
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",
