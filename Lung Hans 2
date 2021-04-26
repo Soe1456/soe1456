@@ -270,15 +270,23 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_
 https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L._AC_UL600_SR600,600_.png",AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-animalplanet.png",Animal Planet
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-history.png",HISTORYHD TH
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-history2.png",H2
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://lh3.ggpht.com/jbZie2Gx8_N8VP4lypOpNRCvkMP95z-NSpRe12ff9narHL79XgJd89QjofBbfBkpyY0",PSI สาระดี
+http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
 
+#EXTINF:-1 group-title="Documentary" tvg-logo="",
 
-
-
+#EXTINF:-1 group-title="Documentary" tvg-logo="",
 
 
 #=============================================================================="Sports"==========================================================================#
@@ -440,8 +448,8 @@ https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://png.pngitem.com/pimgs/s/72-729733_bbc-lifestyle-logo-hd-png-download.png",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="",
-
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://floridastatefair.com/wp-content/uploads/2020/02/tampa-bay-boat-show.png",The Boat Show
+https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",
