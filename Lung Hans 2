@@ -256,8 +256,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/019f9a50258033.58cb840c2b144.jpg",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="",
-
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://image.roku.com/developer_channels/prod/9a80a112cc87c7d30e065145dc45f61a003e5c2163e3b3794ec8cb08e15a3784.png",discoverpakistan
+https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8?
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="",
