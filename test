@@ -86,9 +86,9 @@
 			"image": "",
 			"stations":[
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "canal/1",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Canal_UNO_Logo_2013.jpg",  
+"url": "https://www.unacanita.com/canal/1",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
