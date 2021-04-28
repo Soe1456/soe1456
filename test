@@ -30,11 +30,35 @@
 "embed": "true"},
 
 
-{"name": "muse-1",
+{"name": "musetvfree",
 	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
-	"url": "http://tiny.cc/muse1",
+	"url": "http://tiny.cc/musetvfree",
 	"import": false},
-       
+
+
+{"name": "musetv",
+	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+	"url": "http://tiny.cc/musetv",
+	"import": false},
+
+{"name": "musedoofootball",
+	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+	"url": "http://tiny.cc/musedoofootball",
+	"import": false},
+	
+{"name": "",
+	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+	"url": "",
+	"import": false},	
+	
+{"name": "",
+	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+	"url": "",
+	"import": false},
+
+
+
+	
 {
 "name": "",  
 "image": "",  
