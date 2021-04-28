@@ -7,23 +7,12 @@
  
  
 {
-        "name": "muse-mix-tv",
-	"url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/test",
+        "name": "Importar-muse-mix-tv",
         "image": "https://www.lineballsod.com/images/main-logo.png",
-        "stations": [
-
-
-
-{
-                    "name": "muse", 
-                    "image":"https://cdn5.f-cdn.com/contestentries/1052684/24925410/5945ec2ca7db2_thumb900.jpg", 
-                    "url": "http://tiny.cc/muse1",
-                    "import": true
-                },
-                
-            ]
-        },
-
+        "stations":[
+	
+	
+	
 {"name": "musetvfree",
 	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
 	"url": "http://tiny.cc/musetvfree",
@@ -51,11 +40,14 @@
 	"import": false},
 
 
-
-
- ]
+]
         },
 
+{
+        "name": "Importar-muse-mix-tv",
+        "image": "https://www.lineballsod.com/images/main-logo.png",
+        "stations":[
+ 
 
 {"name": "โปรแกรมฟุตบอล","image":"https://www.gifimili.com/gif/2018/07/sports-de-ballon.gif",  
 "url":"https://www.premierdream.com/program/",
@@ -72,6 +64,15 @@
 {"name": "Highlights & Full Match","image":"https://hdmatches.net/wp-content/uploads/2020/12/logo-hdmatches.png",  
 "url":"https://hdmatches.net/",
 "embed": "true"},
+
+]
+		},
+		{
+			"name": "mix-tv",
+			"image": "",
+			"stations":[
+
+
 {
 "name": "",  
 "image": "",  
