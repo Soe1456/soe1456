@@ -29,11 +29,21 @@
 	"url": "http://tiny.cc/musedoofootball",
 	"import": false},
 	
+{"name": "musesports66",
+	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+	"url": "http://tiny.cc/musesports66",
+	"import": false},	
+	
+{"name": "seirsanduk",
+	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+	"url": "http://tiny.cc/seirsanduk",
+	"import": false},
+
 {"name": "",
 	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
 	"url": "",
-	"import": false},	
-	
+	"import": false},
+
 {"name": "",
 	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
 	"url": "",
@@ -43,10 +53,7 @@
 ]
         },
 
-{
-			"name": "mix-tv",
-			"image": "http://1.bp.blogspot.com/-3vHDPUWL7s0/XEeBBfLaxMI/AAAAAAAACgg/7kAF90uw8pomjNmAoVabaBSdS79lFZScACK4BGAYYCw/s1600/tv_gif.gif",
-			"stations":[
+
 
 {
         "name": "Importar-muse-mix-tv",
@@ -73,7 +80,10 @@
 ]
 		},
 		
-
+{
+			"name": "mix-tv",
+			"image": "http://1.bp.blogspot.com/-3vHDPUWL7s0/XEeBBfLaxMI/AAAAAAAACgg/7kAF90uw8pomjNmAoVabaBSdS79lFZScACK4BGAYYCw/s1600/tv_gif.gif",
+			"stations":[
 {
 "name": "",  
 "image": "",  
