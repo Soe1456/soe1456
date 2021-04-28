@@ -6,7 +6,10 @@
        "groups": [
  
  
-
+{
+        "name": "Importar-muse-mix-tv",
+        "image": "https://static.cognitoforms.com/content/support/assets/images/importing-icon-2e04b13d-9581-45e8-9fd8-9877c61e6aec-1c3c579-509x236.gif",
+        "stations":[
 	
 {"name": "musetvfree",
 	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
@@ -77,7 +80,7 @@
 		
 {
 			"name": "mix-tv",
-			"image": "http://1.bp.blogspot.com/-3vHDPUWL7s0/XEeBBfLaxMI/AAAAAAAACgg/7kAF90uw8pomjNmAoVabaBSdS79lFZScACK4BGAYYCw/s1600/tv_gif.gif",
+			"image": "",
 			"stations":[
 {
 "name": "",  
