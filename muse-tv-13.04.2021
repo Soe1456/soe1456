@@ -15,9 +15,9 @@
 
 {
 "name": "TEST",  
-"image": "",  
+"image": "https://www.themoviedb.org/t/p/original/saCL8sBP5nCrjrvOsY0DzWC2KEw.jpg",  
 "url": "https://5ji.tv/play/28895-5-1.html",
-"referer": "",
+"referer": "https://5ji.tv/play/",
 "playInNatPlayer": "true"
 },
 
