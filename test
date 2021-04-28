@@ -51,6 +51,15 @@
 	"import": false},
 
 
+{
+        "name": "muse-mix-tv",
+	"url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/test",
+        "image": "https://www.lineballsod.com/images/main-logo.png",
+        "stations": [
+
+ ]
+        },
+
 
 {"name": "โปรแกรมฟุตบอล","image":"https://www.gifimili.com/gif/2018/07/sports-de-ballon.gif",  
 "url":"https://www.premierdream.com/program/",
