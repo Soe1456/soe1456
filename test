@@ -8,7 +8,7 @@
  
 {
         "name": "Importar-muse-mix-tv",
-        "image": "https://www.lineballsod.com/images/main-logo.png",
+        "image": "https://lh3.googleusercontent.com/proxy/KpE2NOrNuqfS6rFOy4D_3Fv0kq8MocryiyqEVam988Npr40OohiG-HNZVuiv7gfFjW_BHmuhCixSC9JMlwb4jfuJqXLZEXB10xoXyl3Vtq9MHXpy5c6usIQ7CpKMhDZ9",
         "stations":[
 	
 	
@@ -42,6 +42,11 @@
 
 ]
         },
+
+{
+			"name": "mix-tv",
+			"image": "http://1.bp.blogspot.com/-3vHDPUWL7s0/XEeBBfLaxMI/AAAAAAAACgg/7kAF90uw8pomjNmAoVabaBSdS79lFZScACK4BGAYYCw/s1600/tv_gif.gif",
+			"stations":[
 
 {
         "name": "Importar-muse-mix-tv",
