@@ -14,6 +14,14 @@
 
 
 {
+"name": "TEST",  
+"image": "",  
+"url": "https://5ji.tv/play/28895-5-1.html",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "epl1",  
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4106.png",  
 "url": "https://www.doonung1234.com/match/view/12352/epl1",
