@@ -495,6 +495,10 @@ https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 http://stream.srg-ssr.ch/m/drs1/mp3_128
 #EXTINF:-1 group-title="Radio-station" tvg-logo="https://dybuster.com/wp-content/uploads/2018/04/SRF_Radio_DRS2_Sendung2010.jpg",Radio SRF 2 
 http://stream.srg-ssr.ch/m/drs2/mp3_128
+#EXTINF:-1 group-title="Radio-station" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/1200px-Radio_SRF_3.svg.png",Radio SRF 3
+http://stream.srg-ssr.ch/m/drs3/mp3_128
+#EXTINF:-1 group-title="Radio-station" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Radio_SRF_4_News.svg/1200px-Radio_SRF_4_News.svg.png",Radio SRF 4 News
+http://stream.srg-ssr.ch/m/drs4news/mp3_128
 #EXTINF:-1 group-title="Radio-station" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",404 Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
 #EXTINF:-1 group-title="Radio-station" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",405 Stingray Hit List
@@ -516,7 +520,6 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 #EXTINF:-1 group-title="Radio-station" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/06/stingray-music-logo-vector.png",stingray music
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
 
-#EXTINF:-1 group-title="Radio-station" tvg-logo="",
 
 #EXTINF:-1 group-title="Radio-station" tvg-logo="",
 
@@ -524,6 +527,9 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 
 #EXTINF:-1 group-title="Radio-station" tvg-logo="",
 
+#EXTINF:-1 group-title="Radio-station" tvg-logo="",
+
+#EXTINF:-1 group-title="Radio-station" tvg-logo="",
 
 
 
