@@ -224,8 +224,8 @@ http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
 http://ios-stream.qvc.de/qvc.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="https://i.imgur.com/NUP8ZBb.png",RAN1 Regionalfernsehen
 http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://i.imgur.com/YkB39hx.png",RNF
+http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
