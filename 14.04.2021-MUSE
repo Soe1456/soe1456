@@ -59,21 +59,21 @@
 {
 "name": "BTV CINEMA",  
 "image": "https://www.seirsanduk.com/images/tvlogo/btv-cinema.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/btv-cinema-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "BTV COMEDY",  
 "image": "https://www.seirsanduk.com/images/tvlogo/btv-comedy.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/btv-comedy-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "BTV LADY",  
 "image": "https://www.seirsanduk.com/images/tvlogo/btv-lady.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/btv-lady-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
