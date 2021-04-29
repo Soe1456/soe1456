@@ -80,63 +80,63 @@
 {
 "name": "BULGARIA ON AIR",  
 "image": "https://www.seirsanduk.com/images/tvlogo/bulgaria-on-air.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/bulgaria-on-air-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "CARTOON NETWORK",  
 "image": "https://www.seirsanduk.com/images/tvlogo/cartoon-network.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/cartoon-network-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "CITY TV",  
 "image": "https://www.seirsanduk.com/images/tvlogo/city-tv.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/city-tv-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "CODE FASHION TV HD",  
 "image": "https://www.seirsanduk.com/images/tvlogo/code-fashion-tv-hd.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/hd-code-fashion-tv-hd-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "DIEMA FAMILY",  
 "image": "https://www.seirsanduk.com/images/tvlogo/diema-family.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/diema-family-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "DIEMA SPORT HD",  
 "image": "https://www.seirsanduk.com/images/tvlogo/diema-sport-hd.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/hd-diema-sport-hd-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "DIEMA SPORT 2 HD",  
 "image": "https://www.seirsanduk.com/images/tvlogo/diema-sport-2-hd.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/hd-diema-sport-2-hd-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "DIEMA",  
 "image": "https://www.seirsanduk.com/images/tvlogo/diema.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/diema-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "DISCOVERY CHANNEL HD",  
 "image": "https://www.seirsanduk.com/images/tvlogo/discovery-channel-hd.png",  
-"url": "",
+"url": "http://www.seirsanduk.us/hd-discovery-channel-hd-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
