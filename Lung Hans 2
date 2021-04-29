@@ -123,6 +123,16 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/2892
 
 #=============================================================================="Swiss"==========================================================================#
 
+
+
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/BR_Fernsehen_HD_Logo_2016.png",BR Fernsehen Süd
+https://mcdn.br.de/bfs_sued/int/profile3/3.m3u8
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://www.dslweb.de/public/resources/images/logos/sender/tagesschau-24-hd-logo.svg",TAGESSCHAU 24
+#http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_9_Danmark.svg/240px-Canal_9_Danmark.svg.png",CANAL 9 tv
 https://ch.iptvmate.net/16dc365ac35b36f0a01736b7d312ba7d.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="https://www.jeux-cooperatifs.ch/wp-content/uploads/2018/09/Unknown-1.jpg",canal alpha
@@ -200,13 +210,7 @@ http://bhrtstream.bhtelecom.ba/hls15/bhrtportal_1200.m3u8
 #EXTINF:-1 group-title="Swiss" tvg-logo="http://albepg.com/tvlogi/RTSH%20Muzike.png",RTSH Muzike
 http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
 
-#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8
-#https://mcdn.daserste.de/daserste/de/master.m3u8
 
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
-
-#EXTINF:-1 group-title="Swiss" tvg-logo="",
 
 #EXTINF:-1 group-title="Swiss" tvg-logo="",
 
