@@ -512,12 +512,17 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
 #EXTINF:-1 group-title="Radio-station" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/06/stingray-music-logo-vector.png",stingray music
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:-1 group-title="Radio-station" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1280px-Logo_SRF_1.svg.png",Radio SRF 1
+http://stream.srg-ssr.ch/drs1/mp3_128.m3u
 #EXTINF:-1 group-title="Radio-station" tvg-logo="",
 
 #EXTINF:-1 group-title="Radio-station" tvg-logo="",
 
 #EXTINF:-1 group-title="Radio-station" tvg-logo="",
 
+#EXTINF:-1 group-title="Radio-station" tvg-logo="",
+
+#EXTINF:-1 group-title="Radio-station" tvg-logo="",
 
 
 
