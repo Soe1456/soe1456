@@ -23,7 +23,7 @@
 {
 "name": "Radio SRF 1",  
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1280px-Logo_SRF_1.svg.png",  
-"url": "http://stream.srg-ssr.ch/drs1/mp3_128.m3u",
+"url": "http://stream.srg-ssr.ch/m/drs1/mp3_128",
 "referer": "",
 "playInNatPlayer": "true"
 },
