@@ -346,7 +346,7 @@
 {
 "name": "TV 1",  
 "image": "https://www.seirsanduk.com/images/tvlogo/tv-1.png",  
-"url": "https://www.seirsanduk.com/tv-1-online",
+"url": "",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
@@ -360,28 +360,28 @@
 {
 "name": "VTK",  
 "image": "https://www.seirsanduk.com/images/tvlogo/vtk.png",  
-"url": "https://www.seirsanduk.com/vtk-online",
+"url": "",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "ALFA TV",  
 "image": "https://www.seirsanduk.com/images/tvlogo/alfa-tv.png",  
-"url": "https://www.seirsanduk.com/alfa-tv-online",
+"url": "",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "AXN",  
 "image": "https://www.seirsanduk.com/images/tvlogo/axn.png",  
-"url": "https://www.seirsanduk.com/axn-online",
+"url": "",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "BLOOMBERG TV",  
 "image": "https://www.seirsanduk.com/images/tvlogo/bloomberg-tv.png",  
-"url": "https://www.seirsanduk.com/bloomberg-tv-online",
+"url": "",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
