@@ -17,20 +17,20 @@
 {
 "name": "BNT 1 HD",  
 "image": "https://www.seirsanduk.com/images/tvlogo/bnt-1-hd.png",  
-"url": "https://www.seirsanduk.com/hd-bnt-1-hd-online",
+"url": "http://www.seirsanduk.us/hd-bnt-1-hd-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "BNT 2",  
 "image": "https://www.seirsanduk.com/images/tvlogo/bnt-2.png",  
-"url": "https://www.seirsanduk.com/bnt-2-online",
+"url": "http://www.seirsanduk.us/bnt-2-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "BNT 3 HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/bnt-3-hd.png",  
+"image": "http://www.seirsanduk.us/hd-bnt-3-hd-online",  
 "url": "https://www.seirsanduk.com/hd-bnt-3-hd-online?__cf_chl_jschl_tk__=42ec27bb054d1ab4375e9478d91e149262ed6abc-1618421463-0-Af_R0hOz0R9Zs9wY_vewE-pm96SYW_CbX4fIZ4cMGHLxcYQMEJrgKMfnym7QtHQ8yOkftJolVdmxVj9OUcpg7X8_JvTBA5IdRxjO2yd-Cs7pDdMfP89oZyQf5z3YOI8iLwd0VdO6TI71dVftEYU8CMNyTlEN2UDPl8VUCeC1YnBO9yNMK_pr5wJzpMG64oh1AVmjmKxQ1xl5JTWy6THdLBNKPc2g8_SsxsQDG0Z_Yim301IaTIWosnRz2F7LRONn3Nl9fV10P3HPYM3Srl5kqsz1Qib7pO4v6oPmggKVFq1v9LOIuT-V6UHxRgMxHtkrWelDIdt3rN6O7wF_fdux5zMgCvcMbQpy0ajqtJGY1mm38i6N9SpV_e74EftUtWMiPeojXxi6Z1yLP0X5hXcFCzA",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
@@ -38,7 +38,7 @@
 {
 "name": "BNT 4",  
 "image": "https://www.seirsanduk.com/images/tvlogo/bnt-4.png",  
-"url": "https://www.seirsanduk.com/bnt-4-online",
+"url": "http://www.seirsanduk.us/bnt-4-online",
 "referer": "https://www.seirsanduk.com/",
 "playInNatPlayer": "true"
 },
