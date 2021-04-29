@@ -7,16 +7,16 @@
  
  
 {
-        "name": "muse-mix-tv",
+        "name": "Lung Hans TV",
         "image": "https://www.lineballsod.com/images/main-logo.png",
         "URL": "https://www.lineballsod.com/",
         "stations": [
 
 
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Fox Sports Live",  
+"image": "https://i.ytimg.com/vi/NIIYTjnP5pE/maxresdefault.jpg",  
+"url": "https://www.lacasadeltikitakatv.net/fox-deportes-en-vivo.php",
 "referer": "http://goal88live.com/live-1360-link1.html",
 "playInNatPlayer": "true"
 },
