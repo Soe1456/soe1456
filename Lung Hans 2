@@ -323,39 +323,39 @@ http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8
 #http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://www.ok-dessau.de/fileadmin/okdessau/images/startseite/20_JahreMeBue.jpg" ,Offener Kanal Dessau
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
-
+#EXTINF:-1 group-title="Germany" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlbWon2G1ziGMDQXLmKxpP8kV7faL4socNeWytxrx1CA5ucGl7PR-liiAu94NWGvBRe7w&usqp=CAU" ,pearl.tv
+http://enstyle.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/parlamentsfernsehen2_de.png" ,Parlamentsfernsehen 2
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+#https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
 
 
 #EXTINF:-1 group-title="Germany" tvg-logo="" ,
 
 #EXTINF:-1 group-title="Germany" tvg-logo="" ,
 
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+EXTINF:-1 group-title="Germany" tvg-logo="" ,
 
 #EXTINF:-1 group-title="Germany" tvg-logo="" ,
 
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+EXTINF:-1 group-title="Germany" tvg-logo="" ,
 
+#EXTINF:-1 group-title="Radio-station" tvg-logo="" ,
 
+#EXTINF:-1 group-title="Radio-station" tvg-logo="" ,
 
+#EXTINF:-1 group-title="Radio-station" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Radio-station" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Radio-station" tvg-logo="https://i.imgur.com/ubEUBmB.png" ,Radio 21 TV
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
 
 #EXTINF:-1 ,
-http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
-#EXTINF:-1 ,OK-Stendal
-http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 ,Okto
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
-#EXTINF:-1 ,Parlamentsfernsehen 1
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" ,Parlamentsfernsehen 2
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
-#EXTINF:-1 ,Parlamentsfernsehen 2
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
-#EXTINF:-1 ,pearl.tv
-http://enstyle.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/ubEUBmB.png" ,Radio 21 TV
-https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" ,
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/9pvCYaA.png" ,Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUP8ZBb.png" ,RAN1 Regionalfernsehen
@@ -671,6 +671,9 @@ https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 
 
 #=============================================================================="Radio-station"==========================================================================#
+
+
+
 
 #EXTINF:-1 group-title="Radio-station" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1280px-Logo_SRF_1.svg.png",Radio SRF 1
 http://stream.srg-ssr.ch/m/drs1/mp3_128
