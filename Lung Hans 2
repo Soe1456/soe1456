@@ -298,25 +298,25 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 #http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 #http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-logo="https://i.imgur.com/UMaAaCW.png" ,NDR Fernsehen
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/UMaAaCW.png" ,NDR Fernsehen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+
+
+
 #EXTINF:-1 ,NDR Hamburg
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+
 #EXTINF:-1 ,NDR Mecklenburg-Vorpommern
 https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
 #EXTINF:-1 ,NDR Schleswig-Holstein
