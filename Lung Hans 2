@@ -236,21 +236,19 @@ http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 
 
 
-#=============================================================================="Augsburg TV DE"==========================================================================================#
+#=============================================================================="Germany"==========================================================================================#
 
 
-#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-logo="https://i.imgur.com/tupATym.png" ,a.tv
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/tupATym.png" ,a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="Anixe HD" tvg-logo="https://bit.ly/36NAZA1" ,Anixe HD
+#EXTINF:-1 group-title="Germany" tvg-logo="https://bit.ly/36NAZA1" ,Anixe HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-logo="https://i.imgur.com/7wABSuo.png" ,ARD HD
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/7wABSuo.png" ,ARD HD
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" ,ARD HD
-https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
-#EXTINF:-1 ,Baden TV
+#https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
+#EXTINF:-1 , group-title="Germany" tvg-logo="https://lh3.googleusercontent.com/9JZYrH54AEBf4mHNYqg-fVLF7tswxk6TGxdL-8_1NbiMAk_hPwf_9E0eL3TU3NgW3DA" ,Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 ,Baden TV
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" ,BLK TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
 #EXTINF:-1 ,BR FERNSEHEN
