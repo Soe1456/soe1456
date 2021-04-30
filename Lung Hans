@@ -28,9 +28,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "KABEL 1",  
+"image": "https://www.ecanlitvizle.live/logo/kabel-1-live-stream-tv.png",  
+"url": "https://ecanlitv1.etvserver.com/live_sd/dekabel1/chunks.m3u8?nimblesessionid=218928382&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDIxIDM6MDk6MzYgUE0maGFzaF92YWx1ZT00QWJwKzI2OWhuYTZiQUlCdjA0MjJnPT0mdmFsaWRtaW51dGVzPTEw",
 "referer": "",
 "playInNatPlayer": "true"
 },
