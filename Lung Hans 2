@@ -251,10 +251,10 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" ,BLK TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1 group-title="Germany" tvg-logo="http://images.live-stream.tv/picons/br.png" ,BR Fernsehen Germany
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/BR_Fernsehen_HD_Logo_2016.png" ,BR Fernsehen Germany
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
 #https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 group-title="Germany" tvg-logo="http://images.live-stream.tv/picons/br.png" ,BR Fernsehen Nord
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/BR_Fernsehen_HD_Logo_2016.png" ,BR Fernsehen Nord
 http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
 #https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://www.pngkey.com/png/detail/513-5138747_campus-tv.png" ,Campus TV Magdeburg
