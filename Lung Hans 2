@@ -328,36 +328,37 @@ http://enstyle.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/parlamentsfernsehen2_de.png" ,Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 #https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
-
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Radio-station" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Radio-station" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Radio-station" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Radio-station" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Radio-station" tvg-logo="https://i.imgur.com/ubEUBmB.png" ,Radio 21 TV
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/9pvCYaA.png" ,Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/ubEUBmB.png" ,Radio 21 TV
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
 
-#EXTINF:-1 ,
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
 
-#EXTINF:-1 group-title="Music" tvg-logo="" ,
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/9pvCYaA.png" ,Radio Weser TV Bremen
-https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUP8ZBb.png" ,RAN1 Regionalfernsehen
 http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
 #EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="rheinmaintv" tvg-logo="https://i.imgur.com/G7W4K3K.png" ,Rheinmain TV
