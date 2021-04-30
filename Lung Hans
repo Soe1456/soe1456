@@ -21,9 +21,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Radio SRF 1",  
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1280px-Logo_SRF_1.svg.png",  
-"url": "http://stream.srg-ssr.ch/m/drs1/mp3_128",
+"name": "test",  
+"image": "",  
+"url": "https://app.plex.tv/desktop/#!/media/tv.plex.provider.epg?source=home",
 "referer": "",
 "playInNatPlayer": "true"
 },
