@@ -328,30 +328,25 @@ https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playl
 
 #EXTINF:-1 group-title="Germany" tvg-logo="" ,
 
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-
-
-
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,Offener Kanal Dessau
+#EXTINF:-1 group-title="Germany" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s45460c701f3b48f0/image/i1768fd928d024c8a/version/1502959867/image.png" ,Offener Kanal Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://www.geinsheim-pfalz.de/images/Logo_OK_NW.jpg" ,OK_NW-magdeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8
+#http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://www.ok-dessau.de/fileadmin/okdessau/images/startseite/20_JahreMeBue.jpg" ,Offener Kanal Dessau
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" ,Offener Kanal Dessau
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHTsPMP.png" ,Offener Kanal Magdeburg
-http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8
+#EXTINF:-1 tvg-logo="" ,Offener Kanal Magdeburg
+
 #EXTINF:-1 ,Offener Kanal Magdeburg
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" ,Offener Kanal Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5obZtE.png" ,Offener Kanal Salzwedel
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8
+
 #EXTINF:-1 ,Offener Kanal Salzwedel
 http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
 #EXTINF:-1 ,OK-Stendal
