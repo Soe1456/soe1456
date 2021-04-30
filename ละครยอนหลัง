@@ -16,8 +16,8 @@
 "url":"http://www.9poto.com/category/drama/",
 "embed": "true"},
 
-{"name": "ละครช่อง-3","image":"https://www.ch3thailand.com/assets/images/Logo-CH3-v1.svg",  
-"url":"https://www.ch3thailand.com/%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%873",
+{"name": "Movie Update","image":"https://www.lakorntoday.com/wp-content/uploads/2020/11/lakornjaa.png",  
+"url":"https://www.lakorntoday.com/",
 "embed": "true"},
 
 {"name": "ละครช่อง-one-31","image":"https://www.one31.net/theme/images/logo-one31.png",  
@@ -34,6 +34,18 @@
 
 {"name": "Doo-Lakorn-Thai","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74BczYvxyf08KKe0W0fFWe3kPXUcIXC6dbs4uzC8yFw97peeGnkvhsx8_0viWI0AFAMk&usqp=CAU",  
 "url":"https://www.facebook.com/DooLakornTH/",
+"embed": "true"},
+
+{"name": "lakorn.asia","image":"https://www.lakorn.asia/app/themes/snail/images/logo.png",  
+"url":"https://www.lakorn.asia/",
+"embed": "true"},
+
+{"name": "pptvhd36","image":"https://www-live.pptvhd36.com/images/logo-pptvhd36-2019.svg?1619786258-cdn",  
+"url":"https://www.pptvhd36.com/",
+"embed": "true"},
+
+{"name": "","image":"",  
+"url":"",
 "embed": "true"},
 
 {"name": "","image":"",  
