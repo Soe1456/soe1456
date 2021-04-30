@@ -257,29 +257,37 @@ http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="http://images.live-stream.tv/picons/br.png" ,BR Fernsehen Nord
 http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
 #https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
-
-#EXTINF:-1 ,Campus TV Magdeburg
+#EXTINF:-1 group-title="Germany" tvg-logo="https://www.pngkey.com/png/detail/513-5138747_campus-tv.png" ,Campus TV Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,Campus TV Magdeburg
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 ,Chemnitz Fernsehen
+#http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 group-title="Germany" tvg-logo="https://www.kreatives-chemnitz.de/wp-content/uploads/2016/04/Logo_Chemnitz_Fernsehen.png" ,Chemnitz Fernsehen
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" ,Deutsche Welle
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/A1xzjOI.png" ,Deutsche Welle
 https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 ,Deutsche Welle
-https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
-#EXTINF:-1 ,Deutsche Welle
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" ,Deutsche Welle Arabic
-https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 ,Deutsche Welle English
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" ,Deutsche Welle English
+#https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
+#https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" ,Deutsche Welle English
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" ,Deutsche Welle Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="deutsches-musik-fernsehen" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" ,Deutsches Musik Fernsehen
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" ,Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv.m3u8
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+
+
+
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="deutsches-musik-fernsehen" tvg-logo="" ,
+
 #EXTINF:-1 ,dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 ,Dresden Fernsehen
