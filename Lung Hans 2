@@ -254,12 +254,10 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/pla
 #EXTINF:-1 group-title="Germany" tvg-logo="http://images.live-stream.tv/picons/br.png" ,BR Fernsehen Germany
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
 #https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="BR Fernsehen Nord DE" tvg-logo="http://images.live-stream.tv/picons/br.png" ,BR Fernsehen Nord
+#EXTINF:-1 group-title="Germany" tvg-logo="http://images.live-stream.tv/picons/br.png" ,BR Fernsehen Nord
 http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:-1 ,BR Fernsehen Nord HD
-https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
-#EXTINF:-1 ,BR Fernsehen Süd HD
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8
+#https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
+
 #EXTINF:-1 ,Campus TV Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,Campus TV Magdeburg
