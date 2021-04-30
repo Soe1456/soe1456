@@ -246,15 +246,14 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/7wABSuo.png" ,ARD HD
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 #https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
-#EXTINF:-1 , group-title="Germany" tvg-logo="https://lh3.googleusercontent.com/9JZYrH54AEBf4mHNYqg-fVLF7tswxk6TGxdL-8_1NbiMAk_hPwf_9E0eL3TU3NgW3DA" ,Baden TV
+#EXTINF:-1 group-title="Germany" tvg-logo="https://lh3.googleusercontent.com/9JZYrH54AEBf4mHNYqg-fVLF7tswxk6TGxdL-8_1NbiMAk_hPwf_9E0eL3TU3NgW3DA" ,Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" ,BLK TV
+#EXTINF:-1 group-title="Germany" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" ,BLK TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1 ,BR FERNSEHEN
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-logo="http://images.live-stream.tv/picons/br.png" ,BR Fernsehen Germany
+#EXTINF:-1 group-title="Germany" tvg-logo="http://images.live-stream.tv/picons/br.png" ,BR Fernsehen Germany
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
 #EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="BR Fernsehen Nord DE" tvg-logo="http://images.live-stream.tv/picons/br.png" ,BR Fernsehen Nord
 http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
 #EXTINF:-1 ,BR Fernsehen Nord HD
