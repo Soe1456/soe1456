@@ -369,7 +369,7 @@ https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" ,
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kn1DHZq.gif" ,Santhora TV
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sonnenklar.de" tvg-name="Sonnenklar.TV" tvg-logo="https://i.imgur.com/piwT1HQ.jpg" ,Sonnenklar.TV
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mrj4D9n.png" ,Sonus FM
@@ -648,9 +648,10 @@ https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #=============================================================================="music-videos"==========================================================================#
 
-#EXTINF:-1 group-title="Swiss" tvg-logo="http://www.tamil.de/wp-content/uploads/2017/12/Bildschirmfoto-2017-12-20-um-11.18.17.png",Santhora TV
+#EXTINF:-1 group-title="music-videos" tvg-logo="http://www.tamil.de/wp-content/uploads/2017/12/Bildschirmfoto-2017-12-20-um-11.18.17.png",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/jxY0QSw.png",80s Loop
+#http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 group-title="music-videos" tvg-logo="https://i.imgur.com/jxY0QSw.png",80s Loop
 https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="music-videos" tvg-logo="https://i1.wp.com/www.88stereo.com/wp-content/uploads/2020/06/ESPACIO-DISPONIBLE.jpg?fit=300%2C250",88 Stereo (486p)
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
