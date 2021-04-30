@@ -278,59 +278,38 @@ https://stream.openplayout.org/hls/dorf_high/index.m3u8
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/IKslrJu.png" ,ELBEKANAL
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-
-
-
-
-#EXTINF:-1 ,ERF 1
-http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/playlist.m3u8
-#EXTINF:-1 ,EWTN katholisches TV
-https://d3j0n5al39mfyd.cloudfront.net/p/GERG.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/19iKLvf.png" ,Filstalwelle
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/19iKLvf.png" ,Filstalwelle
 http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ecrl44R.png" ,Halle
-http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
-#EXTINF:-1 ,health.tv
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:-1 ,HR
-http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-logo="https://i.imgur.com/azkp7mB.jpg" ,HR Fernsehen
-https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-logo="https://i.imgur.com/azkp7mB.jpg" ,HR Fernsehen
-https://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-logo="https://i.imgur.com/azkp7mB.jpg" ,HR HD
-http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24" tvg-logo="https://i.imgur.com/fnW0Pk8.jpg" ,HSE 24
-https://edge-1192-ch-gv.filmon.com/live/4727.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W3bzWe2.jpg" ,HSE 24 Extra
-https://edge-1192-ch-gv.filmon.com/live/4730.high.stream/playlist.m3u8
-#EXTINF:-1 ,HSE24
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ERF_1_Logo.svg/1200px-ERF_1_Logo.svg.png" ,ERF 1
+http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://www.cinegy.com/images/case-studies/HSE24_Logo.png" ,HSE24
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:-1 ,Isar TV
-https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1 ,K-TV
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 ,Leipzig Fernsehen
+#EXTINF:-1 group-title="Germany" tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/healthtvlogo-655440_1.jpg?itok=8tCQlBfv" ,
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://iconape.com/wp-content/files/bq/200703/png/200703.png" ,Halle
+http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://www.sachsen-fernsehen.de/wp-content/themes/sachsen/assets/img/leipzig-eins-logo.png" ,Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://catholicsat.files.wordpress.com/2011/11/peanutbecker-k-tv-logo-ab-12-10-2011.png" ,K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qskVMhF.png" ,Light Channel
 http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEeqryT.png" ,MDF 1
