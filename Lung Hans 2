@@ -328,10 +328,6 @@ http://enstyle.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/parlamentsfernsehen2_de.png" ,Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 #https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
-#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/9pvCYaA.png" ,Radio Weser TV Bremen
-https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/ubEUBmB.png" ,Radio 21 TV
-https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/G7W4K3K.png" ,Rheinmain TV
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/NUP8ZBb.png" ,RAN1 Regionalfernsehen
@@ -342,48 +338,37 @@ https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3
 https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/rnf655440_2.jpg?itok=vLASv9qw" ,RNF
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-#EXTINF:-1 group-title="Germany" tvg-logo="" ,
-
-
-
-
-#EXTINF:-1 tvg-logo="" ,
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kn1DHZq.gif" ,Santhora TV
-
-#EXTINF:-1 tvg-id="Sonnenklar.de" tvg-name="Sonnenklar.TV" tvg-logo="https://i.imgur.com/piwT1HQ.jpg" ,Sonnenklar.TV
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mrj4D9n.png" ,Sonus FM
-http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G1mgVMD.png" ,Sophia TV
-https://edge-1192-ch-gv.filmon.com/live/4721.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/jyMedaF.png" ,Sophia TV
-https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-logo="https://i.imgur.com/GJApWEn.png" ,Sport 1
-https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen" ,SR Fernsehen HD
-http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" ,tagesschau 24
+#EXTINF:-1 group-title="Germany" tvg-logo="https://trendblog.euronics.de/wp-content/uploads/2012/05/Tagesschau24-Logo-300x89.jpg" ,tagesschau 24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/9pvCYaA.png" ,Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/ubEUBmB.png" ,Radio 21 TV
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+#EXTINF:-1 group-title="Germany" tvg-logo="" ,
+
+
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/jyMedaF.png" ,Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/piwT1HQ.jpg" ,Sonnenklar.TV
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+
+
+
+
 #EXTINF:-1 ,Telebasel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="http://www.portmann-media.com/wp-content/uploads/2015/06/telebasel.png" ,Telebasel
