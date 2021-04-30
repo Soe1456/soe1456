@@ -21,9 +21,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "test",  
-"image": "",  
-"url": "https://www.pptvhd36.com/live",
+"name": "ZDF Live",  
+"image": "https://www.ecanlitvizle.live/logo/zdf-live-stream-tv.png",  
+"url": "https://ecanlitv2.etvserver.com/live_sd/dezdf/chunks.m3u8?nimblesessionid=321909618&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDIxIDM6MDc6MDIgUE0maGFzaF92YWx1ZT0zajl4TXJ0RlIrNm1XM2xqM1VuanFBPT0mdmFsaWRtaW51dGVzPTEw",
 "referer": "",
 "playInNatPlayer": "true"
 },
