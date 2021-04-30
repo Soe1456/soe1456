@@ -1,7 +1,7 @@
 {
        "name": "🎥ละครยอนหลัง🎞️",
        "author": "MUSE",
-       "url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/Lung%20Hans",
+       "url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%A2%E0%B8%AD%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87",
        "image": "https://img3.androidappsapk.co/MKmavQfKbJTDWvLqD77pCo-4n8zZs8_ckdPIApw9U9iVKkoAhRHL9iIxSSFyQmnYTw=s300",
        "groups": [
  
@@ -16,8 +16,24 @@
 "url":"http://www.9poto.com/category/drama/",
 "embed": "true"},
 
-{"name": "","image":"",  
-"url":"",
+{"name": "ละครช่อง-3","image":"https://www.ch3thailand.com/assets/images/Logo-CH3-v1.svg",  
+"url":"https://www.ch3thailand.com/%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%873",
+"embed": "true"},
+
+{"name": "ละครช่อง-one-31","image":"https://www.one31.net/theme/images/logo-one31.png",  
+"url":"https://www.one31.net/shows/drama",
+"embed": "true"},
+
+{"name": "ดูละครย้อนหลัง-ช่อง-7HD-เพิ่มเติม","image":"https://static.bugaboo.tv/images/theme2021/bugaboo2021-logo.svg",  
+"url":"https://www.bugaboo.tv/categories",
+"embed": "true"},
+
+{"name": "doo-ละครยอนหลัง","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC6MCVnXYgQYCdS5vC8fDFF78wUh8Jew3XAQ&usqp=CAU",  
+"url":"https://www.watchlakorn.in/%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3-channel-2",
+"embed": "true"},
+
+{"name": "Doo-Lakorn-Thai","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74BczYvxyf08KKe0W0fFWe3kPXUcIXC6dbs4uzC8yFw97peeGnkvhsx8_0viWI0AFAMk&usqp=CAU",  
+"url":"https://www.facebook.com/DooLakornTH/",
 "embed": "true"},
 
 {"name": "","image":"",  
@@ -27,6 +43,7 @@
 {"name": "","image":"",  
 "url":"",
 "embed": "true"},
+
 
 
 ]
