@@ -104,12 +104,32 @@
 			"image": "",
 			"stations":[
 {
-"name": "canal/1",  
-"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Canal_UNO_Logo_2013.jpg",  
-"url": "https://www.unacanita.com/canal/1",
-"referer": "https://www.unacanita.com/",
+"name": "True Premier HD 1-1",  
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",  
+"url": "https://www.chomfootball.com/livechannel/epl-1/4073",
+"referer": "https://www.chomfootball.com/",
 "playInNatPlayer": "true"
 },
+{
+"name": "True Premier HD 1-2",  
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",  
+"url": "https://www.moviemocha.com/?r=tv_view&id=151",
+"referer": "https://www.chomfootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Premier HD 1-3",  
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",  
+"url": "https://ball8k.com/m_/channel.ball8k?stream=epl1",
+"referer": "https://www.chomfootball.com/",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
 {
 "name": "tnt sports brasil",  
 "image": "https://lh3.googleusercontent.com/proxy/4wIaX9mdlvMZThTUzvvM097JC8dl9wL06sG2A2KxEnEnqdkTD8KoedTq4c2oc-uEyivM5BAyLMiucvndzcsMNKMXTpR8SaGGXjseGp7WrmA9jGYO-zpZ2Pbt52i3uyga4dCQukFM0A",  
