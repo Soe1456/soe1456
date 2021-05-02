@@ -24,13 +24,31 @@
 "url":"https://cheerball.com/clips",
 "embed": "true"},
 
-{"name": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwvBtGZBalMDrWv-HCL8ilGfIBlKdC-5W02dBSrB8lp9t6kvnolokdCMEGSJUx2IphZNM&usqp=CAU",  
+{"name": "javafooty","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwvBtGZBalMDrWv-HCL8ilGfIBlKdC-5W02dBSrB8lp9t6kvnolokdCMEGSJUx2IphZNM&usqp=CAU",  
 "url":"https://www.javafooty.com/mainjv1-destacados-de-futbol",
 "embed": "true"},
 
 {"name": "Highlights & Full Match","image":"https://hdmatches.net/wp-content/uploads/2020/12/logo-hdmatches.png",  
 "url":"https://hdmatches.net/",
 "embed": "true"},
+
+{"name": "sport-tv-guide.live","image":"https://img.sport-tv-guide.live/images/sport-tv-guide-head-beta.png",  
+"url":"https://sport-tv-guide.live/",
+"embed": "true"},
+
+{"name": "sporteventz","image":"https://www.sporteventz.com/media/SE_logo.svg",  
+"url":"https://www.sporteventz.com/en/",
+"embed": "true"},
+
+{"name": "","image":"",  
+"url":"",
+"embed": "true"},
+
+{"name": "","image":"",  
+"url":"",
+"embed": "true"},
+
+
 
 ]
         },
