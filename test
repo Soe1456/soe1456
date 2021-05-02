@@ -24,7 +24,7 @@
 "url":"https://cheerball.com/clips",
 "embed": "true"},
 
-{"name": "javafooty","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwvBtGZBalMDrWv-HCL8ilGfIBlKdC-5W02dBSrB8lp9t6kvnolokdCMEGSJUx2IphZNM&usqp=CAU",  
+{"name": "javafooty","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwvBtGZBalMDrWv-HCL8ilGfIBlKdC-5W02dBSrB8lp9t6kvnolokdCMEGSJUx2IphZNM&usqp=CAU",  
 "url":"https://www.javafooty.com/mainjv1-destacados-de-futbol",
 "embed": "true"},
 
@@ -32,7 +32,7 @@
 "url":"https://hdmatches.net/",
 "embed": "true"},
 
-{"name": "sport-tv-guide.live","image":"https://img.sport-tv-guide.live/images/sport-tv-guide-head-beta.png",  
+{"name": "sport-tv-guide-live","image":"https://img.sport-tv-guide.live/images/sport-tv-guide-head-beta.png",  
 "url":"https://sport-tv-guide.live/",
 "embed": "true"},
 
