@@ -113,15 +113,15 @@
 {
 "name": "True Premier HD 1-2",  
 "image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",  
-"url": "https://www.moviemocha.com/?r=tv_view&id=151",
-"referer": "https://www.chomfootball.com/",
+"url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
+"referer": "https://www.moviemocha.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "True Premier HD 1-3",  
 "image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",  
 "url": "https://ball8k.com/m_/channel.ball8k?stream=epl1",
-"referer": "https://www.chomfootball.com/",
+"referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 
