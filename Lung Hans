@@ -28,90 +28,117 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "REAL MADRID",  
+"name": "REAL MADRID TV",  
 "image": "https://i.gifer.com/BkGA.gif",  
 "url": "https://megawypas.com/readarticle.php?article_id=501",
-"referer": "",
+"referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "love nature",  
 "image": "https://tvplusweb.tcellcdn.net/storage/tv/BmzRN6dtjweILzV97UyaFDQKQ5wwtDec2NBwOlld.png",  
 "url": "https://megawypas.com/readarticle.php?article_id=579",
-"referer": "",
+"referer": "https://megawypas.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "bayern munich tv",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bayer.gif",  
+"url": "https://megawypas.com/readarticle.php?article_id=581",
+"referer": "https://megawypas.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "tennis channel",  
+"image": "https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png",  
+"url": "https://megawypas.com/readarticle.php?article_id=556",
+"referer": "https://megawypas.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "stadium tv",  
+"image": "https://yt3.ggpht.com/ytc/AAUvwngXOYBfqhgt2nt6Nydv-d3JalXIdNAnDCGNEGpONA=s900-c-k-c0x00ffffff-no-rj",  
+"url": "https://megawypas.com/readarticle.php?article_id=569",
+"referer": "https://megawypas.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Deejay tv",  
+"image": "https://i.pinimg.com/280x280_RS/02/e6/c8/02e6c8e2d2e5da0d7faf325cc554cc38.jpg",  
+"url": "https://megawypas.com/readarticle.php?article_id=80",
+"referer": "https://megawypas.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Qmusic tv",  
+"image": "https://d1hbpr09pwz0sk.cloudfront.net/logo_url/q-music-ed3abe7c",  
+"url": "https://megawypas.com/readarticle.php?article_id=526",
+"referer": "https://megawypas.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Spirit tv",  
+"image": "https://lh3.googleusercontent.com/QdaAfD3AQmBCJ81_I_HhYp8gpbJ50eWv0-ytZtZ4ueWsaGOMwooyLn5nOc1tKVF5tZU",  
+"url": "https://megawypas.com/readarticle.php?article_id=459",
+"referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-
 
 
 
