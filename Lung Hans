@@ -22,9 +22,16 @@
 },
 {
 "name":  "ESPN",  
-"image": "https://thejewishnews.com/wp-content/uploads/2018/06/ESPN_logos.png",  
+"image": "https://a.espncdn.com/espnAppLP/us_en/images/1-appicon.png",  
 "url": "https://megawypas.com/readarticle.php?article_id=141",
 "referer": "https://megawypas.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "REAL MADRID",  
+"image": "https://i.gifer.com/BkGA.gif",  
+"url": "https://megawypas.com/readarticle.php?article_id=501",
+"referer": "",
 "playInNatPlayer": "true"
 },
 {
@@ -35,9 +42,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "test",  
+"name": "",  
 "image": "",  
-"url": "https://bingsport.com/live-sport/lazio-vs-genoa-22771.html",
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
 "referer": "",
 "playInNatPlayer": "true"
 },
@@ -55,10 +69,48 @@
 "referer": "",
 "playInNatPlayer": "true"
 },
-
-
-
-
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
 
 
 
