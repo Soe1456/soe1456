@@ -532,13 +532,20 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "TV SPORT PL",  
-"image": "https://static-cdn.jtvnw.net/jtv_user_pictures/08d19327-2a7d-483f-afd0-46ef7144875e-profile_image-300x300.png",  
+"name": "euro sport 1",  
+"image": "https://img2.thaipng.com/20180419/jee/kisspng-eurosport-2-logo-television-hd-popcorn-22-0-1-5ad83506b5cc28.8518940615241187907447.jpg",  
 "url": "https://tvinternetowa.info/tv-sport-pl/",
 "referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
 {
+"name": "ESPN",  
+"image": "",  
+"url": "http://123tv.live/watch/espn-20201106/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
 "name": "",  
 "image": "",  
 "url": "",
@@ -552,6 +559,30 @@
 "referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+
+
+
 
 
 ]
