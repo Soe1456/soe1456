@@ -595,9 +595,30 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "bein sport n",  
+"image": "https://img.sport-tv-guide.live/images/tv-station-bein-sports-n-85.png",  
+"url": "https://playback2.akamaized.net/streams/27856896_8563077_lsi17geebzm1q6z11si_1/master.m3u8?dw=80&hdnts=exp=1620373628~acl=/streams/27856896_8563077_lsi17geebzm1q6z11si_1/master.m3u8*~hmac=1fd90e222f409bae751ef0fbe2f8fe44a98a3de47dc4f3ad1a46bcdf8a53f1bc",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "bein sport xtra",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbvCPZWvebbER-hd8FoKJTB6FT5P2KRCnBcFpoqWBPR0cqDZIBa9HNcYQBgIk6zVW7zRo&usqp=CAU",  
+"url": "https://photocall.tv/f2qg/l1?ch=b_xtra",
+"referer": "https://photocall.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "bein sport connect 4",  
+"image": "https://data.apksum.com/ca/ptv.bein.ui/5.6.1/icon.png",  
+"url": "https://playback2.akamaized.net/streams/28255177_8584068_lsidjojavvd2staikky_1/master.m3u8?dw=80&hdnts=exp=1620374881~acl=/streams/28255177_8584068_lsidjojavvd2staikky_1/master.m3u8*~hmac=d7d6d08333e0803f68a04333e111bb4b72058f159fadefdb6b95e0cab69820b7",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "bein sport connect 5",  
+"image": "https://data.apksum.com/ce/ptv.bein.mena/9.5.2/icon.png",  
+"url": "https://playback2.akamaized.net/streams/28255187_8584069_lsiapty33l06x8wkrsp_1/master.m3u8?dw=80&hdnts=exp=1620375047~acl=/streams/28255187_8584069_lsiapty33l06x8wkrsp_1/master.m3u8*~hmac=64d12921dba3b5a7e4263968c5ac6ba9ddca5a146c52bca1d0d51bb2f00dcd5c",
 "referer": "",
 "playInNatPlayer": "true"
 },
@@ -643,7 +664,27 @@
 "referer": "",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
 
 
 
