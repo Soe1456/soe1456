@@ -308,6 +308,104 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "ESPNews",  
+"image": "https://cdn.technadu.com/wp-content/uploads/2018/08/ESPNEWS-696x392.png",  
+"url": "https://ustvgo.tv/espnews/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Food Network",  
+"image": "https://lh3.googleusercontent.com/MSQOlnHLM7Qh3Va21bvV2Wa0KcVci3cxrkbhBqq5PV0elR7DU_fzK8GyNgDwy_8-9Hgo",  
+"url": "https://ustvgo.tv/food-network-live-free/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX",  
+"image": "https://img.favpng.com/24/16/2/fox-news-television-show-live-television-png-favpng-eKNMQkh8xX9i4kSSQsSvTbR0s_t.jpg",  
+"url": "https://ustvgo.tv/fox-hd-live-streaming/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 2",  
+"image": "https://pbs.twimg.com/profile_images/1016618545164234752/ED1LFQlz.jpg",  
+"url": "https://ustvgo.tv/fox-sports-2/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FX",  
+"image": "https://p.kindpng.com/picc/s/794-7944638_titanic-fx-logo-clipart-png-download-transparent-png.png",  
+"url": "https://ustvgo.tv/fx-channel-live/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FXM",  
+"image": "https://static.wikia.nocookie.net/create-logopedia/images/5/51/FXM_POP_Movie_Channel_Logo.png/revision/latest?cb=20150323010550",  
+"url": "https://ustvgo.tv/fxm/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FXX",  
+"image": "https://static.wikia.nocookie.net/fictionaltvstations/images/3/31/FXX_Deutschland.png/revision/latest?cb=20200525182149",  
+"url": "https://ustvgo.tv/fxx/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "HGTV",  
+"image": "https://www.nicepng.com/png/detail/240-2403845_hgtv-logo.png",  
+"url": "https://ustvgo.tv/hgtv-live-streaming-free/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hallmark Movies & Mysteries",  
+"image": "https://cdn.blog.bendbroadband.com/wp-content/uploads/sites/3/2016/07/HMM_logo_black.jpg",  
+"url": "https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Lifetime",  
+"image": "https://cdn.freebiesupply.com/logos/large/2x/lifetime-2-logo-png-transparent.png",  
+"url": "https://ustvgo.tv/lifetime-channel-live/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Lifetime Movies",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lifetime_Movies_logo.jpeg",  
+"url": "https://ustvgo.tv/lifetime-movies/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "MLB Network",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk2dsEtRggEf1oNiN8TKEYGxlaINx94CFdyU1ZHQJEb0ZVsD27lVRo2UG9m2CCHC4lTA8&usqp=CAU",  
+"url": "https://ustvgo.tv/mlb-network/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "MotorTrend",  
+"image": "https://garagespot.com/wp-content/uploads/2016/05/motor-trend-on-demand.png",  
+"url": "https://ustvgo.tv/motortrend/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "MSNBC Live Streaming Free",  
+"image": "https://freetvonline.live/wp-content/uploads/2018/12/msnbc-live-min.jpg",  
+"url": "https://ustvgo.tv/msnbc/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
 "name": "",  
 "image": "",  
 "url": "",
@@ -321,10 +419,76 @@
 "referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
-
-
-
-
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
 
 
 
