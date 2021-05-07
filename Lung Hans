@@ -589,36 +589,92 @@
 },
 {
 "name": "espn",  
-"image": "https://assets.beinsports.com/3.2.8/images/logo-header__en.svg",  
+"image": "https://thejewishnews.com/wp-content/uploads/2018/06/ESPN_logos.png",  
 "url": "http://freestreams-live1.com/espn-live2/",
 "referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "bein sport n",  
-"image": "https://img.sport-tv-guide.live/images/tv-station-bein-sports-n-85.png",  
-"url": "https://photocall.tv/f2qg/ey_f?ch=b_n",
+"name": "sky sport Serie A",  
+"image": "https://sport-tv-guide.live/images/stations/a358.png",  
+"url": "http://freestreams-live1.com/sky-supercalcioit/",
 "referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "bein sport xtra",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbvCPZWvebbER-hd8FoKJTB6FT5P2KRCnBcFpoqWBPR0cqDZIBa9HNcYQBgIk6zVW7zRo&usqp=CAU",  
-"url": "https://photocall.tv/f2qg/l1?ch=b_xtra",
+"name": "sky sport Uno",  
+"image": "https://sport-tv-guide.live/images/tv-station-sky-sport-uno-353.png",  
+"url": "http://freestreams-live1.com/skysprtuunoita/",
 "referer": "https://photocall.tv/",
 "playInNatPlayer": "true"
 },
 {
-"name": "bein sport connect 4",  
-"image": "https://data.apksum.com/ca/ptv.bein.ui/5.6.1/icon.png",  
-"url": "https://photocall.tv/f2qg/ey_f?ch=b_connect_4",
+"name": "sky sport football Italia",  
+"image": "https://img.sport-tv-guide.live/images/tv-station-sky-sport-football-355.png",  
+"url": "http://freestreams-live1.com/sky-sport-2-italiaz/",
 "referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "bein sport connect 5",  
-"image": "https://data.apksum.com/ce/ptv.bein.mena/9.5.2/icon.png",  
-"url": "https://playback2.akamaized.net/streams/28255187_8584069_lsiapty33l06x8wkrsp_1/master.m3u8?dw=80&hdnts=exp=1620375047~acl=/streams/28255187_8584069_lsiapty33l06x8wkrsp_1/master.m3u8*~hmac=64d12921dba3b5a7e4263968c5ac6ba9ddca5a146c52bca1d0d51bb2f00dcd5c",
+"name": "sky-sport-2",  
+"image": "https://img.17qq.com/images/nmlmmgdcocv.jpeg",  
+"url": "http://freestreams-live1.com/sky-sport-2-2/",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
 "referer": "",
 "playInNatPlayer": "true"
 },
@@ -685,7 +741,13 @@
 "referer": "",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
 
 
 
