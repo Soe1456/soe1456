@@ -560,24 +560,87 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Sport tv 1",  
+"image": "https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png",  
+"url": "https://arenavision.site/a772d7ftuvdf/8792g29/8fyvhg9/stx/677g8hb9g/8b/arenavision-1",
 "referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sport tv 2",  
+"image": "https://tv24hd.com/wp-content/uploads/2019/05/SPORTTV2.png",  
+"url": "https://arenavision.site/a772d7ftuvdf/8792g29/8fyvhg9/stx/677g8hb9g/8b/arenavision-3",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sport tv 3",  
+"image": "https://i.pinimg.com/originals/9f/82/f0/9f82f0a2a590bf589bb97c5c03588ac5.png",  
+"url": "https://arenavision.site/a772d7ftuvdf/8792g29/8fyvhg9/stx/677g8hb9g/8b/arenavision-5",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "bein sport laliga",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEcWp9V1jtqFLTLkdMiQUbo56y7lVqfBkt_H8fGIQfQrX_CHPcCrVy_bCpcnId3EsiqcE&usqp=CAU",  
+"url": "https://playback2.akamaized.net/streams/28255175_8584065_lsix9dj3eclxu1dey4t_1/master.m3u8?dw=80&hdnts=exp=1620372913~acl=/streams/28255175_8584065_lsix9dj3eclxu1dey4t_1/master.m3u8*~hmac=7de4ebb89a7dc50c761392b91e83d45ffbf451307cea8d8cd48be2590c3ce2c9",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "beinsports",  
+"image": "https://assets.beinsports.com/3.2.8/images/logo-header__en.svg",  
+"url": "https://playback2.akamaized.net/streams/27856921_8478493_lsib7fqtl71715q5fep_1/master.m3u8?dw=80&hdnts=exp=1620373285~acl=/streams/27856921_8478493_lsib7fqtl71715q5fep_1/master.m3u8*~hmac=0e8a4bd492c56ce80a17f64f20989bc0e4f8529aaac946643efb750414dd02a9",
+"referer": "",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "https://ustvgo.tv/",
+"referer": "",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "https://ustvgo.tv/",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
 "playInNatPlayer": "true"
 },
 
