@@ -168,30 +168,30 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "ABC",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1lQ3CYLjHnkmvKeaxt01BtYDc_DvYNPK0gZecVdzRPOkvlhP3LOu1zcGul1yPpzgQ9oY&usqp=CAU",  
+"url": "https://ustvgo.tv/abc-live-streaming-free/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "AMC",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKRRirEwvcPVOGs-sEl28RZ3ko7T2flh7_f8hoI1pwiBYWtgyKHNvq6R13K7dXvC4hMI&usqp=CAU",  
+"url": "https://ustvgo.tv/amc-live/",
 "referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Animal Planet",  
+"image": "https://deadline.com/wp-content/uploads/2018/10/animal-planet-logos-2.jpg",  
+"url": "https://ustvgo.tv/animal-planet-live/",
 "referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "https://megawypas.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
+"name": "BBC America",  
+"image": "https://britishtelly.files.wordpress.com/2015/06/bbc-america-logo.png",  
+"url": "https://ustvgo.tv/bbc-america-live/",
 "referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
 },
