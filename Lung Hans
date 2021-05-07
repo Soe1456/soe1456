@@ -630,9 +630,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
+"name": "test",  
 "image": "",  
-"url": "",
+"url": "https://livestreamapis.com/v3/accounts/27856896/events/8563077/master.m3u8?token=77448f353712867faa68178e4b45444a&clientId=18998&timestamp=1620382412714&signature=605c4756797d80000dfb2d167eacd10eb1344665878469345f6f0f646919b6784645efb8be6ae202483a5e528c3aaf06",
 "referer": "",
 "playInNatPlayer": "true"
 },
