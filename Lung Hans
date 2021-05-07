@@ -462,9 +462,72 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Starz",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Starz_Comedy_2016.svg/1280px-Starz_Comedy_2016.svg.png",  
+"url": "https://ustvgo.tv/starz-channel-live/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sundance TV",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Sundance_Channel_Logo.png",  
+"url": "https://ustvgo.tv/sundance-tv/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Syfy",  
+"image": "https://img2.thaipng.com/20180624/exp/kisspng-sci-fi-channel-syfy-universal-logo-television-nbcu-universal-logo-logo-5b2f88fbd28ac3.4581701015298419158624.jpg",  
+"url": "https://ustvgo.tv/syfy-channel-live/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TBS",  
+"image": "https://www.pikpng.com/pngl/m/218-2186546_tbs-logo-png-tbs-2015-clipart.png",  
+"url": "https://ustvgo.tv/tbs-channel-live-free/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Telemundo",  
+"image": "https://variety.com/wp-content/uploads/2014/03/telemundo-logo.jpg?w=1000",  
+"url": "https://ustvgo.tv/telemundo/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TruTV",  
+"image": "http://fsaentertainment.com/wp-content/uploads/2018/10/trutv.jpg",  
+"url": "https://ustvgo.tv/trutv/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TV Land",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TV_Land_Logo.svg/1280px-TV_Land_Logo.svg.png",  
+"url": "https://ustvgo.tv/tv-land-live-free/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "We TV",  
+"image": "https://img.favpng.com/25/16/5/television-show-we-tv-television-channel-infomercial-png-favpng-D7R6UH1McELxthkyEe44RL24x.jpg",  
+"url": "https://ustvgo.tv/we-tv/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "WWE Network",  
+"image": "https://www.denofgeek.com/wp-content/uploads/2014/01/wwenetworklogo.png?fit=2197%2C1463",  
+"url": "https://ustvgo.tv/wwe-network/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "YES Network",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png",  
+"url": "https://ustvgo.tv/yes-network/",
 "referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
@@ -489,11 +552,6 @@
 "referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
-
-
-
-
-
 
 
 ]
