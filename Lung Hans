@@ -127,7 +127,7 @@
 },
 {
 "name": "Hallmark Movies ",  
-"image": "https://lh3.googleusercontent.com/proxy/x61-ppyDL4HL-ZAOsKjZwIYw6fdNcoAAOou_aMXuB7jbtcDJWNUYsXzSkH-W2hXHL3Gx7VK5xPKEATAV8jhxR9vZLaQRgsx9yMjHReQYpPYNOlcX344",  
+"image": "https://www.jing.fm/clipimg/detail/206-2061720_hallmark-movie-channel-hd-hallmark-channel-hd-logo.png",  
 "url": "https://megawypas.com/readarticle.php?article_id=533",
 "referer": "https://megawypas.com/",
 "playInNatPlayer": "true"
@@ -185,42 +185,142 @@
 "name": "Animal Planet",  
 "image": "https://deadline.com/wp-content/uploads/2018/10/animal-planet-logos-2.jpg",  
 "url": "https://ustvgo.tv/animal-planet-live/",
-"referer": "https://megawypas.com/",
+"referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "BBC America",  
 "image": "https://britishtelly.files.wordpress.com/2015/06/bbc-america-logo.png",  
 "url": "https://ustvgo.tv/bbc-america-live/",
-"referer": "https://megawypas.com/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Big Ten Network",  
+"image": "https://www.sportsbusinessdaily.com/-/media/Images/Daily/2020/10/22/buzz-BIG.ashx?mw=405",  
+"url": "https://ustvgo.tv/big-ten-network/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bravo",  
+"image": "http://cobbk12art.weebly.com/uploads/1/8/5/4/18542490/3454466_orig.gif",  
+"url": "https://ustvgo.tv/bravo-channel-live-free/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "C-SPAN",  
+"image": "https://grafik.agency/wp-content/uploads/gmc-cspan-logo.gif",  
+"url": "https://ustvgo.tv/c-span/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CBS",  
+"image": "https://epgn.com/wp-content/uploads/2021/04/cbs-logo.jpeg",  
+"url": "https://ustvgo.tv/cbs-live-streaming-free/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CBS Sports Network",  
+"image": "https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/1797/147350-842402/db5d6d153e955793e8cd9089d7ab8c0a.jpg",  
+"url": "https://ustvgo.tv/cbs-sports-network/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cinemax",  
+"image": "https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png",  
+"url": "https://ustvgo.tv/cinemax/",
+"referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "https://megawypas.com/",
+"referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "https://megawypas.com/",
+"referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "https://megawypas.com/",
+"referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
-
-
-
-
-
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
 
 
 
