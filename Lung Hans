@@ -301,9 +301,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "ESPNU",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png",  
+"url": "https://ustvgo.tv/espnu/",
 "referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
