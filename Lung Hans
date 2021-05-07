@@ -591,41 +591,41 @@
 "name": "espn",  
 "image": "https://thejewishnews.com/wp-content/uploads/2018/06/ESPN_logos.png",  
 "url": "http://freestreams-live1.com/espn-live2/",
-"referer": "",
+"referer": "http://freestreams-live1.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "sky sport Serie A",  
 "image": "https://sport-tv-guide.live/images/stations/a358.png",  
 "url": "http://freestreams-live1.com/sky-supercalcioit/",
-"referer": "",
+"referer": "http://freestreams-live1.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "sky sport Uno",  
 "image": "https://sport-tv-guide.live/images/tv-station-sky-sport-uno-353.png",  
 "url": "http://freestreams-live1.com/skysprtuunoita/",
-"referer": "https://photocall.tv/",
+"referer": "http://freestreams-live1.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "sky sport football Italia",  
 "image": "https://img.sport-tv-guide.live/images/tv-station-sky-sport-football-355.png",  
 "url": "http://freestreams-live1.com/sky-sport-2-italiaz/",
-"referer": "",
+"referer": "http://freestreams-live1.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "sky-sport-2",  
 "image": "https://img.17qq.com/images/nmlmmgdcocv.jpeg",  
 "url": "http://freestreams-live1.com/sky-sport-2-2/",
-"referer": "",
+"referer": "http://freestreams-live1.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "espn-1",  
+"name": "tvc-sport",  
 "image": "",  
-"url": "https://futbollibre.net/en-vivo/espn-1/",
+"url": "https://futbollibre.net/en-vivo/tyc-sports/",
 "referer": "",
 "playInNatPlayer": "true"
 },
@@ -679,9 +679,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
+"name": "canal",  
 "image": "",  
-"url": "",
+"url": "https://www.unacanita.com/canal/25",
 "referer": "",
 "playInNatPlayer": "true"
 },
