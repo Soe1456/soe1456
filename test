@@ -58,23 +58,23 @@
         "groups":[
 	
 {"name": "musetvfree",
-	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+	"image": "https://i.gifer.com/7IoM.gif",
 	"url": "http://tiny.cc/musetvfree",
 	"import": false},
 
 
 {"name": "musetv",
-	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+	"image": "https://i.gifer.com/3M8S.gif",
 	"url": "http://tiny.cc/musetv",
 	"import": false},
 
 {"name": "musedoofootball",
-	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+	"image": "https://i.gifer.com/VVHc.gif",
 	"url": "http://tiny.cc/musedoofootball",
 	"import": false},
 	
 {"name": "musesports66",
-	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+	"image": "https://i.gifer.com/ZBO9.gif",
 	"url": "http://tiny.cc/musesports66",
 	"import": false},	
 	
@@ -86,6 +86,21 @@
 {"name": "Lunghans-tv",
 	"image": "https://imgc.androidappsapk.co/MLXIzzMnm7laqsNY_21tU5aGdtmTha1X3TrL8I3sMxtIQv1enrURU3tKq-JxnOrk3Ue-=s150",
 	"url": "http://tiny.cc/lunghans",
+	"import": false},
+
+{"name": "freenotemovie",
+	"image": "https://i.gifer.com/3PxB.gif",
+	"url": "http://tiny.cc/freenotemovie",
+	"import": false},
+
+{"name": "musemovies",
+	"image": "https://i.gifer.com/cED.gif",
+	"url": "http://tiny.cc/musemovies",
+	"import": false},
+
+{"name": "",
+	"image": "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+	"url": "",
 	"import": false},
 
 {"name": "",
