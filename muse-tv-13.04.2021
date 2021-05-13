@@ -14,6 +14,13 @@
 
 
 {
+"name": "fm99activeradio",  
+"image": "https://fm99activeradio.mcot.net/static/img/logofm99.png",  
+"url": "https://fm99activeradio.mcot.net/live",
+"referer": "https://fm99activeradio.mcot.net/",
+"playInNatPlayer": "true"
+},
+{
 "name": "TEST",  
 "image": "https://www.themoviedb.org/t/p/original/saCL8sBP5nCrjrvOsY0DzWC2KEw.jpg",  
 "url": "https://5ji.tv/play/28895-5-1.html",
