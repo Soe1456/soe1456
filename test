@@ -140,6 +140,20 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Premier Football HD 1",  
+"image": "https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl1.png",  
+"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/151/Premier-Football-HD-1-151/37937.html",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Premier Football HD 1",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch285.png",  
+"url": "https://www.lineballsod.com/doball/live-ch285/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "ziggosportselect",  
 "image": "https://ball8k.com/stream/img_ch/20210223025645_ziggosportselect.jpg",  
 "url": "https://www.unacanita.com/canal/87",
@@ -182,31 +196,142 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "BT SPORT 1",  
+"image": "https://i.pinimg.com/originals/91/c1/84/91c1846b6eb2203ffbdbd9589c6ea8e9.png",  
+"url": "https://www.canlifutbolaz.com/2018/01/kanal-47.html",
+"referer": "https://www.canlifutbolaz.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT Sport 1",  
+"image": "https://lh4.googleusercontent.com/-kquRdF4bUus/U4hIt67QjSI/AAAAAAAAA7Y/ZzL65I7wSfM/h120/1.jpg",  
+"url": "https://www.olweb.tv/bt-sport-1-hd",
+"referer": "https://www.olweb.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": " BT Sport 2",  
+"image": "https://lh4.googleusercontent.com/-5HS2FbSeTww/U4hIw3MIZ4I/AAAAAAAAA7g/0H6ieAnSg54/h120/b.jpg",  
+"url": "https://www.olweb.tv/bt-sport-2-hd",
+"referer": "https://www.olweb.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "btsport1",  
+"image": "https://www.lineballsod.com/chanel/icon/btsport1.png",  
+"url": "https://www.lineballsod.com/doball/live-ch21/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "btsport2",  
+"image": "https://www.lineballsod.com/chanel/icon/btsport2.png",  
+"url": "https://www.lineballsod.com/doball/live-ch22/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "btsport3",  
+"image": "https://www.lineballsod.com/chanel/icon/btsport3.png",  
+"url": "https://www.lineballsod.com/doball/live-ch23/",
+"referer": "https://zingsanam.com/index.php",
+"playInNatPlayer": "true"
+},
+{
+"name": "btsportespn",  
+"image": "https://www.lineballsod.com/chanel/icon/btsportespn.png",  
+"url": "https://www.lineballsod.com/doball/live-ch20/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "bein sport english",  
 "image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png",  
 "url": "https://daddylive.co/stream/ace18.php",
 "referer": "https://daddylive.co/stream/",
 "playInNatPlayer": "true"
 },
-
 {
-"name": "ESPN",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ykR6J8sQHXSbouSKR82Qh6LhhUQdc3OTZK9FhAKpbl5FsgaOVcTwB52N4-V48frY9jM&usqp=CAU",  
-"url": "https://c787898.com/embed.php?id=live3t",
+"name": "BEIN SPORT HD 1",  
+"image": "https://www.ดูหนังอิอิ.com/uploads/png/epl-bein1.png",  
+"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/18/BEIN-SPORT-HD-1-18/37821.html",
+"referer": "https://www.xn--72czp5emaz0ab6b.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beinsportarabia1",  
+"image": "https://doo2you.com/icon/beinsportarabia1.png",  
+"url": "https://www.canlifutbolaz.com/2021/04/fenerbahce-gaziantep-fk-canl-live.html",
+"referer": "https://www.canlifutbolaz.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beinsportarabia1",  
+"image": "https://doo2you.com/icon/beinsportarabia1.png",  
+"url": "https://www.canlifutbolaz.com/2018/01/bein-1-tr-link-4.html",
+"referer": "https://www.canlifutbolaz.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports 2 (AU)",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch300.png",  
+"url": "https://www.lineballsod.com/doball/live-ch300/",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "C-MORE",  
-"image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABklBMVEX///8AAAAGopSsHkcODg40sYUxsIaoADnwcR4ur4dGm9E2soI+Pj4eHh74phZGntMzMzMnJyc5OTlGlMwtLS0TExNGfrtGaKv3nxfEGk1CQkIbGxtGcrLyexzZGFP5rRX1kBn2mxjzghsSppDqJmSFybTjFVbhuMIjrIpGi8XOGVCzHUlGb7BKSkr0iRoaqY3wawAsnNWhoaHy8vJgYGBGe7lGYqZ5eXnf39+NjY35sS3Q0NCwADgsjsu1tbX1iQCyvdj2kAD73OXyfQCwMFOnADPV3etUVFSgrtCHh4e8JFG9vb1DV59TZqfjw8nf8e/zk19qamr96u/vhZ7dOmnUTXH827v5u3/2nTn1lEP4ton7383E5der28mIzLB4w7KRz8XD3O+jyOTeqbbSAD34vp2SnsbtUID70Z9hwZ0qSpu3TGfZqbX4sUr1pHhvtd+/xdvSj5/6vMvsAEr97uJZu6n0jkf6yYCr2dX6ujfcm6r7yXvFbILbhZr95cxnf7b7y5d2nsueqMqGweTbY4T2olPU/3ynAAAIPklEQVR4nO2Z+1caSRbHu4EEYkAeggpEUVGj4gPBBFFHRTAadKMySkxiIjGadeKabDI4cSYz2clk9//eW1X9bszsHvDsOXu+nx84VHU3nU9uPW5dJQkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABw/WTnFzP5zOJ89n/9D7kesos7oUAgHPRFZHlmtvnfqzf/Ey0lm5kgYt4Qc4zLslWx8v3u3l37Y3d3F/a+t/VWH+8vLS0Vi0+ePrNdO3j+fGho6MWLF0NDh4eHtUvzeHl5pLK8vLy+vk6fD5rR0lmMh0ku5PUGwqFQmMK4Zr6+MjzcO7bwyvrYh+NoKjW8Z+58XCgU+vomJycHBorpnhPTta3bt2/cvDUycus2+5xKJh2OQ90x65/u6OgYHR3t7Oy8d+fO+HhX1/3NN69bIZiTffGIy+WSZRfHFwyYb/grM4yuVsy9lR97o6ny8MKKoe+00N/f36cYDvT0pNPGOP7ABJnbCBlOcUPHSE29ejTtb2vTFJkjKd5/04Io7kSCPqGoYolhZXBwkAxTZ1ZvYfg3veu8v5sLaoY9nvRbuyEpqobJkalD5eo7fyPDzb83LZjzhYM0+SIRiqGKeR6uDA7yIC68N/Z++FEYRnXD9m4S7O83GXrS29r1m5rh1IhiSKbJmrjqb2jYfAwXaXVhywutoYH84vxGJufdsSw0qmFq1TggU9FyucxiqM3PdjLkMVziK01RGBoUDYZJMQ+TzDC5ZTMkQTEPN//RrGDWG4txQ9nq1cAwVdI737udTmep5CxrMTxXQljYr9JeUa++LQpDT/qpyfCHWq1G6yh9JB23uOGh0fDr1/Wjo3UOraXNj9F8LBbzkqG8ePU9mqHTrY3TlQXux1C2kWqivX+SjUptbalvF7mh1iUMh/RfvrjNDR28Mc0N25pWMpP10i7o9Qbl+W/cpMfQqa2neynFz+l+JHoSie6+yQFP2rjXn56fz83tTw78JJo2Q+mGMOTDlBl2dHxplZpChu/zofg3Iqgbltm4FF0fouRHxrrhaSLBQpg2JzMf57i4EsQbNsMhYXjJvl+P4Qw3DM8ozex8o8loNFwVs459LSuGYpSe80GaPrE8O0fdfZM9YsuwGx7cvGbD2dgaM4wrYzTnisheu6PR0OlmPWyZKZsM64mf2/sGPB7rs6fCMH2F4eXUNRtuhIShaM0EKPkO2pJSw0rDoMWmskqC0ajRsJpIzO0PaKumjmL4rLHhBWU15nnY9vLlA43mjzmZADMMiEG6GIiFmOJEY8PeV0yxVKLF5izljEajC6/cuuHviUR7+77HnmufC8OThoaXDgE38XPDDtN2uN6sYT7A5mH4IW/s0L5BCXhAtv7PPeKGx49eudn6mTq7u8oFf6kspDTDT8ywvdv+io9kONAjgms1rCmCF5Ji6Bc7/qiS04x3bTab0TwMGwzXxLoacFmHqWoo/cqDlnKnxsai0TLtiRbD7v4rDd/qhiOHhxcch8rBlYb3mw1iPhxYI8OcQTcUCFrvEoblu1KWGzrLvWRIR4oGhvaDrz2GLGmj5SWpCYoQSm2qYWenHsNmc5pMMLgWo4HJG7O+wAQN1GDGetcHOluUS8yExicTJMOx32jBMRh+FIafba/4JAwN81A1TJoFpe9GO0cpqSHDeyzp7mITsemsdMMXnCDDyKzWUgNKe6M2HR8N7pYUkzO3szzMDKOS2fCUG3b/bnvFnDA0rKUWw5p6JxmO3x8f/SJ4/fr1H+vLzQpKs5Gglwx9eUUqk8ttKJdmZDmkTMgVvhNyk4o7SoK9Y8crFsPPwnDf+oZ6QhhmrzC82NJuJcM7XZt/aVrKTMBHW0Qg7LJtPDGZnflFd2WsnFJN2KmQ+E2yGErCsGAdpp+EoUhMb+inJ3UiXui3Xo9hPhKZIEPfjLWfBONxWUzJFWEo8s9dZrgr2Qw/csN+SxApEWCGSjInMu+LLYY6SmvXbDgrR1gMg64dU3dGdkV8FMS83bAyeHy8l7Ub1tu5YeGx8Xfqc3PCUDSN++GWutBcqjf7O2gettxQ2pFDvIQoTxh2wYeyS5Sm5u2G1FRPUCZD2hb4Cdio+IwOT8yweGI31PIZhzoTWdY2Ot5yw6wc9PIiqUvOCZ/ZvCzH47wgFZMaGWqYDSkD5TWMpb6qaNe30x5uuPREamCoZTQOpS3O+P5WG9KAjHFDXojyecP0GfGJwpuavpFh+QrDlMHws1KlmSwWn7x9uu1Jp+l4/4QZqnmAMHyuPq8mNRe6oVIwHf3yzu/vYPPyTguKiTMBxZBXTGmFIT/RUDeOyn9mKFWVWiIrBiv1C2K/UFVvsBhKDtNUNBiyinAnfbk33pJ6aS6uGRIR/oVGqV65YYal0p8bSp/VUiIrJKqGhpqw1XDLNE7fmQ1ZSsPytqaPFxLbGjRDtoKKL1oEaa7S4bfkXLUZSvyEaOyv7xcshmmPIVUVhgd6x4HR8KvFcJzVgzc3l1tgKG1ExNrpCioz0CWHjQeMf7KqjNP+3HtaatwlU9dpYWlJN0x7TFUNUfPeMvSIBVVUE19OWw1ZvbQVo5TI5lilOxwShvTVXJnKnq2ulioNnnvvXj2zpkPVfxUZaWLbciDOkqIxhJJQVPOao+nvCH2MMr83fzQlZnx5Psb+6sQr+zP2ylulkd+V1KsnJyfPGv0JcWvrm10PDGQ5/81r/5Ts/EYmk9n4VuUUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8H/EvwG2r7FF1cx0UgAAAABJRU5ErkJggg==",  
-"url": "https://c787898.com/embed.php?id=live5",
+"name": "Bein Sports 1 TH",  
+"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/bein1.png",  
+"url": "https://www.lineballsod.com/doball/live-ch7a/",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "sky sport serie a",  
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_Sport_Serie_A_-_Logo_2018.svg/1280px-Sky_Sport_Serie_A_-_Logo_2018.svg.png",  
-"url": "https://c787898.com/live/chdz.php",
+"name": "beIN Sports 2 (AU) TV Online",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch300.png",  
+"url": "https://www.lineballsod.com/doball/live-ch300/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports Arabia 3 HD (TV Online)",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch143.png",  
+"url": "https://www.lineballsod.com/doball/live-ch143/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports 1 (France) TV Online",  
+"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/beinsport1fr.png",  
+"url": "https://www.lineballsod.com/doball/live-ch279/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports 2 (TU) TV Online",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch299.png",  
+"url": "https://www.lineballsod.com/doball/live-ch299/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports 1 (TU) TV Online",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch298.png",  
+"url": "https://www.lineballsod.com/doball/live-ch298/",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BEİN SPORTS HD 1 TURKEY",  
+"image": "https://sport-tv-guide.live/images/stations/a640.png",  
+"url": "https://www.canlifutbolaz.com/2018/01/kanal-3.html",
+"referer": "https://www.canlifutbolaz.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 2 HD TV Online",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch8.png",  
+"url": "https://www.lineballsod.com/doball/live-ch8/",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
@@ -218,87 +343,45 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "DAZN 2",  
-"image": "https://www.pay-tv-portal.de/wp-content/uploads/dazn-2.jpg",  
-"url": "https://c787898.com/embed.php?id=live29",
+"name": "ESPN",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ykR6J8sQHXSbouSKR82Qh6LhhUQdc3OTZK9FhAKpbl5FsgaOVcTwB52N4-V48frY9jM&usqp=CAU",  
+"url": "https://c787898.com/embed.php?id=live3t",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Premier Football HD 1",  
-"image": "https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl1.png",  
-"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/151/Premier-Football-HD-1-151/37937.html",
+"name": " ESPN 2",  
+"image": "https://cdn.maxcdn.info/channel/c2a05693bd1ce0b684f9ce281e5584fc-espn-2.png",  
+"url": "https://www.olweb.tv/espn-2-live",
+"referer": "https://www.olweb.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": " ESPN Deportes",  
+"image": "https://cdn.maxcdn.info/channel/d3826a763ba2e4321d1bb01b6307a797-ESPN-Deportes.png",  
+"url": "https://www.olweb.tv/espn-deportes",
+"referer": "https://www.olweb.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": " ESPN 3",  
+"image": "https://cdn.maxcdn.info/channel/a2f547b5abc0f0be92a6486e2a47ee6f-espn-3.png",  
+"url": "https://www.olweb.tv/espn-3-live",
+"referer": "https://www.olweb.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ESPN US TV Online",  
+"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",  
+"url": "https://www.lineballsod.com/doball/live-ch268/",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "BEIN SPORT HD 1",  
-"image": "https://www.ดูหนังอิอิ.com/uploads/png/epl-bein1.png",  
-"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/18/BEIN-SPORT-HD-1-18/37821.html",
-"referer": "https://www.xn--72czp5emaz0ab6b.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "REAL MADRID VS REAL BETIS (02:00)",  
-"image": "https://www.essentiallysports.com/wp-content/uploads/2015/08/real-madrid-vs-real-betis.jpg",  
-"url": "https://www.jackstream.net/livestreamhds/football/spain-primera-division/real-madrid-vs-real-betis/20210424/2/",
-"referer": "https://daddylive.co/",
-"playInNatPlayer": "true"
-},
-{
-"name": "DAZN-1",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5eA0EepdkSy2NjPFb-MTVa6P43UQUa00RZnQbnx043V87wqziGn1UwzcAiYCvdCd39aU&usqp=CAU",  
-"url": "https://c787898.com/embed.php?id=live20",
-"referer": "https://www.jackstream.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "SK-6",  
-"image": "https://sport-tv-guide.live/images/stations/a346.png",  
-"url": "http://www.jackstream.net/livestreamhd/football/denmark-superliga/aalborg-vs-odense/20210421/3/",
-"referer": "https://www.jackstream.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "test",  
-"image": "https://storify.com/services/proxy/2/hz8_XRYsbEc7KjUhoqQY8Q/http/video.skysports.com/9ocGsxNzE6nb5m40lJ50CiuFKwsEfAim/Ut_HKthATH4eww8X4xMDoxOjBzMTt2bJ",  
-"url": "https://www.lacasadeltikitakatv.net/canal-21.php",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "West Ham United vs Chelsea (23:30)",  
-"image": "https://www.essentiallysports.com/wp-content/uploads/2016/08/Chelsea-Vs-West-Ham-United.jpg",  
-"url": "https://www.jackstream.net/livestreamhds/football/england-premier-league/west-ham-vs-chelsea/20210424/2/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "INDEPENDIENTE VS ATLETICO TUCUMAN",  
-"image": "https://footballia.net/cache/matches/f99f9a2bfa9c7ad71340e22096957180.png",  
-"url": "https://www.jackstream.net/livestreamhds/football/argentina-liga-profesional/independiente-vs-atletico-tucuman/20210502/2/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "LIVERPOOL VS NEWCASTLE (18:30)",  
-"image": "https://cdn-2.tstatic.net/kaltim/foto/bank/images/jadwal-dan-link-live-streaming-liverpool-vs-newcastle-united-pada-laga-boxing-day.jpg",  
-"url": "http://ustream.pro/live/ustream4.php",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "LIVERPOOL VS NEWCASTLE (18:30)",  
-"image": "https://i.pinimg.com/originals/6c/1b/1b/6c1b1b016366dcfab01961133e0a7202.jpg",  
-"url": "https://daddylive.co/stream/ace18.php",
-"referer": "https://www.jackstream.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Liverpool vs Newcastle United (18:30)",  
-"image": "https://cdn-2.tstatic.net/kaltim/foto/bank/images/jadwal-dan-link-live-streaming-liverpool-vs-newcastle-united-pada-laga-boxing-day.jpg",  
-"url": "http://www.batmanstream.online/p/blog-page_73.html",
-"referer": "http://www.batmanstream.online/",
+"name": "ESPN US TV",  
+"image": "https://www.lineballsod.com/api/table/icon/live-ch268.png",  
+"url": "https://www.lineballsod.com/doball/live-ch268/",
+"referer": "https://livescore24-th.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -306,6 +389,20 @@
 "image": "http://fomny.com/Video/USA/01/NBC/logo3.gif",  
 "url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=https://daddylive.live/embed/stream-43.php",
 "referer": "http://fomny.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": " NBC Sports Network",  
+"image": "https://lh5.googleusercontent.com/-I5ZdpEnxyjQ/U5-f8KjdNtI/AAAAAAAABCg/6IcZkj6fJMY/h120/NBC.png",  
+"url": "https://www.olweb.tv/nbcsn",
+"referer": "https://www.olweb.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "C-MORE",  
+"image": "data:image/png;base64,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",  
+"url": "https://c787898.com/embed.php?id=live5",
+"referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -351,67 +448,31 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "SPORTS TV",  
-"image": "https://www.ecanlitvizle.live/logo/sports-tv-izle.png",  
-"url": "https://www.ecanlitvizle.live/sports-tv-izle-1/",
-"referer": "https://www.ecanlitvizle.live/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Real Madrid TV ",  
-"image": "https://cdn.maxcdn.info/channel/13266c4643360d76d8871d3321aa9601-Real-Madrid.png",  
-"url": "https://www.realmadrid.com/en/real-madrid-tv",
-"referer": "https://www.ecanlitvizle.live/",
-"playInNatPlayer": "true"
-},
-{
-"name": "GS TV",  
-"image": "https://www.ecanlitvizle.live/logo/galatasaray-tv-izle.png",  
-"url": "https://www.ecanlitvizle.live/galatasaray-tv-canli-izle/2/",
-"referer": "https://www.ecanlitvizle.live/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FB TV",  
-"image": "https://www.ecanlitvizle.live/logo/fenerbahce-fb-tv-izle.png",  
-"url": "https://www.ecanlitvizle.live/fenerbahce-fb-tv-canli-izle/3/",
-"referer": "https://www.ecanlitvizle.live/",
-"playInNatPlayer": "true"
-},
-{
-"name": "A SPOR HD",  
-"image": "https://www.ecanlitvizle.live/logo/a-spor-canli.png",  
-"url": "https://www.ecanlitvizle.live/a-spor-canli-11/3/",
-"referer": "https://www.ecanlitvizle.live/",
-"playInNatPlayer": "true"
-},
-{
-"name": "EUROSPORT",  
-"image": "https://www.ecanlitvizle.live/logo/eurosport.png",  
-"url": "https://www.ecanlitvizle.live/eurosport-live/2/",
-"referer": "https://www.ecanlitvizle.live/",
-"playInNatPlayer": "true"
-},
-{
-"name": "EUROSPORT-2",  
-"image": "https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg",  
-"url": "https://www.ecanlitvizle.live/eurosport-2-live/2/",
-"referer": "https://www.ecanlitvizle.live/",
-"playInNatPlayer": "true"
-},
-{
-"name": "TRT SPOR 2",  
-"image": "https://www.kskhaber.com/wp-content/uploads/2020/12/71ee780d17ddf50i.jpg",  
-"url": "https://www.canlifutbolaz.com/2019/12/trtsp2.html",
+"name": "SKY FOOTBALL",  
+"image": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",  
+"url": "https://www.canlifutbolaz.com/2018/01/kanal-46.html",
 "referer": "https://www.canlifutbolaz.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "TRT 1 HD",  
-"image": "https://cdn.bolgegundem.com/d/news/1001214.jpg",  
-"url": "https://www.canlifutbolaz.com/2021/03/trt-1-hd.html",
-"referer": "https://www.canlifutbolaz.com/",
+"name": "sky sport serie a",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_Sport_Serie_A_-_Logo_2018.svg/1280px-Sky_Sport_Serie_A_-_Logo_2018.svg.png",  
+"url": "https://c787898.com/live/chdz.php",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "DAZN-1",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5eA0EepdkSy2NjPFb-MTVa6P43UQUa00RZnQbnx043V87wqziGn1UwzcAiYCvdCd39aU&usqp=CAU",  
+"url": "https://c787898.com/embed.php?id=live20",
+"referer": "https://www.jackstream.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "DAZN 2",  
+"image": "https://www.pay-tv-portal.de/wp-content/uploads/dazn-2.jpg",  
+"url": "https://c787898.com/embed.php?id=live29",
+"referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -426,6 +487,13 @@
 "image": "http://media.photoclub-vidin.com/2021/03/1309678_laliga_996305.jpg",  
 "url": "https://www.canlifutbolaz.com/2020/11/la-liga-online.html",
 "referer": "https://www.canlifutbolaz.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "la-liga",  
+"image": "https://www.pngkey.com/png/detail/333-3332200_palmeiras-vs-ceara-movistar-liga-de-campeones.png",  
+"url": "https://www.canlifutbolaz.com/2020/11/la-liga-online.html",
+"referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -457,24 +525,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "BEİN SPORTS HD 1 TURKEY",  
-"image": "https://sport-tv-guide.live/images/stations/a640.png",  
-"url": "https://www.canlifutbolaz.com/2018/01/kanal-3.html",
-"referer": "https://www.canlifutbolaz.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "SKY FOOTBALL",  
-"image": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",  
-"url": "https://www.canlifutbolaz.com/2018/01/kanal-46.html",
-"referer": "https://www.canlifutbolaz.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT SPORT 1",  
-"image": "https://i.pinimg.com/originals/91/c1/84/91c1846b6eb2203ffbdbd9589c6ea8e9.png",  
-"url": "https://www.canlifutbolaz.com/2018/01/kanal-47.html",
-"referer": "https://www.canlifutbolaz.com/",
+"name": "SK-6",  
+"image": "https://sport-tv-guide.live/images/stations/a346.png",  
+"url": "http://www.jackstream.net/livestreamhd/football/denmark-superliga/aalborg-vs-odense/20210421/3/",
+"referer": "https://www.jackstream.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -492,16 +546,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " ESPN Deportes",  
-"image": "https://cdn.maxcdn.info/channel/d3826a763ba2e4321d1bb01b6307a797-ESPN-Deportes.png",  
-"url": "https://www.olweb.tv/espn-deportes",
-"referer": "https://www.olweb.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": " NBC Sports Network",  
-"image": "https://lh5.googleusercontent.com/-I5ZdpEnxyjQ/U5-f8KjdNtI/AAAAAAAABCg/6IcZkj6fJMY/h120/NBC.png",  
-"url": "https://www.olweb.tv/nbcsn",
+"name": " Digi Sport 1",  
+"image": "https://cdn.maxcdn.info/channel/2c0ecbbfc04e61949025fd3a2730b09f-Digi-Sport.png",  
+"url": "https://www.olweb.tv/digi-sport-1-ro",
 "referer": "https://www.olweb.tv/",
 "playInNatPlayer": "true"
 },
@@ -513,30 +560,23 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " ESPN 2",  
-"image": "https://cdn.maxcdn.info/channel/c2a05693bd1ce0b684f9ce281e5584fc-espn-2.png",  
-"url": "https://www.olweb.tv/espn-2-live",
-"referer": "https://www.olweb.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": " ESPN 3",  
-"image": "https://cdn.maxcdn.info/channel/a2f547b5abc0f0be92a6486e2a47ee6f-espn-3.png",  
-"url": "https://www.olweb.tv/espn-3-live",
-"referer": "https://www.olweb.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": " Digi Sport 1",  
-"image": "https://cdn.maxcdn.info/channel/2c0ecbbfc04e61949025fd3a2730b09f-Digi-Sport.png",  
-"url": "https://www.olweb.tv/digi-sport-1-ro",
-"referer": "https://www.olweb.tv/",
-"playInNatPlayer": "true"
-},
-{
 "name": "FOX Sports Southwest",  
 "image": "https://cdn.maxcdn.info/channel/381772c298ae2c1357b193a576ba534f-FOX-Sports-Southwest.jpg",  
 "url": "https://www.olweb.tv/fox-sports-southwest",
+"referer": "https://www.lineballsod.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX SPORTS",  
+"image": "https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-Grid.jpg",  
+"url": "https://www.olweb.tv/fox-sports-hd",
+"referer": "https://www.olweb.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX Sports 1 (USA) TV Online",  
+"image": "https://i.pinimg.com/originals/01/b0/4a/01b04a5342cb55408cd7296eaa6a5395.png",  
+"url": "https://www.lineballsod.com/doball/live-ch38/",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
@@ -555,55 +595,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " Prva TV",  
-"image": "https://cdn.maxcdn.info/channel/25cdf66f1de7d7330b74057a1da0c321-Prva-TV-Serbia.png",  
-"url": "https://www.olweb.tv/prva-tv-uzivo",
-"referer": "https://www.olweb.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": " Benfica TV",  
-"image": "https://cdn.maxcdn.info/channel/830faee03d9acd7aed381aeec63d0796-benficatv.png",  
-"url": "https://www.olweb.tv/benfica-tv",
-"referer": "https://www.olweb.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT Sport 1",  
-"image": "https://lh4.googleusercontent.com/-kquRdF4bUus/U4hIt67QjSI/AAAAAAAAA7Y/ZzL65I7wSfM/h120/1.jpg",  
-"url": "https://www.olweb.tv/bt-sport-1-hd",
-"referer": "https://www.olweb.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": " BT Sport 2",  
-"image": "https://lh4.googleusercontent.com/-5HS2FbSeTww/U4hIw3MIZ4I/AAAAAAAAA7g/0H6ieAnSg54/h120/b.jpg",  
-"url": "https://www.olweb.tv/bt-sport-2-hd",
-"referer": "https://www.olweb.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FOX SPORTS",  
-"image": "https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-Grid.jpg",  
-"url": "https://www.olweb.tv/fox-sports-hd",
-"referer": "https://www.olweb.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "beinsportarabia1",  
-"image": "https://doo2you.com/icon/beinsportarabia1.png",  
-"url": "https://www.canlifutbolaz.com/2021/04/fenerbahce-gaziantep-fk-canl-live.html",
-"referer": "https://www.canlifutbolaz.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "beinsportarabia1",  
-"image": "https://doo2you.com/icon/beinsportarabia1.png",  
-"url": "https://www.canlifutbolaz.com/2018/01/bein-1-tr-link-4.html",
-"referer": "https://www.canlifutbolaz.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "DIEMA SPORT HD ",  
 "image": "https://www.seirsanduk.com/images/tvlogo/diema-sport-hd.png",  
 "url": "https://www.seirsanduk.com/hd-diema-sport-hd-online",
@@ -618,20 +609,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "la-liga",  
-"image": "https://www.pngkey.com/png/detail/333-3332200_palmeiras-vs-ceara-movistar-liga-de-campeones.png",  
-"url": "https://www.canlifutbolaz.com/2020/11/la-liga-online.html",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN Sports 2 (AU)",  
-"image": "https://www.lineballsod.com/api/table/icon/live-ch300.png",  
-"url": "https://www.lineballsod.com/doball/live-ch300/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "SPORT TV 2 (TV Online)",  
 "image": "https://www.lineballsod.com/api/table/icon/live-ch112.png",  
 "url": "https://www.lineballsod.com/doball/live-ch112/",
@@ -643,20 +620,6 @@
 "image": "https://www.lineballsod.com/api/table/icon/live-ch306.png",  
 "url": "https://www.lineballsod.com/doball/live-ch306/",
 "referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 1 TH",  
-"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/bein1.png",  
-"url": "https://www.lineballsod.com/doball/live-ch7a/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "ESPN US TV",  
-"image": "https://www.lineballsod.com/api/table/icon/live-ch268.png",  
-"url": "https://www.lineballsod.com/doball/live-ch268/",
-"referer": "https://livescore24-th.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -687,62 +650,7 @@
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
-{
-"name": "beIN Sports 2 (AU) TV Online",  
-"image": "https://www.lineballsod.com/api/table/icon/live-ch300.png",  
-"url": "https://www.lineballsod.com/doball/live-ch300/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN Sports Arabia 3 HD (TV Online)",  
-"image": "https://www.lineballsod.com/api/table/icon/live-ch143.png",  
-"url": "https://www.lineballsod.com/doball/live-ch143/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN Sports 1 (France) TV Online",  
-"image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/beinsport1fr.png",  
-"url": "https://www.lineballsod.com/doball/live-ch279/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN Sports 2 (TU) TV Online",  
-"image": "https://www.lineballsod.com/api/table/icon/live-ch299.png",  
-"url": "https://www.lineballsod.com/doball/live-ch299/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN Sports 1 (TU) TV Online",  
-"image": "https://www.lineballsod.com/api/table/icon/live-ch298.png",  
-"url": "https://www.lineballsod.com/doball/live-ch298/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Premier Football HD 1",  
-"image": "https://www.lineballsod.com/api/table/icon/live-ch285.png",  
-"url": "https://www.lineballsod.com/doball/live-ch285/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 2 HD TV Online",  
-"image": "https://www.lineballsod.com/api/table/icon/live-ch8.png",  
-"url": "https://www.lineballsod.com/doball/live-ch8/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "ESPN US TV Online",  
-"image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",  
-"url": "https://www.lineballsod.com/doball/live-ch268/",
-"referer": "https://www.lineballsod.com/",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "Sportklub 1 Slovenia (TV Online)",  
 "image": "https://tv24hd.com/wp-content/uploads/2019/05/Sportklub1Slovenia.png",  
@@ -764,41 +672,117 @@
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
+
+
 {
-"name": "btsport1",  
-"image": "https://www.lineballsod.com/chanel/icon/btsport1.png",  
-"url": "https://www.lineballsod.com/doball/live-ch21/",
-"referer": "https://www.lineballsod.com/",
+"name": "EUROSPORT",  
+"image": "https://www.ecanlitvizle.live/logo/eurosport.png",  
+"url": "https://www.ecanlitvizle.live/eurosport-live/2/",
+"referer": "https://www.ecanlitvizle.live/",
 "playInNatPlayer": "true"
 },
 {
-"name": "btsport2",  
-"image": "https://www.lineballsod.com/chanel/icon/btsport2.png",  
-"url": "https://www.lineballsod.com/doball/live-ch22/",
-"referer": "https://www.lineballsod.com/",
+"name": "EUROSPORT-2",  
+"image": "https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg",  
+"url": "https://www.ecanlitvizle.live/eurosport-2-live/2/",
+"referer": "https://www.ecanlitvizle.live/",
 "playInNatPlayer": "true"
 },
 {
-"name": "btsport3",  
-"image": "https://www.lineballsod.com/chanel/icon/btsport3.png",  
-"url": "https://www.lineballsod.com/doball/live-ch23/",
-"referer": "https://zingsanam.com/index.php",
+"name": "TRT SPOR 2",  
+"image": "https://www.kskhaber.com/wp-content/uploads/2020/12/71ee780d17ddf50i.jpg",  
+"url": "https://www.canlifutbolaz.com/2019/12/trtsp2.html",
+"referer": "https://www.canlifutbolaz.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "btsportespn",  
-"image": "https://www.lineballsod.com/chanel/icon/btsportespn.png",  
-"url": "https://www.lineballsod.com/doball/live-ch20/",
-"referer": "https://www.lineballsod.com/",
+"name": "TRT 1 HD",  
+"image": "https://cdn.bolgegundem.com/d/news/1001214.jpg",  
+"url": "https://www.canlifutbolaz.com/2021/03/trt-1-hd.html",
+"referer": "https://www.canlifutbolaz.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "FOX Sports 1 (USA) TV Online",  
-"image": "https://i.pinimg.com/originals/01/b0/4a/01b04a5342cb55408cd7296eaa6a5395.png",  
-"url": "https://www.lineballsod.com/doball/live-ch38/",
-"referer": "https://www.lineballsod.com/",
+"name": " Prva TV",  
+"image": "https://cdn.maxcdn.info/channel/25cdf66f1de7d7330b74057a1da0c321-Prva-TV-Serbia.png",  
+"url": "https://www.olweb.tv/prva-tv-uzivo",
+"referer": "https://www.olweb.tv/",
 "playInNatPlayer": "true"
 },
+{
+"name": " Benfica TV",  
+"image": "https://cdn.maxcdn.info/channel/830faee03d9acd7aed381aeec63d0796-benficatv.png",  
+"url": "https://www.olweb.tv/benfica-tv",
+"referer": "https://www.olweb.tv/",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	
 
