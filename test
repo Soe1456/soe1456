@@ -116,7 +116,7 @@
 		
 {
 			"name": "mix-tv",
-			"image": "",
+			"image": "https://image.shutterstock.com/z/stock-vector-vector-live-stream-live-icon-flat-style-with-play-button-isolated-on-transparent-background-for-1357596650.jpg",
 			"stations":[
 {
 "name": "True Premier HD 1-1",  
@@ -139,12 +139,6 @@
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
-
-
-
-
-
-
 {
 "name": "ziggosportselect",  
 "image": "https://ball8k.com/stream/img_ch/20210223025645_ziggosportselect.jpg",  
@@ -183,7 +177,7 @@
 {
 "name": "bt sport 1",  
 "image": "https://i.pinimg.com/originals/91/c1/84/91c1846b6eb2203ffbdbd9589c6ea8e9.png",  
-"url": "https://daddylive.co/stream/stream-31.php",
+"url": "https://www.unacanita.com/canal/31",
 "referer": "https://daddylive.co/stream/",
 "playInNatPlayer": "true"
 },
@@ -219,7 +213,7 @@
 {
 "name": "ESPN-2-VIVO",  
 "image": "https://4.bp.blogspot.com/-j9QJsV84FaE/V2zEXMI820I/AAAAAAAAAsw/b5OYP1l-dhgObAMhT5jPJTP0NIpDNMblACLcB/s320/espn.png",  
-"url": "https://c787898.com/embed.php?id=live1t",
+"url": "https://www.unacanita.com/canal/15",
 "referer": "https://www.lineballsod.com/",
 "playInNatPlayer": "true"
 },
