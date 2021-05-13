@@ -12,7 +12,14 @@
         "URL": "https://raw.githubusercontent.com/Soe1456/soe1456/main/doofootball",
         "stations": [
         
-        
+ {
+"name": "fm99activeradio",  
+"image": "https://fm99activeradio.mcot.net/static/img/logofm99.png",  
+"url": "https://fm99activeradio.mcot.net/live",
+"referer": "https://fm99activeradio.mcot.net/",
+"playInNatPlayer": "true"
+},
+ 
 {
 "name": "TRUE-SPORT-PREMIER-1-1",  
 "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",  
