@@ -13,7 +13,13 @@
         "stations": [
 
 
-
+{
+"name": "fm99activeradio",  
+"image": "https://fm99activeradio.mcot.net/static/img/logofm99.png",  
+"url": "https://fm99activeradio.mcot.net/live",
+"referer": "https://fm99activeradio.mcot.net/",
+"playInNatPlayer": "true"
+},
 {
 "name": "BNT 1 HD",  
 "image": "https://www.seirsanduk.com/images/tvlogo/bnt-1-hd.png",  
