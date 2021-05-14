@@ -1,7 +1,7 @@
 {
        "name": "🎥sportzonline TV🎞️",
        "author": "MUSE",
-       "url": "",
+       "url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/sportzonline",
        "image": "https://www.desicomments.com/graphics/welcome/22.gif",
        "groups": [
  
@@ -21,129 +21,129 @@
 "playInNatPlayer": "true"
 },        
 {
+"name": "SPORT TV 1",  
+"image": "https://doo2you.com/icon/SPORTTV1.png",  
+"url": "https://v3.sportzonline.to/channels/pt/sporttv1.php",
+"referer": "https://v3.sportzonline.to/",
+"playInNatPlayer": "true"
+},        
+{
+"name": "SPORT TV 2",  
+"image": "https://doo2you.com/icon/SPORTTV2.png",  
+"url": "https://v3.sportzonline.to/channels/pt/sporttv2.php",
+"referer": "https://v3.sportzonline.to/",
+"playInNatPlayer": "true"
+},                
+{
+"name": "SPORT TV 3",  
+"image": "https://doo2you.com/icon/SPORTTV3.png",  
+"url": "https://v3.sportzonline.to/channels/pt/sporttv3.php",
+"referer": "https://v3.sportzonline.to/",
+"playInNatPlayer": "true"
+},                
+{
+"name": "SPORT TV 4",  
+"image": "https://doo2you.com/icon/SPORTTV4.png",  
+"url": "https://v3.sportzonline.to/channels/pt/sporttv4.php",
+"referer": "https://v3.sportzonline.to/",
+"playInNatPlayer": "true"
+},                
+{
+"name": "SPORT TV 5",  
+"image": "https://doo2you.com/icon/SPORTTV5.png",  
+"url": "https://v3.sportzonline.to/channels/pt/sporttv5.php",
+"referer": "https://v3.sportzonline.to/",
+"playInNatPlayer": "true"
+},                
+{
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
+"playInNatPlayer": "true"
+},                
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },        
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },        
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},                
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},        
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},                
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},                
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},                
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},                
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
         
