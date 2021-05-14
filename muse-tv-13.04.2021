@@ -77,18 +77,12 @@
 "referer": "https://elixx.xyz/",
 "playInNatPlayer": "true"
 },
+
 {
-"name": "Rai 2 hd",  
-"image": "https://www.tvzoom.it/wp-content/uploads/2014/06/rai2logo-e1435306459542.jpg",  
-"url": "https://elixx.xyz/yroma.html",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premier league",  
-"image": "https://i.pinimg.com/originals/ae/24/49/ae2449de25dbd1ca23da69d6dcc7c70d.jpg",  
-"url": "https://es.sportplus.live/football/apl/1556660/",
-"referer": "",
+"name": "SK-1",  
+"image": "https://cdng.apigodata.com/img:w=100,h=74,f=sd/uploads/pics/originals/c0/c0def8f05c5be6d89a6c3ba01d6b3446.png",  
+"url": "https://es.sportplus.live/tennis/45687/1658755/",
+"referer": "https://es.sportplus.live/",
 "playInNatPlayer": "true"
 },
 {
@@ -101,21 +95,35 @@
 {
 "name": "beinsports 1 tu",  
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",  
-"url": "https://www.doonung1234.com/match/view/12306/beinsports1tu",
+"url": "https://www.doonung1234.com/match/view/13158/beinsports1tu",
 "referer": "https://www.doonung1234.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "beinsports 2 tu",  
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",  
-"url": "https://www.doonung1234.com/match/view/12305/beinsports2tu",
+"url": "https://www.doonung1234.com/match/view/13159/beinsports2tu",
 "referer": "https://www.doonung1234.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "astrosupersport",  
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png",  
-"url": "https://www.doonung1234.com/match/view/12304/astrosupersport",
+"url": "https://www.doonung1234.com/match/view/13171/astrosupersport",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "astrosupersport2",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png",  
+"url": "https://www.doonung1234.com/match/view/13206/astrosupersport2",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "astrosupersport3",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--255.png",  
+"url": "https://www.doonung1234.com/match/view/12359/beinsports2au",
 "referer": "https://www.doonung1234.com/",
 "playInNatPlayer": "true"
 },
@@ -231,20 +239,7 @@
 "referer": "https://www.doonung1234.com/",
 "playInNatPlayer": "true"
 },
-{
-"name": "beinsports-1-au",  
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--138.png",  
-"url": "https://www.doonung1234.com/match/view/12353/beinsports1au",
-"referer": "https://www.doonung1234.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "beinsports-2-au",  
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--139.png",  
-"url": "https://www.doonung1234.com/match/view/12359/beinsports2au",
-"referer": "https://www.doonung1234.com/",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "beinsports-arabia-1-hd",  
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--752.png",  
