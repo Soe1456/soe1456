@@ -1,7 +1,7 @@
 {
        "name": "🎥chomfootball TV🎞️",
        "author": "MUSE",
-       "url": "",
+       "url": "http://tiny.cc/musechomfootball",
        "image": "https://media.tenor.com/images/e832e8ed4b624e4441fa3b6f37a20122/tenor.gif",
        "groups": [
  
@@ -35,16 +35,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "bein 2 th",  
+"image": "https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png",  
+"url": "https://www.chomfootball.com/livechannel/epl-bein2/4197",
 "referer": "https://www.chomfootball.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "bein 3 Arab",  
+"image": "https://4.bp.blogspot.com/-7BFiV7BmglU/W0is2GnwOuI/AAAAAAAAAU8/MP4WJD1-CqwzOmzF7uL1fWZhEbp31jy2gCLcBGAs/s320/beinsport.jpg",  
+"url": "https://www.chomfootball.com/livechannel/hd-bein3/4197",
 "referer": "https://www.chomfootball.com/",
 "playInNatPlayer": "true"
 },
