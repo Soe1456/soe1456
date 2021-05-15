@@ -2,7 +2,7 @@
        "name": "🎥chomfootball TV🎞️",
        "author": "MUSE",
        "url": "http://tiny.cc/musechomfootball",
-       "image": "https://media.tenor.com/images/e832e8ed4b624e4441fa3b6f37a20122/tenor.gif",
+       "image": "https://cdn.dribbble.com/users/5055/screenshots/5066074/dribbble-muse.gif",
        "groups": [
  
  
@@ -77,23 +77,23 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "skysports-football",  
+"image": "https://i.pinimg.com/originals/ac/41/d2/ac41d254402f5c5bef78c8e2669dbdfa.png",  
+"url": "https://www.chomfootball.com/livechannel/uk-skysports-football/4206",
 "referer": "https://www.chomfootball.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "sky sports-main event",  
+"image": "https://www.sportingferret.com/wp-content/uploads/2020/11/Sky-Sports.jpg",  
+"url": "https://www.chomfootball.com/livechannel/uk-skysports-mainevent/4206",
 "referer": "https://www.chomfootball.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "skysports-epl",  
+"image": "https://thaihd.tv/wp-content/uploads/2020/01/sky-sports-premier.png",  
+"url": "https://www.chomfootball.com/livechannel/uk-skysports-epl/4194",
 "referer": "https://www.chomfootball.com/",
 "playInNatPlayer": "true"
 },
