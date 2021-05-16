@@ -65,48 +65,30 @@
 	"name": "series & movies",
 	"image": "https://image.shutterstock.com/z/stock-vector-movie-cinema-premiere-poster-design-vector-template-banner-for-show-with-seats-popcorn-tickets-524732656.jpg",
 	"stations":[
-{
-"name": "Tom and Jerry",  
-"image": "https://mgtmovie.pointto.us/poster/tom-and-jerry.jpg",  
+
+{"name": "Tom and Jerry","image": "https://mgtmovie.pointto.us/poster/tom-and-jerry.jpg",    
 "url": "https://mgtmovie.pointto.us/mov/tom-and-jerry.mp4",
-"referer": "https://037movie4k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FAST & FURIOUS 1 (2003)",  
-"image": "https://mgtmovie.pointto.us/poster/the-fast-and-the-furious-1.jpg",  
-"url": "https://mgtmovie.pointto.us/mov/the-fast-and-the-furious-1.mp4",
-"referer": "https://037movie4k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FAST & FURIOUS 2 (2003)",  
-"image": "https://mgtmovie.pointto.us/poster/the-fast-and-the-furious-2.jpg",  
-"url": "https://mgtmovie.pointto.us/mov/the-fast-and-the-furious-2.mp4",
-"referer": "https://037movie4k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FAST & FURIOUS 3 (2006)",  
-"image": "https://mgtmovie.pointto.us/poster/the-fast-and-the-furious-3.jpg",  
-"url": "https://mgtmovie.pointto.us/mov/the-fast-and-the-furious-3.mp4",
-"referer": "https://037movie4k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FAST & FURIOUS 4 (2009)",  
-"image": "https://mgtmovie.pointto.us/poster/the-fast-and-the-furious-4.jpg",  
-"url": "https://mgtmovie.pointto.us/mov/the-fast-and-the-furious-4.mp4",
-"referer": "https://037movie4k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FAST & FURIOUS 5 (2013)",  
-"image": "https://mgtmovie.pointto.us/poster/the-fast-and-the-furious-5.jpg",  
-"url": "https://mgtmovie.pointto.us/mov/the-fast-and-the-furious-5.mp4",
-"referer": "https://037movie4k.com/",
-"playInNatPlayer": "true"
-},
+"referer": "https://037movie4k.com/","playInNatPlayer": "true"},
+
+{"name": "FAST & FURIOUS 1 (2003)","image": "https://mgtmovie.pointto.us/poster/the-fast-and-the-furious-1.jpg",  
+ "url": "https://mgtmovie.pointto.us/mov/the-fast-and-the-furious-1.mp4",
+ "referer": "https://037movie4k.com/","playInNatPlayer": "true"},
+
+{"name": "FAST & FURIOUS 2 (2003)","image": "https://mgtmovie.pointto.us/poster/the-fast-and-the-furious-2.jpg",  
+ "url": "https://mgtmovie.pointto.us/mov/the-fast-and-the-furious-2.mp4",
+ "referer": "https://037movie4k.com/","playInNatPlayer": "true"},
+
+{"name": "FAST & FURIOUS 3 (2006)","image": "https://mgtmovie.pointto.us/poster/the-fast-and-the-furious-3.jpg",  
+ "url": "https://mgtmovie.pointto.us/mov/the-fast-and-the-furious-3.mp4",
+ "referer": "https://037movie4k.com/","playInNatPlayer": "true"},
+
+{"name": "FAST & FURIOUS 4 (2009)","image": "https://mgtmovie.pointto.us/poster/the-fast-and-the-furious-4.jpg",  
+ "url": "https://mgtmovie.pointto.us/mov/the-fast-and-the-furious-4.mp4",
+ "referer": "https://037movie4k.com/","playInNatPlayer": "true"},
+
+{"name": "FAST & FURIOUS 5 (2013)","image": "https://mgtmovie.pointto.us/poster/the-fast-and-the-furious-5.jpg",  
+ "url": "https://mgtmovie.pointto.us/mov/the-fast-and-the-furious-5.mp4",
+ "referer": "https://037movie4k.com/","playInNatPlayer": "true"},
 {
 "name": "Amy Poehler",  
 "image": "https://mgtmovie.pointto.us/poster/moxie.jpeg",  
