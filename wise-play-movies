@@ -37,24 +37,24 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "test",  
-"image": "",  
-"url": "https://www.series24hr.com/video/sherlock-season-1-ep-1/",
-"referer": "",
+"name": "Sherlock Season 2-EP.1",  
+"image": "https://www.series24hr.com/wp-content/uploads/2017/08/sherlock-series-2-poster.jpg",  
+"url": "https://www.series24hr.com/video/sherlock-season-2-ep-1/",
+"referer": "https://www.series24hr.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "Sherlock Season 2-EP.2",  
+"image": "https://www.series24hr.com/wp-content/uploads/2017/08/sherlock-series-2-poster.jpg",  
+"url": "https://www.series24hr.com/video/sherlock-season-2-ep-2/",
+"referer": "https://www.series24hr.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "Sherlock Season 2-EP.3",  
+"image": "https://www.series24hr.com/wp-content/uploads/2017/08/sherlock-series-2-poster.jpg",  
+"url": "https://www.series24hr.com/video/sherlock-season-2-ep-3/",
+"referer": "https://www.series24hr.com/",
 "playInNatPlayer": "true"
 },
 {
