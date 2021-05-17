@@ -70,9 +70,100 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "BT-SPORT-1",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/uk-btsport1.jpg",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=11",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT-SPORT-2",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/uk-btsport2.jpg",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=12",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SKY-NET-SPORTS-HD",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/sd-skynetsportshd.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=67",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SKY-NET-SPORTS-1",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/sd-skynetsports1.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=61",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SKY-NET-SPORTS-2",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/sd-skynetsports2.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=62",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SKY-NET-SPORTS-3",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/sd-skynetsports3.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=63",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SKY-NET-SPORTS-4",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/sd-skynetsports4.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=64",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SKY-NET-SPORTS-5",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/sd-skynetsports5.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=65",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SKY-NET-SPORTS-6",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/sd-skynetsports6.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=66",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SPORT-TV-1",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/hd-sporttv1.jpg",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=50",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SPORT-TV-2",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/hd-sporttv2.jpg",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=51",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SPORT-TV-3",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/hd-sporttv3.jpg",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=52",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SPORT-TV-4",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/hd-sporttv4.jpg",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=53",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "SPORT-TV-5",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/hd-sporttv5.jpg",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=54",
 "referer": "",
 "playInNatPlayer": "true"
 },
@@ -90,57 +181,6 @@
 "referer": "",
 "playInNatPlayer": "true"
 },
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},
-
-
 
 
 
