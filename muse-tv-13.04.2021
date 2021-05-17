@@ -28,12 +28,122 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "TEST",  
-"image": "https://www.themoviedb.org/t/p/original/saCL8sBP5nCrjrvOsY0DzWC2KEw.jpg",  
-"url": "https://5ji.tv/play/28895-5-1.html",
-"referer": "https://5ji.tv/play/",
+"name": "Epl-1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4106.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=37",
+"referer": "https://www.i-moviehd.com/",
 "playInNatPlayer": "true"
 },
+{
+"name": "Epl-2",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/doomovie-epl2.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=39",
+"referer": "https://www.i-moviehd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Epl-3",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/doomovie-epl3.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=41",
+"referer": "https://www.i-moviehd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Epl-4",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/doomovie-epl4.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=43",
+"referer": "https://www.i-moviehd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Epl-5",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/doomovie-epl5.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=45",
+"referer": "https://www.i-moviehd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True-Tennis",  
+"image": "https://www.img08.xyz/assets/img/ch_logo/hd-tennis.png",  
+"url": "https://www.i-moviehd.com/tv/?r=tv_view&id=55",
+"referer": "https://www.i-moviehd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
 
 {
 "name": "epl1",  
