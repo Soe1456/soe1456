@@ -79,14 +79,14 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "test",  
+"name": "1",  
 "image": "",  
-"url": "https://playlist.hls-play-serieshd.com/hls/b0d0aeacb183c6e640fd90713d7b3ee5/b0d0aeacb183c6e640fd90713d7b3ee5.m3u8",
+"url": "https://playlist.hls-play-serieshd.com/hls/b97fb14e8859a06e7b2d1f476059feef/b97fb14e8859a06e7b2d1f476059feef.m3u8",
 "referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
+"name": "test",  
 "image": "",  
 "url": "",
 "referer": "",
