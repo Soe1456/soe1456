@@ -418,10 +418,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "NewTV江西",
+"image":"https://www.nettv.live/uploads/allimg/20/1-2005231QR40-L.jpg",
+"url": "http://39.135.135.18/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8",
+"referer": "https://www.nettv.live/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
@@ -429,7 +429,7 @@
 "name": "",
 "image":"",
 "url": "",
-"referer": "",
+"referer": "https://www.nettv.live/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
@@ -437,7 +437,7 @@
 "name": "",
 "image":"",
 "url": "",
-"referer": "",
+"referer": "https://www.nettv.live/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
