@@ -490,10 +490,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "NewTV金牌综艺",
+"image":"https://www.nettv.live/uploads/18/1-1P4262241042I.jpg",
+"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8",
+"referer": "https://www.nettv.live/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
