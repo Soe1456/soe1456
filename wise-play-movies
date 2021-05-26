@@ -7,8 +7,8 @@
 
 
 {
-        "name": "muse-series24hr",
-        "image": "https://i.gifer.com/3Kxv.gif",
+        "name": "Sherlock อัจฉริยะยอดนักสืบ",
+        "image": "https://www.tvseriesclub.net/app/uploads/2014/01/Sherlock-Season-1.jpg",
         "URL": "https://raw.githubusercontent.com/Soe1456/soe1456/main/muse-tv-13.04.2021",
         "stations": [
 
@@ -78,6 +78,16 @@
 "referer": "https://www.series24hr.com/",
 "playInNatPlayer": "true"
 },
+]
+        },
+
+
+	
+{
+			"name": "Shadow and Bone (2021) ตำนานกรีชา",
+			"image": "https://images.ctfassets.net/4cd45et68cgf/73iiraPf86qT2NGI5fA2jO/64e63a012aa8b7df25f2b29e27d8164e/EN-US_SAB_Main_Ensemble_Vertical_27x40_RGB_TH.jpg",
+			"stations":[
+
 {
 "name": "Shadow and Bone (2021) ตำนานกรีชา ตอนที่ 01 พากย์ไทย",  
 "image": "https://images.ctfassets.net/4cd45et68cgf/73iiraPf86qT2NGI5fA2jO/64e63a012aa8b7df25f2b29e27d8164e/EN-US_SAB_Main_Ensemble_Vertical_27x40_RGB_TH.jpg",  
@@ -135,6 +145,15 @@
 "referer": "https://www.123-hd.com/",
 "playInNatPlayer": "true"
 },
+]
+        },
+
+
+	
+{
+			"name": "Lupin (2021) จอมโจรลูแปง",
+			"image": "https://www.123-hd.com/wp-content/uploads/2021/01/Lupin-Season-1-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-300x450.png",
+			"stations":[
 {
 "name": "Lupin Season 1 (2021) จอมโจรลูแปง",  
 "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Lupin-Season-1-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-300x450.png",  
@@ -170,6 +189,15 @@
 "referer": "https://www.123-hd.com/",
 "playInNatPlayer": "true"
 },
+]
+        },
+
+
+	
+{
+			"name": "Snowpiercer (2021) ปฏิวัติฝ่านรกน้ำแข็ง",
+			"image": "https://www.123-hd.com/wp-content/uploads/2021/01/Snowpiercer-Season-2-2021-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87-300x450.png",
+			"stations":[
 {
 "name": "Snowpiercer Season 2 ep 1 (2021) ปฏิวัติฝ่านรกน้ำแข็ง",  
 "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Snowpiercer-Season-2-2021-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87-300x450.png",  
@@ -240,6 +268,15 @@
 "referer": "https://www.123-hd.com/",
 "playInNatPlayer": "true"
 },
+]
+        },
+
+
+	
+{
+			"name": "The Letter For The King (2020)",
+			"image": "https://www.123-hd.com/wp-content/uploads/2020/03/The-Letter-For-The-King-Season-1-300x450.png",
+			"stations":[
 {
 "name": "The Letter For The King Season 1 ep 1 (2020)",  
 "image": "https://www.123-hd.com/wp-content/uploads/2020/03/The-Letter-For-The-King-Season-1-300x450.png",  
