@@ -466,10 +466,26 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "NewTV吉林",
+"image":"https://www.nettv.live/uploads/allimg/20/1-2006142230400-L.jpg",
+"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8",
+"referer": "https://www.nettv.live/",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "NewTV云南",
+"image":"https://www.nettv.live/uploads/allimg/20/1-200614222H00-L.jpg",
+"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8",
+"referer": "https://www.nettv.live/",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "NewTV东北热剧",
+"image":"https://www.nettv.live/uploads/19/1-1912151US24O.jpg",
+"url": "http://39.135.135.10/wh7f454c46tw4051595446_-1385423210/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8",
+"referer": "https://www.nettv.live/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
@@ -553,7 +569,46 @@
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
 ]
 }
 ]
