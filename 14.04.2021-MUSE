@@ -63,23 +63,23 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "https://freelive365.com/img/flags/DIRECTV%20+.png",  
-"url": "https://freelive365.com/player6.php?id=1&code=7&evento=TV%20|%20%20DEPORTES%20%20LATINO",
-"referer": "https://freelive365.com/",
+"name": "espn-en-vivo",  
+"image": "https://1.bp.blogspot.com/--whe17geU2M/UTJ_W_hp6gI/AAAAAAAAOCc/Ulf9chWZD8g/s1600/Logo+ESPN+VIVO+By+Bauti.png",  
+"url": "https://www.extremotvplay.com/espn-en-vivo.php",
+"referer": "https://www.extremotvplay.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "test",  
-"image": "",  
-"url": "https://www.extremotvplay.com/0206/link-21.php",
-"referer": "https://freelive365.com/",
+"name": "espn-en-vivo 2",  
+"image": "https://www.logolynx.com/images/logolynx/e0/e035728cb8bab598fbba5861ef68c0ad.png",  
+"url": "https://www.extremotvplay.com/espn-2-en-vivo.php",
+"referer": "https://www.extremotvplay.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "espn-en-vivo 3",  
+"image": "https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es",  
+"url": "https://www.extremotvplay.com/espn-3-en-vivo.php",
 "referer": "https://freelive365.com/",
 "playInNatPlayer": "true"
 },
