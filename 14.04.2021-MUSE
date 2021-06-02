@@ -1,14 +1,14 @@
 {
-       "name": "🎥Seirsanduk TV🎞️",
+       "name": "🎥live-day-tv🎞️",
        "author": "MUSE",
        "url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/14.04.2021-MUSE",
-       "image": "https://www.seirsanduk.com/images/logo.png",
+       "image": "https://premiumiptv.org/wp-content/uploads/2020/12/Copy-of-IPTV-12.gif",
        "groups": [
  
  
 {
-        "name": "Bnt TV",
-        "image": "https://cdn.dribbble.com/users/31664/screenshots/2430133/recycle-2.gif",
+        "name": "iptv-live-TV",
+        "image": "https://image.winudf.com/v2/image/Y29tLmNpbWlwdHZwbGF5ZXJsYXRpbm9tM3UyMDE4LmNpbWlwdHZwbGF5ZXJsYXRpbm9tM3UyMDE4LmNpbWlwdHZwbGF5ZXJsYXRpbm9kYWlseWlwdHYyMDE4aXB0dnNocWlwX3NjcmVlbl8yXzE1MTY1NzIyMzlfMDQ0/screen-2.jpg?fakeurl=1&type=.jpg",
         "URL": "https://raw.githubusercontent.com/Soe1456/soe1456/main/14.04.2021-MUSE",
         "stations": [
 
@@ -28,376 +28,46 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "BNT 1 HD",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMi2F2-3RhMsuj61L9k6Fby7EJghsaFHwWtxwfRRXipXQbErndYarKACZ0DRNDosns6fs&usqp=CAU",  
-"url": "https://www.unacanita.com/canal/55",
-"referer": "https://www.unacanita.com/",
+"name": "tennies",  
+"image": "",  
+"url": "https://cr7soccer.club/02s/Tennis.php",
+"referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "BNT 2",  
-"image": "https://www.seirsanduk.com/images/tvlogo/bnt-2.png",  
-"url": "http://www.seirsanduk.us/bnt-2-online",
-"referer": "https://www.seirsanduk.com/",
+"name": "tennies",  
+"image": "",  
+"url": "https://www.vivoplay.sigue.la/p/bx-espn-2.html",
+"referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "BNT 3 HD",  
-"image": "http://www.seirsanduk.us/images/tvlogo/bnt-3-hd.png",  
-"url": "http://www.seirsanduk.us/hd-bnt-3-hd-online",
-"referer": "https://www.seirsanduk.com/",
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "BNT 4",  
-"image": "https://www.seirsanduk.com/images/tvlogo/bnt-4.png",  
-"url": "http://www.seirsanduk.us/bnt-4-online",
-"referer": "https://www.seirsanduk.com/",
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
 "playInNatPlayer": "true"
 },
 {
-"name": "NOVA TV HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/nova-tv-hd.png",  
-"url": "http://www.seirsanduk.us/hd-nova-tv-hd-online",
-"referer": "https://www.seirsanduk.com/",
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
 "playInNatPlayer": "true"
 },
-{
-"name": "BTV ACTION HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/btv-action-hd.png",  
-"url": "http://www.seirsanduk.us/hd-btv-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "BTV CINEMA",  
-"image": "https://www.seirsanduk.com/images/tvlogo/btv-cinema.png",  
-"url": "http://www.seirsanduk.us/btv-cinema-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "BTV COMEDY",  
-"image": "https://www.seirsanduk.com/images/tvlogo/btv-comedy.png",  
-"url": "http://www.seirsanduk.us/btv-comedy-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "BTV LADY",  
-"image": "https://www.seirsanduk.com/images/tvlogo/btv-lady.png",  
-"url": "http://www.seirsanduk.us/btv-lady-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "BULGARIA ON AIR",  
-"image": "https://www.seirsanduk.com/images/tvlogo/bulgaria-on-air.png",  
-"url": "http://www.seirsanduk.us/bulgaria-on-air-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "CARTOON NETWORK",  
-"image": "https://www.seirsanduk.com/images/tvlogo/cartoon-network.png",  
-"url": "http://www.seirsanduk.us/cartoon-network-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "CITY TV",  
-"image": "https://www.seirsanduk.com/images/tvlogo/city-tv.png",  
-"url": "http://www.seirsanduk.us/city-tv-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "CODE FASHION TV HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/code-fashion-tv-hd.png",  
-"url": "http://www.seirsanduk.us/hd-code-fashion-tv-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "DIEMA FAMILY",  
-"image": "https://www.seirsanduk.com/images/tvlogo/diema-family.png",  
-"url": "http://www.seirsanduk.us/diema-family-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "DIEMA SPORT HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/diema-sport-hd.png",  
-"url": "http://www.seirsanduk.us/hd-diema-sport-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "DIEMA SPORT 2 HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/diema-sport-2-hd.png",  
-"url": "http://www.seirsanduk.us/hd-diema-sport-2-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "DIEMA",  
-"image": "https://www.seirsanduk.com/images/tvlogo/diema.png",  
-"url": "http://www.seirsanduk.us/diema-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "DISCOVERY CHANNEL HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/discovery-channel-hd.png",  
-"url": "http://www.seirsanduk.us/hd-discovery-channel-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPIC DRAMA HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/epic-drama-hd.png",  
-"url": "http://www.seirsanduk.us/hd-epic-drama-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "EUROSPORT 1 HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/eurosport-1-hd.png",  
-"url": "http://www.seirsanduk.us/hd-eurosport-1-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "EUROSPORT 2 HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/eurosport-2-hd.png",  
-"url": "http://www.seirsanduk.us/hd-eurosport-2-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "EVROKOM",  
-"image": "https://www.seirsanduk.com/images/tvlogo/evrokom.png",  
-"url": "http://www.seirsanduk.us/evrokom-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FOLKLOR TV",  
-"image": "https://www.seirsanduk.com/images/tvlogo/folklor-tv.png",  
-"url": "http://www.seirsanduk.us/folklor-tv-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FOOD NETWORK HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/food-network-hd.png",  
-"url": "http://www.seirsanduk.us/hd-food-network-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FOX CRIME HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/fox-crime-hd.png",  
-"url": "http://www.seirsanduk.us/hd-fox-crime-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FOX HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/fox-hd.png",  
-"url": "http://www.seirsanduk.us/hd-fox-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FOX LIFE HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/fox-life-hd.png",  
-"url": "http://www.seirsanduk.us/hd-fox-life-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "ID XTRA HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/id-xtra-hd.png",  
-"url": "http://www.seirsanduk.us/hd-id-xtra-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "KINO NOVA",  
-"image": "https://www.seirsanduk.com/images/tvlogo/kino-nova.png",  
-"url": "http://www.seirsanduk.us/kino-nova-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "MAX SPORT 1 HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/max-sport-1-hd.png",  
-"url": "http://www.seirsanduk.us/hd-max-sport-1-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "MAX SPORT 2 HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/max-sport-2-hd.png",  
-"url": "http://www.seirsanduk.us/hd-max-sport-2-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "MAX SPORT 3 HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/max-sport-3-hd.png",  
-"url": "http://www.seirsanduk.us/hd-max-sport-3-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "MAX SPORT 4 HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/max-sport-4-hd.png",  
-"url": "http://www.seirsanduk.us/hd-max-sport-4-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "NAT GEO HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/nat-geo-hd.png",  
-"url": "http://www.seirsanduk.us/hd-nat-geo-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "NAT GEO WILD HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/nat-geo-wild-hd.png",  
-"url": "http://www.seirsanduk.us/hd-nat-geo-wild-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "NOVA SPORT HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/nova-sport-hd.png",  
-"url": "http://www.seirsanduk.us/hd-nova-sport-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "PLANETA FOLK",  
-"image": "https://www.seirsanduk.com/images/tvlogo/planeta-folk.png",  
-"url": "http://www.seirsanduk.us/planeta-folk-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "PLANETA HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/planeta-hd.png",  
-"url": "http://www.seirsanduk.us/hd-planeta-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "RING BG SPORTS HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/ring-bg-hd.png",  
-"url": "http://www.seirsanduk.us/hd-ring-bg-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "RODINA TV",  
-"image": "https://www.seirsanduk.com/images/tvlogo/rodina-tv.png",  
-"url": "http://www.seirsanduk.us/rodina-tv-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "78 TV HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/78-tv-hd.png",  
-"url": "http://www.seirsanduk.us/hd-78-tv-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "SKAT",  
-"image": "https://www.seirsanduk.com/images/tvlogo/skat.png",  
-"url": "http://www.seirsanduk.us/skat-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "THE VOICE",  
-"image": "https://www.seirsanduk.com/images/tvlogo/the-voice.png",  
-"url": "http://www.seirsanduk.us/the-voice-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "TIANKOV TV",  
-"image": "https://www.seirsanduk.com/images/tvlogo/tiankov-tv.png",  
-"url": "http://www.seirsanduk.us/tiankov-tv-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "TLC",  
-"image": "https://www.seirsanduk.com/images/tvlogo/tlc.png",  
-"url": "http://www.seirsanduk.us/tlc-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "TRAVEL CHANNEL HD",  
-"image": "https://www.seirsanduk.com/images/tvlogo/travel-channel-hd.png",  
-"url": "http://www.seirsanduk.us/hd-travel-channel-hd-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "TRAVEL TV",  
-"image": "https://www.seirsanduk.com/images/tvlogo/travel-tv.png",  
-"url": "http://www.seirsanduk.us/travel-tv-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "TV 1",  
-"image": "https://www.seirsanduk.com/images/tvlogo/tv-1.png",  
-"url": "http://www.seirsanduk.us/tv-1-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "TV EVROPA",  
-"image": "https://www.seirsanduk.com/images/tvlogo/tv-evropa.png",  
-"url": "http://www.seirsanduk.us/tv-evropa-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "VTK",  
-"image": "https://www.seirsanduk.com/images/tvlogo/vtk.png",  
-"url": "http://www.seirsanduk.us/vtk-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "ALFA TV",  
-"image": "https://www.seirsanduk.com/images/tvlogo/alfa-tv.png",  
-"url": "http://www.seirsanduk.us/alfa-tv-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "AXN",  
-"image": "https://www.seirsanduk.com/images/tvlogo/axn.png",  
-"url": "http://www.seirsanduk.us/axn-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "BLOOMBERG TV",  
-"image": "https://www.seirsanduk.com/images/tvlogo/bloomberg-tv.png",  
-"url": "http://www.seirsanduk.us/bloomberg-tv-online",
-"referer": "https://www.seirsanduk.com/",
-"playInNatPlayer": "true"
-},
+
+
+
+
+
+
 
 ]
         },
