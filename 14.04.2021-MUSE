@@ -28,10 +28,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "ESPN1",  
-"image": "https://freelive365.com/img/flags/ESPN1.png",  
-"url": "https://freelive365.com/player6.php?id=1&code=1&evento=TV%20|%20%20DEPORTES%20%20LATINO",
-"referer": "https://freelive365.com/",
+"name": "fox-sports-en-vivo",  
+"image": "https://i.ytimg.com/vi/i5-LzWm0ISw/maxresdefault.jpg",  
+"url": "https://www.extremotvplay.com/fox-sports-en-vivo.php",
+"referer": "https://www.extremotvplay.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -59,7 +59,7 @@
 "name": "DIRECTV-2",  
 "image": "https://freelive365.com/img/flags/DIRECTV%202.png",  
 "url": "https://freelive365.com/player6.php?id=1&code=5&evento=TV%20|%20%20DEPORTES%20%20LATINO",
-"referer": "https://freelive365.com/",
+"referer": "https://www.extremotvplay.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -80,7 +80,7 @@
 "name": "espn-en-vivo 3",  
 "image": "https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es",  
 "url": "https://www.extremotvplay.com/espn-3-en-vivo.php",
-"referer": "https://freelive365.com/",
+"referer": "https://www.extremotvplay.com/",
 "playInNatPlayer": "true"
 },
 {
