@@ -28,17 +28,17 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "tennies-1",  
-"image": "",  
+"name": "ESPN1",  
+"image": "https://freelive365.com/img/flags/ESPN1.png",  
 "url": "https://freelive365.com/player6.php?id=1&code=1&evento=TV%20|%20%20DEPORTES%20%20LATINO",
-"referer": "",
+"referer": "https://freelive365.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "tennies",  
-"image": "",  
-"url": "https://www.vivoplay.sigue.la/p/bx-espn-2.html",
-"referer": "",
+"name": "ESPN2",  
+"image": "https://freelive365.com/img/flags/ESPN2.png",  
+"url": "https://freelive365.com/player6.php?id=1&code=2&evento=TV%20|%20%20DEPORTES%20%20LATINO",
+"referer": "https://freelive365.com/",
 "playInNatPlayer": "true"
 },
 {
