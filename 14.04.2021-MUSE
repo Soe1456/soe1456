@@ -42,30 +42,82 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "ESPN3",  
+"image": "https://freelive365.com/img/flags/ESPN3.png",  
+"url": "https://freelive365.com/player6.php?id=1&code=3&evento=TV%20|%20%20DEPORTES%20%20LATINO",
+"referer": "https://freelive365.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "DIRECTV-1",  
+"image": "https://freelive365.com/img/flags/DIRECTV%201.png",  
+"url": "https://freelive365.com/player6.php?id=1&code=4&evento=TV%20|%20%20DEPORTES%20%20LATINO",
+"referer": "https://freelive365.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "DIRECTV-2",  
+"image": "https://freelive365.com/img/flags/DIRECTV%202.png",  
+"url": "https://freelive365.com/player6.php?id=1&code=5&evento=TV%20|%20%20DEPORTES%20%20LATINO",
+"referer": "https://freelive365.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://freelive365.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "",  
 "image": "",  
 "url": "",
-"referer": "",
+"referer": "https://freelive365.com/",
 "playInNatPlayer": "true"
 },
-
-
-
-
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://freelive365.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://freelive365.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://freelive365.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://freelive365.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://freelive365.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "https://freelive365.com/",
+"playInNatPlayer": "true"
+},
 
 
 
