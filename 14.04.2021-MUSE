@@ -42,9 +42,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "ESPN3",  
-"image": "https://freelive365.com/img/flags/ESPN3.png",  
-"url": "https://freelive365.com/player6.php?id=1&code=3&evento=TV%20|%20%20DEPORTES%20%20LATINO",
+"name": "test1",  
+"image": "",  
+"url": "http://www.totalsportek.tv/watch/sport-tv-1/",
 "referer": "https://freelive365.com/",
 "playInNatPlayer": "true"
 },
