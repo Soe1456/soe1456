@@ -35,9 +35,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "ESPN2",  
-"image": "https://freelive365.com/img/flags/ESPN2.png",  
-"url": "https://freelive365.com/player6.php?id=1&code=2&evento=TV%20|%20%20DEPORTES%20%20LATINO",
+"name": "test",  
+"image": "",  
+"url": "http://online2.futbol/bt-sport-2-gb/",
 "referer": "https://freelive365.com/",
 "playInNatPlayer": "true"
 },
