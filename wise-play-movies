@@ -642,10 +642,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "test",  
-"image": "",  
+"name": "ซาโยนาระ (1957)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1622189343_xcxcx.jpg",  
 "url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Sayonara_1957/T.mp4/index.m3u8?st=lguhnX1r50aW041IAXN0CA&e=1622869566&u=AllMovie",
-"referer": "",
+"referer": "https://cache-movie.all-movie.tv/",
 "playInNatPlayer": "true"
 },
 {
