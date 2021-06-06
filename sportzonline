@@ -22,14 +22,14 @@
 },        
 {
 "name": "TF1 (France)",  
-"image": "https://doo2you.com/icon/SPORTTV1.png",  
+"image": "http://www.freeintertv.com/modules/Main/image/tf1.jpg",  
 "url": "http://www.freeintertv.com/view/id-264/1-1-0-28",
 "referer": "http://www.freeintertv.com/",
 "playInNatPlayer": "true"
 },        
 {
 "name": "SPORT TV 2",  
-"image": "https://doo2you.com/icon/SPORTTV2.png",  
+"image": "",  
 "url": "https://v3.sportzonline.to/channels/pt/sporttv2.php",
 "referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
