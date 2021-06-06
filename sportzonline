@@ -119,10 +119,10 @@
 "playInNatPlayer": "true"
 },                         
 {
-"name": "TEST",  
-"image": "",  
-"url": "https://ustvgo.tv/bravo-channel-live-free/",
-"referer": "",
+"name": "TENNIS: ROLAND GARROS",  
+"image": "http://yrsprts.stream/img/1sport.png",  
+"url": "http://yrsprts.stream/live?v=tennis",
+"referer": "http://yrsprts.stream/",
 "playInNatPlayer": "true"
 },                
 {
