@@ -28,10 +28,10 @@
 "playInNatPlayer": "true"
 },        
 {
-"name": "SPORT TV 2",  
-"image": "",  
-"url": "https://v3.sportzonline.to/channels/pt/sporttv2.php",
-"referer": "https://v3.sportzonline.to/",
+"name": "M6 en direct",  
+"image": "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/a/a6/M6_logo.svg/150px-M6_logo.svg.png",  
+"url": "https://www.tntendirect.com/M6-en-direct",
+"referer": "https://www.tntendirect.com/",
 "playInNatPlayer": "true"
 },                
 {
