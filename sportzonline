@@ -30,14 +30,14 @@
 {
 "name": "TF1 (France)-BACKUP",  
 "image": "http://www.freeintertv.com/modules/Main/image/tf1.jpg",  
-"url": "https://www.tntendirect.com/TF1-en-direct",
+"url": "https://s6.tntendirect.com/m6/live/chunks.m3u8?nimblesessionid=18226044&wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjEgNjoyOTo0MyBBTSZoYXNoX3ZhbHVlPXB3TXJEc1RiMk5XZWErR3lMWEtOUWc9PSZ2YWxpZG1pbnV0ZXM9MzA=",
 "referer": "https://www.tntendirect.com/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "M6 en direct",  
 "image": "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/a/a6/M6_logo.svg/150px-M6_logo.svg.png",  
-"url": "https://www.tntendirect.com/M6-en-direct",
+"url": "https://s6.tntendirect.com/m6/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjEgNjoyOTo0MyBBTSZoYXNoX3ZhbHVlPXB3TXJEc1RiMk5XZWErR3lMWEtOUWc9PSZ2YWxpZG1pbnV0ZXM9MzA=",
 "referer": "https://www.tntendirect.com/",
 "playInNatPlayer": "true"
 },                
