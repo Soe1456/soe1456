@@ -64,29 +64,29 @@
 },                
 {
 "name": "RTSH-1",  
-"image": "https://rtsh-tv.s3.eu-central-1.amazonaws.com/698abd1e20c54a799b58adc401df56a0_202010050920.svg",  
-"url": "https://h2wfk2b4toeiwg244ciokdsbp4--tv-rtsh-al.translate.goog/kanalet/rtsh-1",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1280px-RTSH_1_HD_%282020_Logo%29.svg.png",  
+"url": "http://edge01eu.ekranet.com/rtshhd_low/index.m3u8",
 "referer": "https://h2wfk2b4toeiwg244ciokdsbp4--tv-rtsh-al.translate.goog/",
 "playInNatPlayer": "true"
 },        
 {
 "name": "RTSH-1-backup",  
-"image": "https://rtsh-tv.s3.eu-central-1.amazonaws.com/698abd1e20c54a799b58adc401df56a0_202010050920.svg",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/436px-RTSH_1_HD_%282020_Logo%29.svg.png",  
 "url": "https://tvlive.rtsh.dev/live/rtsh_1mob_pp2/playlist.m3u8",
 "referer": "https://h2wfk2b4toeiwg244ciokdsbp4--tv-rtsh-al.translate.goog/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "RTSH-2",  
-"image": "https://mrfixitstips.co.uk/wp-content/uploads/2018/12/MRF2018_JuventusvInter.jpg",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RTSH_2_HD_%282020_Logo%29.svg/1920px-RTSH_2_HD_%282020_Logo%29.svg.png",  
 "url": "https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8",
 "referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
 {
-"name": "Chelsea vs Leicester City (23-15)",  
-"image": "https://mrfixitstips.co.uk/wp-content/uploads/2018/12/MRF2018_ChelseavLeicester.jpg",  
-"url": "https://v7.sportzonline.to/channels/hd/hd1.php",
+"name": "RTSH-3",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/RTSH_3_%282020_Logo%29.svg/1200px-RTSH_3_%282020_Logo%29.svg.png",  
+"url": "https://tvlive.rtsh.dev/live/rtsh3ott/playlist.m3u8",
 "referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
