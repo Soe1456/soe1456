@@ -35,17 +35,17 @@
 "playInNatPlayer": "true"
 },                
 {
-"name": "SPORT TV 3",  
-"image": "https://doo2you.com/icon/SPORTTV3.png",  
-"url": "https://v3.sportzonline.to/channels/pt/sporttv3.php",
-"referer": "https://v3.sportzonline.to/",
+"name": "M6 en direct-BACKUP",  
+"image": "https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/f/ff/M6_logo_2020.svg/200px-M6_logo_2020.svg.png",  
+"url": "https://s6.tntendirect.com:443/m6/live/chunks.m3u8?nimblesessionid=18225968&wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjEgNjoyOTo0MyBBTSZoYXNoX3ZhbHVlPXB3TXJEc1RiMk5XZWErR3lMWEtOUWc9PSZ2YWxpZG1pbnV0ZXM9MzA=",
+"referer": "https://www.tntendirect.com/",
 "playInNatPlayer": "true"
 },                
 {
-"name": "SPORT TV 4",  
-"image": "https://doo2you.com/icon/SPORTTV4.png",  
-"url": "https://v3.sportzonline.to/channels/pt/sporttv4.php",
-"referer": "https://v3.sportzonline.to/",
+"name": "TF1 (France)-BACKUP",  
+"image": "http://www.freeintertv.com/modules/Main/image/tf1.jpg",  
+"url": "https://www.tntendirect.com/TF1-en-direct",
+"referer": "https://www.tntendirect.com/",
 "playInNatPlayer": "true"
 },                
 {
