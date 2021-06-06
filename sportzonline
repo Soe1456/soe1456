@@ -63,17 +63,17 @@
 "playInNatPlayer": "true"
 },                
 {
-"name": "BT-SPORT-2",  
-"image": "https://i0.wp.com/analystrelations.org/wp-content/uploads/2019/03/BTLogoForTag.jpg?resize=250%2C250&ssl=1",  
-"url": "https://v7.sportzonline.to/channels/hd/hd1.php",
-"referer": "https://v3.sportzonline.to/",
+"name": "RTSH-1",  
+"image": "https://rtsh-tv.s3.eu-central-1.amazonaws.com/698abd1e20c54a799b58adc401df56a0_202010050920.svg",  
+"url": "https://h2wfk2b4toeiwg244ciokdsbp4--tv-rtsh-al.translate.goog/kanalet/rtsh-1",
+"referer": "https://h2wfk2b4toeiwg244ciokdsbp4--tv-rtsh-al.translate.goog/",
 "playInNatPlayer": "true"
 },        
 {
-"name": "Bein-Sport-HD",  
-"image": "https://image.winudf.com/v2/image/Y29tLndCZWluc3BvcnRIRElQVFZfNjI4MDAxMl9zY3JlZW5fMl8xNTE3ODg3MDQ4XzAzMw/screen-2.jpg?fakeurl=1&type=.jpg",  
-"url": "https://v7.sportzonline.to/channels/hd/hd5.php",
-"referer": "https://v3.sportzonline.to/",
+"name": "RTSH-1-backup",  
+"image": "https://rtsh-tv.s3.eu-central-1.amazonaws.com/698abd1e20c54a799b58adc401df56a0_202010050920.svg",  
+"url": "https://tvlive.rtsh.dev/live/rtsh_1mob_pp2/playlist.m3u8",
+"referer": "https://h2wfk2b4toeiwg244ciokdsbp4--tv-rtsh-al.translate.goog/",
 "playInNatPlayer": "true"
 },                
 {
