@@ -26,7 +26,14 @@
 "url": "https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
 "referer": "http://www.freeintertv.com/",
 "playInNatPlayer": "true"
-},        
+},
+{
+"name": "TF1 (France)-BACKUP",  
+"image": "http://www.freeintertv.com/modules/Main/image/tf1.jpg",  
+"url": "https://www.tntendirect.com/TF1-en-direct",
+"referer": "https://www.tntendirect.com/",
+"playInNatPlayer": "true"
+},                
 {
 "name": "M6 en direct",  
 "image": "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/a/a6/M6_logo.svg/150px-M6_logo.svg.png",  
@@ -42,17 +49,10 @@
 "playInNatPlayer": "true"
 },                
 {
-"name": "TF1 (France)-BACKUP",  
-"image": "http://www.freeintertv.com/modules/Main/image/tf1.jpg",  
-"url": "https://www.tntendirect.com/TF1-en-direct",
-"referer": "https://www.tntendirect.com/",
-"playInNatPlayer": "true"
-},                
-{
-"name": "SPORT TV 5",  
-"image": "https://doo2you.com/icon/SPORTTV5.png",  
+"name": "RTSH",  
+"image": "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/6/6e/RTSH_%E2%80%93_Radio_Televizioni_Shqiptar_%282020_Logo%29.svg/230px-RTSH_%E2%80%93_Radio_Televizioni_Shqiptar_%282020_Logo%29.svg.png",  
 "url": "https://v3.sportzonline.to/channels/pt/sporttv5.php",
-"referer": "https://v3.sportzonline.to/",
+"referer": "http://www.freeintertv.com/",
 "playInNatPlayer": "true"
 },                
 {
