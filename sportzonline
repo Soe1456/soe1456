@@ -37,14 +37,14 @@
 {
 "name": "M6 en direct",  
 "image": "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/a/a6/M6_logo.svg/150px-M6_logo.svg.png",  
-"url": "https://s6.tntendirect.com/m6/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjEgNjoyOTo0MyBBTSZoYXNoX3ZhbHVlPXB3TXJEc1RiMk5XZWErR3lMWEtOUWc9PSZ2YWxpZG1pbnV0ZXM9MzA=",
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=http://channelstream.club/stream/m6.php",
 "referer": "https://www.tntendirect.com/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "M6 en direct-BACKUP",  
 "image": "https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/f/ff/M6_logo_2020.svg/200px-M6_logo_2020.svg.png",  
-"url": "https://s6.tntendirect.com:443/m6/live/chunks.m3u8?nimblesessionid=18225968&wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjEgNjoyOTo0MyBBTSZoYXNoX3ZhbHVlPXB3TXJEc1RiMk5XZWErR3lMWEtOUWc9PSZ2YWxpZG1pbnV0ZXM9MzA=",
+"url": "http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01-ustreamyx.php?iframe=https://ustreamix.to/stream.php?id=m6-france",
 "referer": "https://www.tntendirect.com/",
 "playInNatPlayer": "true"
 },                
