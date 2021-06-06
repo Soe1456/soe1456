@@ -77,9 +77,9 @@
 "playInNatPlayer": "true"
 },                
 {
-"name": "Juventus vs Internazionale-23-00",  
+"name": "RTSH-2",  
 "image": "https://mrfixitstips.co.uk/wp-content/uploads/2018/12/MRF2018_JuventusvInter.jpg",  
-"url": "https://v7.sportzonline.to/channels/hd/hd5.php",
+"url": "https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8",
 "referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
@@ -93,7 +93,7 @@
 {
 "name": "Chelsea vs Leicester City (23-15)",  
 "image": "https://mrfixitstips.co.uk/wp-content/uploads/2018/12/MRF2018_ChelseavLeicester.jpg",  
-"url": "https://v7.sportzonline.to/channels/bra/br3.php",
+"url": "https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8",
 "referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
