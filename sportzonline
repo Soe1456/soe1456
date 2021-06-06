@@ -8,7 +8,7 @@
  
 {
         "name": "MUSE-TV",
-        "image": "https://cdn.dribbble.com/users/31664/screenshots/2430133/recycle-2.gif",
+        "image": "https://cdn.dribbble.com/users/954572/screenshots/10071086/media/3f31ea2666aea9f9b44c788245be57d1.gif",
         "URL": "",
         "stations": [
         
@@ -91,16 +91,16 @@
 "playInNatPlayer": "true"
 },                
 {
-"name": "Chelsea vs Leicester City (23-15)",  
-"image": "https://mrfixitstips.co.uk/wp-content/uploads/2018/12/MRF2018_ChelseavLeicester.jpg",  
-"url": "https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8",
+"name": "1 TV Live",  
+"image": "https://wwitv.com/tvlogos/b5553.jpg",  
+"url": "http://livetvland.com/tv/live/1-tv",
 "referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
 {
 "name": "",  
 "image": "",  
-"url": "",
+"url": "http://livetvland.com/tv/live/1-tv",
 "referer": "https://v3.sportzonline.to/",
 "playInNatPlayer": "true"
 },                
