@@ -23,7 +23,7 @@
 {
 "name": "TF1 (France)",  
 "image": "http://www.freeintertv.com/modules/Main/image/tf1.jpg",  
-"url": "http://www.freeintertv.com/view/id-264/1-1-0-28",
+"url": "https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
 "referer": "http://www.freeintertv.com/",
 "playInNatPlayer": "true"
 },        
