@@ -1,13 +1,13 @@
 {
-       "name": "🎥sportzonline TV🎞️",
+       "name": "🎥EURO 2020🎞️",
        "author": "MUSE",
        "url": "http://tiny.cc/musesportzonline",
-       "image": "https://www.desicomments.com/graphics/welcome/22.gif",
+       "image": "https://cdn.dribbble.com/users/954572/screenshots/10071086/media/3f31ea2666aea9f9b44c788245be57d1.gif",
        "groups": [
  
  
 {
-        "name": "Bnt TV",
+        "name": "MUSE-TV",
         "image": "https://cdn.dribbble.com/users/31664/screenshots/2430133/recycle-2.gif",
         "URL": "",
         "stations": [
@@ -21,10 +21,10 @@
 "playInNatPlayer": "true"
 },        
 {
-"name": "SPORT TV 1",  
+"name": "TF1 (France)",  
 "image": "https://doo2you.com/icon/SPORTTV1.png",  
-"url": "https://v3.sportzonline.to/channels/pt/sporttv1.php",
-"referer": "https://v3.sportzonline.to/",
+"url": "http://www.freeintertv.com/view/id-264/1-1-0-28",
+"referer": "http://www.freeintertv.com/",
 "playInNatPlayer": "true"
 },        
 {
