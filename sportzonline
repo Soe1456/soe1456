@@ -201,7 +201,14 @@
 "url": "https://www.rctiplus.com/tv/inews",
 "referer": "https://www.rctiplus.com/",
 "playInNatPlayer": "true"
-},                     
+},
+{
+"name": "iNews-backup",  
+"image": "https://sd.sindonews.net/video/2015/img/inews-new.png",  
+"url": "https://video.sindonews.com/tv/inewstv",
+"referer": "",
+"playInNatPlayer": "true"
+},     
 {
 "name": "rcti",  
 "image": "https://cdn-production-thumbor-vidio.akamaized.net/gioBk__lZno7V3_Cp0XAE4NUHuc=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg",  
@@ -216,13 +223,7 @@
 "referer": "https://www.vidio.com/live/",
 "playInNatPlayer": "true"
 },                                               
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},                
+           
 {
 "name": "",  
 "image": "",  
