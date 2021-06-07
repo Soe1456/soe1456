@@ -161,7 +161,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "rcti",  
+"name": "rcti-backup",  
 "image": "https://sd.sindonews.net/video/2015/img/logo-rcti.png",  
 "url": "https://video.sindonews.com/tv/rcti",
 "referer": "https://video.sindonews.com/",
@@ -175,7 +175,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "mnctv",  
+"name": "mnctv-backup",  
 "image": "https://sd.sindonews.net/video/2015/img/logo-mnc.png",  
 "url": "https://video.sindonews.com/tv/mnctv",
 "referer": "https://video.sindonews.com/",
@@ -187,7 +187,14 @@
 "url": "https://www.rctiplus.com/tv/gtv",
 "referer": "https://www.rctiplus.com/",
 "playInNatPlayer": "true"
-},                
+},
+{
+"name": "GTV-backup",  
+"image": "https://sd.sindonews.net/video/2015/img/gtv.png",  
+"url": "https://video.sindonews.com/tv/gtv",
+"referer": "https://video.sindonews.com/",
+"playInNatPlayer": "true"
+},            
 {
 "name": "inews",  
 "image": "https://cdn-production-thumbor-vidio.akamaized.net/qxdGgm-5lY5NBnMIkrTashjf6Hk=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg",  
@@ -208,15 +215,7 @@
 "url": "https://www.vidio.com/live/870-mnc",
 "referer": "https://www.vidio.com/live/",
 "playInNatPlayer": "true"
-},                                 
-            
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},                          
+},                                               
 {
 "name": "",  
 "image": "",  
