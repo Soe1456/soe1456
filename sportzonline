@@ -246,9 +246,9 @@
 "playInNatPlayer": "true"
 },                    
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "ANT1",  
+"image": "https://camo.githubusercontent.com/9d808d574fe185493a4c2df1faf52366f7dcfff6b09ce63d143f64789171a522/68747470733a2f2f692e696d6775722e636f6d2f6e70307331464e2e706e67",  
+"url": "https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8",
 "referer": "",
 "playInNatPlayer": "true"
 },                
