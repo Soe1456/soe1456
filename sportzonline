@@ -196,10 +196,10 @@
 "playInNatPlayer": "true"
 },                
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "rcti",  
+"image": "https://sd.sindonews.net/video/2015/img/logo-rcti.png",  
+"url": "https://video.sindonews.com/tv/rcti",
+"referer": "https://video.sindonews.com/",
 "playInNatPlayer": "true"
 },                     
 {
