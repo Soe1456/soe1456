@@ -240,9 +240,9 @@
 },                
 {
 "name": "ABC-TEST",  
-"image": "",  
+"image": "https://i.dlpng.com/static/png/6437215_preview.png",  
 "url": "https://www.ustream.to/live/abc-tv/6d36ec05642cd9b3ddd4ddbce67edddd",
-"referer": "",
+"referer": "https://www.ustream.to/index.html",
 "playInNatPlayer": "true"
 },                    
 {
