@@ -154,10 +154,10 @@
 "playInNatPlayer": "true"
 },                
 {
-"name": "test",  
-"image": "",  
-"url": "https://www.streamonsport.info/4500-regarder-u.-espanola-antofagasta-streaming-en-direct.html",
-"referer": "",
+"name": "rcti",  
+"image": "https://www.rctiplus.com/assets/image/elements/svg/logo-RCTI.svg",  
+"url": "https://www.rctiplus.com/tv/rcti",
+"referer": "https://www.rctiplus.com/",
 "playInNatPlayer": "true"
 },                     
 {
