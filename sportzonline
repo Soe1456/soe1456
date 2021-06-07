@@ -30,7 +30,7 @@
 {
 "name": "TF1 (France)-BACKUP",  
 "image": "http://www.freeintertv.com/modules/Main/image/tf1.jpg",  
-"url": "https://s6.tntendirect.com/m6/live/chunks.m3u8?nimblesessionid=18226044&wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjEgNjoyOTo0MyBBTSZoYXNoX3ZhbHVlPXB3TXJEc1RiMk5XZWErR3lMWEtOUWc9PSZ2YWxpZG1pbnV0ZXM9MzA=",
+"url": "https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
 "referer": "https://www.tntendirect.com/",
 "playInNatPlayer": "true"
 },                
