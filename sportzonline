@@ -225,17 +225,17 @@
 },                                               
            
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "ESPN-US",  
+"image": "https://espnpressroom.com/us/files/2019/02/espn.png",  
+"url": "https://gma2.blab.email/fs2.m3u8",
 "referer": "",
 "playInNatPlayer": "true"
 },                     
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "ESPN-US-BACKUP",  
+"image": "https://espnpressroom.com/us/files/2019/02/espn.png",  
+"url": "https://www.ustream.to/stream.php?id=espn#",
+"referer": "https://www.ustream.to/",
 "playInNatPlayer": "true"
 },                
 {
