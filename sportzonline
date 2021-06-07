@@ -155,16 +155,16 @@
 },                
 {
 "name": "rcti",  
-"image": "https://www.rctiplus.com/assets/image/elements/svg/logo-RCTI.svg",  
+"image": "https://cdn-production-thumbor-vidio.akamaized.net/k88PV-h4iw1mVxHeJMoFcn6WLV4=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg",  
 "url": "https://www.rctiplus.com/tv/rcti",
 "referer": "https://www.rctiplus.com/",
 "playInNatPlayer": "true"
 },                     
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "mnctv",  
+"image": "https://www.mncvisionnetworks.com/timthumb.php?w=141&zc=3&src=/files/unit_categories/mnc-play.png",  
+"url": "https://www.rctiplus.com/tv/mnctv",
+"referer": "https://www.rctiplus.com/",
 "playInNatPlayer": "true"
 },                
 {
