@@ -159,7 +159,14 @@
 "url": "https://www.rctiplus.com/tv/rcti",
 "referer": "https://www.rctiplus.com/",
 "playInNatPlayer": "true"
-},                     
+},
+{
+"name": "rcti",  
+"image": "https://sd.sindonews.net/video/2015/img/logo-rcti.png",  
+"url": "https://video.sindonews.com/tv/rcti",
+"referer": "https://video.sindonews.com/",
+"playInNatPlayer": "true"
+},    
 {
 "name": "mnctv",  
 "image": "https://www.mncvisionnetworks.com/timthumb.php?w=141&zc=3&src=/files/unit_categories/mnc-play.png",  
@@ -194,19 +201,12 @@
 "url": "https://www.vidio.com/live/870-mnc",
 "referer": "https://www.vidio.com/live/",
 "playInNatPlayer": "true"
-},                
+},                                 
 {
-"name": "rcti",  
-"image": "https://sd.sindonews.net/video/2015/img/logo-rcti.png",  
-"url": "https://video.sindonews.com/tv/rcti",
+"name": "mnctv",  
+"image": "https://sd.sindonews.net/video/2015/img/logo-mnc.png",  
+"url": "https://video.sindonews.com/tv/mnctv",
 "referer": "https://video.sindonews.com/",
-"playInNatPlayer": "true"
-},                     
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
 "playInNatPlayer": "true"
 },                
 {
