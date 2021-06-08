@@ -258,60 +258,33 @@
 "referer": "https://freefeds.com/stream/",
 "playInNatPlayer": "true"
 }, 
-
-]
-        },
-
-
-		
-{
-			"name": "VTV-TV",
-			"image": "https://seeklogo.com/images/V/vtv-go-logo-D0949DCBB2-seeklogo.com.png",
-			"stations":[
-
-
 {
 "name": "VTV-1-HD",  
 "image": "https://img.hplus.com.vn/355x200/poster/2018/06/05/182139-VTV1.png",  
 "url": "https://vtv.vn/video/xot-xa-nong-san-thoi-dich-bi-do-bo-cho-bo-xoai-uc-re-nhu-cho-khong-ai-mua-504208.htm",
 "referer": "https://hplus.com.vn/",
 "playInNatPlayer": "true"
-},                
+},     
+
 {
-"name": "VTV-2-HD",  
-"image": "",  
-"url": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv3.htm",
-"referer": "",
-"playInNatPlayer": "true"
-},                    
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},                
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},                     
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},                
-{
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
-"playInNatPlayer": "true"
-},           
+        "name": "Importar-muse-mix-tv",
+        "image": "https://static.cognitoforms.com/content/support/assets/images/importing-icon-2e04b13d-9581-45e8-9fd8-9877c61e6aec-1c3c579-509x236.gif",
+        "groups":[
+	
+{"name": "TEST",
+	"image": "",
+	"url": "http://freestreams-live1.com/beins1frdirect/",
+	"import": false},
+
+
+{"name": "musetv",
+	"image": "",
+	"url": "",
+	"import": false},
+
+
+           
+
 
 
         
