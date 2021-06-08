@@ -253,9 +253,9 @@
 "playInNatPlayer": "true"
 },                
 {
-"name": "",  
+"name": "test",  
 "image": "",  
-"url": "",
+"url": "https://freefeds.com/stream/110825.html",
 "referer": "",
 "playInNatPlayer": "true"
 },                     
