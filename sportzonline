@@ -252,10 +252,10 @@
 "playInNatPlayer": "true"
 },   
 {
-"name": "test",  
-"image": "",  
+"name": "ESPN",  
+"image": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",  
 "url": "https://freefeds.com/stream/110825.html",
-"referer": "",
+"referer": "https://freefeds.com/stream/",
 "playInNatPlayer": "true"
 },                     
 {
