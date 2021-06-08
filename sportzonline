@@ -246,12 +246,60 @@
 },                    
 {
 "name": "ANT1",  
-"image": "",  
+"image": "https://antenna-group.com/wp-content/uploads/2020/03/04_ANT1-TV-1.jpg",  
 "url": "https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8",
 "referer": "",
 "playInNatPlayer": "true"
 },   
- 
+{
+"name": "test",  
+"image": "",  
+"url": "https://freefeds.com/stream/110825.html",
+"referer": "",
+"playInNatPlayer": "true"
+},                     
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},                
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},                    
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},                
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},                     
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},                
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},           
 
         
         
