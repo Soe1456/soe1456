@@ -216,7 +216,34 @@
 "referer": "https://www.vidio.com/live/",
 "playInNatPlayer": "true"
 },                
-
+{
+"name": "mnctv",  
+"image": "https://cdn-production-thumbor-vidio.akamaized.net/D4fhQdRMaUBB2JN2h0N4KbUauUw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg",  
+"url": "https://www.vidio.com/live/870-mnc",
+"referer": "https://www.vidio.com/live/",
+"playInNatPlayer": "true"
+},                                                          
+{
+"name": "ESPN-US",  
+"image": "https://espnpressroom.com/us/files/2019/02/espn.png",  
+"url": "https://gma2.blab.email/fs2.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},                     
+{
+"name": "ESPN-US-BACKUP",  
+"image": "https://espnpressroom.com/us/files/2019/02/espn.png",  
+"url": "https://www.ustream.to/stream.php?id=espn#",
+"referer": "https://www.ustream.to/",
+"playInNatPlayer": "true"
+},                
+{
+"name": "ABC-TEST",  
+"image": "https://i.dlpng.com/static/png/6437215_preview.png",  
+"url": "https://www.ustream.to/live/abc-tv/6d36ec05642cd9b3ddd4ddbce67edddd",
+"referer": "https://www.ustream.to/index.html",
+"playInNatPlayer": "true"
+},                    
 
  
 
