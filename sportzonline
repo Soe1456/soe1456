@@ -12,7 +12,26 @@
         "URL": "",
         "stations": [
         
-        
+
+{"name": "โปรแกรมฟุตบอล","image":"https://www.gifimili.com/gif/2018/07/sports-de-ballon.gif",  
+"url":"https://www.premierdream.com/program/",
+"embed": "true"},
+
+{"name": "TEST","image":"",  
+"url":"http://freestreams-live1.com/beins1frdirect/",
+"embed": "true"},
+
+{"name": "","image":"",  
+"url":"",
+"embed": "true"},
+
+
+
+
+]
+        },
+
+
 {
 "name": "youtube-fm99activeradio",  
 "image": "https://fm99activeradio.mcot.net/static/img/logofm99.png",  
@@ -265,23 +284,8 @@
 "referer": "https://hplus.com.vn/",
 "playInNatPlayer": "true"
 },     
-]
-        },
-{
-        "name": "Importar-muse-mix-tv",
-        "image": "https://static.cognitoforms.com/content/support/assets/images/importing-icon-2e04b13d-9581-45e8-9fd8-9877c61e6aec-1c3c579-509x236.gif",
-        "groups":[
-	
-{"name": "TEST",
-	"image": "",
-	"url": "http://freestreams-live1.com/beins1frdirect/",
-	"import": false},
 
 
-{"name": "musetv",
-	"image": "",
-	"url": "",
-	"import": false},
 
 
            
