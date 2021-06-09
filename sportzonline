@@ -306,11 +306,69 @@
 "referer": "https://hplus.com.vn/",
 "playInNatPlayer": "true"
 },     
-
-
-
-
-           
+{
+"name": "ORF1",  
+"image": "https://seeklogo.com/images/O/orf1-logo-F91BB63E3C-seeklogo.com.gif",  
+"url": "https://megawypas.com/readarticle.php?article_id=488",
+"referer": "https://megawypas.com/",
+"playInNatPlayer": "true"
+},     
+{
+"name": "ESPN USA",  
+"image": "https://archive.org/download/EspnUsa/espn%20usa.png",  
+"url": "https://megawypas.com/readarticle.php?article_id=141",
+"referer": "https://megawypas.com/",
+"playInNatPlayer": "true"
+},     
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},     
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},     
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},     
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},     
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},     
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},     
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},                
 
 
 
