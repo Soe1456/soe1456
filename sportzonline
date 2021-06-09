@@ -328,10 +328,10 @@
 "playInNatPlayer": "true"
 },     
 {
-"name": "TEST",  
-"image": "",  
+"name": "bt sport 1",  
+"image": "https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg/revision/latest?cb=20191227182531",  
 "url": "http://www.totalsportek.tv/watch/sports-hd8",
-"referer": "",
+"referer": "http://www.totalsportek.tv/",
 "playInNatPlayer": "true"
 },     
 {
@@ -355,8 +355,34 @@
 "referer": "",
 "playInNatPlayer": "true"
 },                
-
-
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},     
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},       
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},     
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},       
 
         
         
