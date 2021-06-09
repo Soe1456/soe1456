@@ -321,10 +321,10 @@
 "playInNatPlayer": "true"
 },     
 {
-"name": "inwiptv",  
-"image": "",  
-"url": "https://www.inwiptv.com/demo.php",
-"referer": "",
+"name": "skysportspremierleague",  
+"image": "https://cricfree.pw/assets/uploads/channels/skysportspremierleague.png",  
+"url": "https://cricfree.pw/sky-sports-premier-league-live-stream#live",
+"referer": "https://cricfree.pw/home02",
 "playInNatPlayer": "true"
 },     
 {
