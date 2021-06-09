@@ -328,9 +328,9 @@
 "playInNatPlayer": "true"
 },     
 {
-"name": "",  
+"name": "TEST",  
 "image": "",  
-"url": "",
+"url": "http://ftv.bg/en/getstream.php?id=303182&num=143772",
 "referer": "",
 "playInNatPlayer": "true"
 },     
