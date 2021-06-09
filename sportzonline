@@ -330,14 +330,14 @@
 {
 "name": "TEST",  
 "image": "",  
-"url": "http://ftv.bg/en/getstream.php?id=303182&num=143772",
+"url": "https://freefeds.com/stream/110921.html",
 "referer": "",
 "playInNatPlayer": "true"
 },     
 {
 "name": "TEST2",  
 "image": "",  
-"url": "https://www.ustream.to/stream.php?id=antena-stars-romania&token=0ce-bdb-4db-fa9-5b7-d79-952-640-5a8-226-27#",
+"url": "https://www.ustream.to/live/antena-1-romanesti/cf617b06961f0b35cfc2582012bf7496",
 "referer": "",
 "playInNatPlayer": "true"
 },     
