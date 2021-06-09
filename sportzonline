@@ -328,23 +328,23 @@
 "playInNatPlayer": "true"
 },     
 {
+"name": "TENIES",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTwRj0B2bEWvDlqnrUjLdXDLHJYQdDyT5EreJf_fyy2GGVG7JzpD2ETOD2cq3z5zSamU&usqp=CAU",  
+"url": "https://freefeds.com/stream/110921.html",
+"referer": "https://freefeds.com/",
+"playInNatPlayer": "true"
+},     
+{
+"name": "Antena 1 Romania",  
+"image": "https://static.wikia.nocookie.net/logopedia/images/f/f5/Antena_1_%281993%29.svg/revision/latest/scale-to-width-down/250?cb=20210411041910",  
+"url": "https://www.ustream.to/live/antena-1-romanesti/cf617b06961f0b35cfc2582012bf7496",
+"referer": "https://www.ustream.to/",
+"playInNatPlayer": "true"
+},     
+{
 "name": "TEST",  
 "image": "",  
-"url": "https://freefeds.com/stream/110921.html",
-"referer": "",
-"playInNatPlayer": "true"
-},     
-{
-"name": "TEST2",  
-"image": "",  
-"url": "https://www.ustream.to/live/antena-1-romanesti/cf617b06961f0b35cfc2582012bf7496",
-"referer": "",
-"playInNatPlayer": "true"
-},     
-{
-"name": "",  
-"image": "",  
-"url": "",
+"url": "https://sportsbay.org/watch/110939/1/wpc-day-4-session-1-live.html",
 "referer": "",
 "playInNatPlayer": "true"
 },     
