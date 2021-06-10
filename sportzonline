@@ -337,21 +337,21 @@
 {
 "name": "kvf",  
 "image": "https://kvf.fo/sites/all/themes/bootstrap_subtheme/logo.png",  
-"url": "https://kvf.fo/live/1",
+"url": "https://w1.kringvarp.fo/uttanlands/480/playlist.m3u8",
 "referer": "https://kvf.fo/",
 "playInNatPlayer": "true"
 },     
 {
-"name": "TEST",  
-"image": "",  
-"url": "https://etv.err.ee/",
+"name": "ERR",  
+"image": "https://play-lh.googleusercontent.com/ilJNG0CYSp44cIP0UVNnn8PfrVlrEjB7tJB_a0kuuuT8Y8WMBk3RfJfUIAH9zVuUMC0c",  
+"url": "https://sb.err.ee/live/etv.m3u8",
 "referer": "",
 "playInNatPlayer": "true"
 },     
 {
-"name": "gpb",  
-"image": "",  
-"url": "https://www.gpb.org/television/live#page=schedule&day=20210611&provider=Broadcast",
+"name": "GPB",  
+"image": "https://www.gpb.org/themes/custom/ga_forest/orchard/assets/images/icons/logo/gpb-logo.svg",  
+"url": "https://playback2.akamaized.net/streams/30060031_9303760_lsi49cx5xa72et2hwug_1/exp=1623435311~acl=%2f*~data=hdntl~hmac=55e9b2a854c0aa0e3027627d662c33b7d686a7c0d5fe5d231d8e68cf0559edd1/media/30060031_9303760_lsi49cx5xa72et2hwug_1@5256000p.m3u8?dw=80&ts=1623348000",
 "referer": "",
 "playInNatPlayer": "true"
 },                
