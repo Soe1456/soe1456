@@ -335,10 +335,10 @@
 "playInNatPlayer": "true"
 },     
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "kvf",  
+"image": "https://kvf.fo/sites/all/themes/bootstrap_subtheme/logo.png",  
+"url": "https://kvf.fo/live/1",
+"referer": "https://kvf.fo/",
 "playInNatPlayer": "true"
 },     
 {
