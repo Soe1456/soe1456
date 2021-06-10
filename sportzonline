@@ -370,9 +370,9 @@
 "playInNatPlayer": "true"
 },       
 {
-"name": "",  
+"name": "RTÉ",  
 "image": "",  
-"url": "",
+"url": "https://www.rte.ie/player/onnow",
 "referer": "",
 "playInNatPlayer": "true"
 },     
