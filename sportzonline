@@ -337,6 +337,13 @@
 {
 "name": "kvf",  
 "image": "https://kvf.fo/sites/all/themes/bootstrap_subtheme/logo.png",  
+"url": "https://w1.kringvarp.fo/uttanlands/_definst_/480/chunklist_w607541366.m3u8",
+"referer": "https://kvf.fo/",
+"playInNatPlayer": "true"
+},
+{
+"name": "kvf",  
+"image": "https://kvf.fo/sites/all/themes/bootstrap_subtheme/logo.png",  
 "url": "https://w1.kringvarp.fo/uttanlands/480/playlist.m3u8",
 "referer": "https://kvf.fo/",
 "playInNatPlayer": "true"
