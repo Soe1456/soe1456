@@ -366,7 +366,14 @@
 "name": "THE ORF",  
 "image": "https://atos.net/wp-content/uploads/2018/02/atos-orf-logo-e1518693971917.png",  
 "url": "https://tvthek.orf.at/live/ZIB-Flash-2155/14122972",
-"referer": "",
+"referer": "https://tvthek.orf.at/live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "THE ORF",  
+"image": "https://atos.net/wp-content/uploads/2018/02/atos-orf-logo-e1518693971917.png",  
+"url": "https://apasfiis.sf.apa.at/cms-worldwide_episodes_nas/_definst_/nas/cms-worldwide_episodes/online/14095118_0008_hr.smil/chunklist_b992000.m3u8",
+"referer": "https://tvthek.orf.at/live/",
 "playInNatPlayer": "true"
 },     
 {
@@ -390,13 +397,7 @@
 "referer": "",
 "playInNatPlayer": "true"
 },       
-{
-"name": "THE ORF",  
-"image": "",  
-"url": "https://apasfiis.sf.apa.at/cms-worldwide_episodes_nas/_definst_/nas/cms-worldwide_episodes/online/14095118_0008_hr.smil/chunklist_b992000.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},     
+
 {
 "name": "",  
 "image": "",  
