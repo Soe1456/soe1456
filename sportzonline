@@ -179,7 +179,14 @@
 "url": "https://rojadirectatv.pro/canal-31.php",
 "referer": "",
 "playInNatPlayer": "true"
-},                
+},
+{
+"name": "BBC 1 UK",  
+"image": "https://up.metropol247.co.uk/Maarten1/bbc-one_2.png",  
+"url": "https://megawypas.com/readarticle.php?article_id=307",
+"referer": "https://megawypas.com/",
+"playInNatPlayer": "true"
+},   
 {
 "name": "rcti",  
 "image": "https://cdn-production-thumbor-vidio.akamaized.net/k88PV-h4iw1mVxHeJMoFcn6WLV4=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg",  
@@ -383,13 +390,7 @@
 "referer": "",
 "playInNatPlayer": "true"
 },       
-{
-"name": "RTÉ",  
-"image": "",  
-"url": "https://www.rte.ie/player/onnow",
-"referer": "",
-"playInNatPlayer": "true"
-},     
+  
 {
 "name": "Reshet 13",  
 "image": "",  
