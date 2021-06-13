@@ -84,6 +84,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "LOOKPLUS Live",  
+"image": "https://lookplus.ro/wp-content/uploads/2020/10/LookSPORT.png",  
+"url": "https://lookplus.ro/lookplus-live/",
+"referer": "https://lookplus.ro/",
+"playInNatPlayer": "true"
+},
+{
 "name": "",  
 "image": "",  
 "url": "",
@@ -394,13 +401,6 @@
 "image": "https://img.digitalag.ro/?u=http%3A%2F%2Fantenastars.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2018%2F5%2F31%2F69209%2F15277756230c30af84.jpg",  
 "url": "https://www.ustream.to/live/antena-stars-romania/d41d8cd98f00b204e9800998ecf8427e",
 "referer": "https://www.ustream.to/index.html",
-"playInNatPlayer": "true"
-},
-{
-"name": "LOOKPLUS Live",  
-"image": "https://lookplus.ro/wp-content/uploads/2020/10/LookSPORT.png",  
-"url": "https://lookplus.ro/lookplus-live/",
-"referer": "https://lookplus.ro/",
 "playInNatPlayer": "true"
 },
 {
