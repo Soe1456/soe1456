@@ -376,23 +376,23 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Antena 1 Romania",  
+"image": "https://images-na.ssl-images-amazon.com/images/I/61qKq0A0jHL.png",  
+"url": "https://www.ustream.to/live/antena-1-romanesti/cf617b06961f0b35cfc2582012bf7496",
 "referer": "https://www.ustream.to/index.html",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Antena 3 Romania",  
+"image": "https://i.pinimg.com/originals/a3/22/70/a32270db4a6c4a5e4ad6ef7c30476c82.jpg",  
+"url": "https://www.ustream.to/live/antena-3-romania/f4297b79c7504a6dad1e78aeec5e6f64",
 "referer": "https://www.ustream.to/index.html",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "Antena Stars (Romania)",  
+"image": "https://images.capital.ro/wp-content/uploads/2019/10/antena-stars-1024x459.png",  
+"url": "https://www.ustream.to/live/antena-stars-romania/d41d8cd98f00b204e9800998ecf8427e",
 "referer": "https://www.ustream.to/index.html",
 "playInNatPlayer": "true"
 },
