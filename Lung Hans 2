@@ -409,8 +409,10 @@ https://cdn6.goprimetime.info/feed/LC8/index.m3u8
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-bbcearth.png",BBC earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeo.png",NAT GEOGRAPHIC EN
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeo.png",NAT GEOGRAPHIC IN
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeo.png",NAT GEOGRAPHIC UK
+http://cloudcdn.tk:80/KAKAmag410/XRSaND29/3561
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.tubefilter.com/wp-content/uploads/2017/07/pet-collective-yt-1400x825.jpg",the-pet-collective
 https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L._AC_UL600_SR600,600_.png",AKC TV
