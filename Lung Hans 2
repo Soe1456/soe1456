@@ -399,6 +399,8 @@ http://miarea.vip:8080/nena/nena/706?checkedby:iptvcat.com
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeowild.jpg",NAT GEO WILD FHD
 http://dimapro.cz:8080/00:1A:79:17:00:47/ziajdjjfdifjd64646/38637
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
+http://dimapro.cz:8080/00:1A:79:17:00:47/ziajdjjfdifjd64646/18511
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-history2.png",HISTORY2 HD
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/019f9a50258033.58cb840c2b144.jpg",Outdoor Channel
