@@ -419,6 +419,10 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_
 http://cloudcdn.tk:80/KAKAmag410/XRSaND29/3561
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeo.png",NAT GEOGRAPHIC EN
 http://dimapro.cz:8080/00:1A:79:17:00:47/ziajdjjfdifjd64646/38636
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://archive.org/download/investigation_discovery_xtra_hd/discovery_us_hd.png",Discovery HD
+http://46.4.119.218:8880/play/a05m
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.pinimg.com/originals/d8/50/10/d85010a83847e60e61e606ce9098e6d1.jpg",Discovery Channel
+http://46.4.119.218:8880/play/a05f
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.tubefilter.com/wp-content/uploads/2017/07/pet-collective-yt-1400x825.jpg",the-pet-collective
 https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L._AC_UL600_SR600,600_.png",AKC TV
