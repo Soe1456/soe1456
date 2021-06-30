@@ -397,10 +397,10 @@ http://securepoint.io:83/live/promo/promo/142614.ts?checkedby:iptvcat.com
 http://miarea.vip:8080/nena/nena/706?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeowild.jpg",NAT GEO WILD FHD
-http://dimapro.cz:8080/00:1A:79:17:00:47/ziajdjjfdifjd64646/38637
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeowild.jpg",NAT GEO WILD FHD DE
+http://mytv.fun:8080/morgan37825/johansson82711/6227
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
-http://dimapro.cz:8080/00:1A:79:17:00:47/ziajdjjfdifjd64646/18511
+http://mytv.fun:8080/morgan37825/johansson82711/9136
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-history2.png",HISTORY2 HD
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/019f9a50258033.58cb840c2b144.jpg",Outdoor Channel
@@ -415,10 +415,10 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeo.png",NAT GEOGRAPHIC IN
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeo.png",NAT GEOGRAPHIC UK
-http://cloudcdn.tk:80/KAKAmag410/XRSaND29/3561
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeo.png",NAT GEOGRAPHIC EN
-http://dimapro.cz:8080/00:1A:79:17:00:47/ziajdjjfdifjd64646/38636
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeo.png",NAT GEOGRAPHIC DE
+http://mytv.fun:8080/morgan37825/johansson82711/8194
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-natgeo.png",NAT GEOGRAPHIC DE
+http://mytv.fun:8080/morgan37825/johansson82711/6226
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://archive.org/download/investigation_discovery_xtra_hd/discovery_us_hd.png",Discovery HD
 http://46.4.119.218:8880/play/a05m
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.pinimg.com/originals/d8/50/10/d85010a83847e60e61e606ce9098e6d1.jpg",Discovery Channel
